@@ -23,7 +23,10 @@
     "donotaddh": {
       "inchi": "InChI=1S/O",
       "aux": "AuxInfo=1/0/N:1/rA:1nO0/rB:/rC:12,12,0;"
-    }
+    },
+    "inchikey_xhash1": "e014f429aafac730dc565eecf4ec4d2c4263e05c04ae2ef6",
+    "inchikey_xhash2": "80fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inchikey_merged": "InChIHash=XLYOFNOQVPJJNP-UHFFFAOYSA-N-e014f429aafac730dc565eecf4ec4d2c4263e05c04ae2ef6-80fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
     "id": "identity/methane",
@@ -49,7 +52,10 @@
     "donotaddh": {
       "inchi": "InChI=1S/C",
       "aux": "AuxInfo=1/0/N:1/rA:1nC0/rB:/rC:12,12,0;"
-    }
+    },
+    "inchikey_xhash1": "cec0fb586fcd9994364c98919d1465b60d59bfb10a075fa2",
+    "inchikey_xhash2": "80fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inchikey_merged": "InChIHash=VNWKTOKETHGBQD-UHFFFAOYSA-N-cec0fb586fcd9994364c98919d1465b60d59bfb10a075fa2-80fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
     "id": "identity/ammonia",
@@ -75,7 +81,10 @@
     "donotaddh": {
       "inchi": "InChI=1S/N",
       "aux": "AuxInfo=1/0/N:1/rA:1nN0/rB:/rC:12,12,0;"
-    }
+    },
+    "inchikey_xhash1": "b6b1b050ecc70c18f2ae7c28cbb7d1d1699259a20f3b15ab",
+    "inchikey_xhash2": "80fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inchikey_merged": "InChIHash=QGZKDVFQNNGYKY-UHFFFAOYSA-N-b6b1b050ecc70c18f2ae7c28cbb7d1d1699259a20f3b15ab-80fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
     "id": "identity/ethanol",
@@ -101,7 +110,10 @@
     "donotaddh": {
       "inchi": "InChI=1S/C2O/c1-2-3",
       "aux": "AuxInfo=1/0/N:1,2,3/CRV:1.1,2.2,3.1/rA:3nC1C2O1/rB:s1;s2;/rC:12,12,0;72,12,0;132,12,0;"
-    }
+    },
+    "inchikey_xhash1": "927893610b2ff8a34447c3689618fa5cf40f1168a5020451",
+    "inchikey_xhash2": "80fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inchikey_merged": "InChIHash=LFQSCWFLJHTTHZ-UHFFFAOYSA-N-927893610b2ff8a34447c3689618fa5cf40f1168a5020451-80fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
     "id": "identity/benzene",
@@ -127,7 +139,10 @@
     "donotaddh": {
       "inchi": "InChI=1S/C6/c1-2-4-6-5-3-1",
       "aux": "AuxInfo=1/0/N:1,2,6,3,5,4/E:(1,2,3,4,5,6)/CRV:1.3,2.3,3.3,4.3,5.3,6.3/rA:6nC3C3C3C3C3C3/rB:a1;a2;a3;a4;a1a5;/rC:12,18,0;72,23,0;132,23,0;192,23,0;252,23,0;312,18,0;"
-    }
+    },
+    "inchikey_xhash1": "622256f917d8c307b948d263e0ea925b163673d620068404",
+    "inchikey_xhash2": "80fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inchikey_merged": "InChIHash=UHOVQNZJYSORNB-UHFFFAOYSA-N-622256f917d8c307b948d263e0ea925b163673d620068404-80fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
     "id": "identity/cyclohexane",
@@ -153,7 +168,10 @@
     "donotaddh": {
       "inchi": "InChI=1S/C6/c1-2-4-6-5-3-1",
       "aux": "AuxInfo=1/0/N:1,2,6,3,5,4/E:(1,2,3,4,5,6)/CRV:1.2,2.2,3.2,4.2,5.2,6.2/rA:6nC2C2C2C2C2C2/rB:s1;s2;s3;s4;s1s5;/rC:12,18,0;72,23,0;132,23,0;192,23,0;252,23,0;312,18,0;"
-    }
+    },
+    "inchikey_xhash1": "6e0d81235157957f63be021b3fb4d979106eedf8e27ff9fd",
+    "inchikey_xhash2": "80fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inchikey_merged": "InChIHash=XDTMQSROBMDMFD-UHFFFAOYSA-N-6e0d81235157957f63be021b3fb4d979106eedf8e27ff9fd-80fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
     "id": "identity/naphthalene",
@@ -179,7 +197,10 @@
     "donotaddh": {
       "inchi": "InChI=1S/C10/c1-2-6-10-8-4-3-7-9(10)5-1",
       "aux": "AuxInfo=1/0/N:1,2,7,6,10,3,8,5,9,4/E:(1,2,3,4)(5,6,7,8)(9,10)/CRV:1.3,2.3,3.3,4.3,5.3,6.3,7.3,8.3/rA:10nC3C3C3CC3C3C3C3CC3/rB:a1;a2;a3;a4;a5;a6;a7;a4a8;a1a9;/rC:12,24,0;72,29,0;132,29,0;192,29,0;252,34,0;312,34,0;372,34,0;432,34,0;492,29,0;552,24,0;"
-    }
+    },
+    "inchikey_xhash1": "a89efdb773212264a929be6bb00f28e09fc35647d148a10a",
+    "inchikey_xhash2": "80fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inchikey_merged": "InChIHash=UFWIBTONFRDIAS-UHFFFAOYSA-N-a89efdb773212264a929be6bb00f28e09fc35647d148a10a-80fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
     "id": "identity/pyridine",
@@ -205,7 +226,10 @@
     "donotaddh": {
       "inchi": "InChI=1S/C5N/c1-2-4-6-5-3-1",
       "aux": "AuxInfo=1/0/N:1,2,6,3,5,4/E:(2,3)(4,5)/CRV:1.3,2.3,3.3,4.3,5.3/rA:6nC3C3C3NC3C3/rB:a1;a2;a3;a4;a1a5;/rC:12,18,0;72,23,0;132,23,0;192,23,0;252,23,0;312,18,0;"
-    }
+    },
+    "inchikey_xhash1": "bea56f5af2d0271b996e5715f6fdc50aa1084e79b00b23ce",
+    "inchikey_xhash2": "80fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inchikey_merged": "InChIHash=JUJWROOIHBZHMG-UHFFFAOYSA-N-bea56f5af2d0271b996e5715f6fdc50aa1084e79b00b23ce-80fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
     "id": "identity/furan",
@@ -231,7 +255,10 @@
     "donotaddh": {
       "inchi": "InChI=1S/C4O/c1-2-4-5-3-1",
       "aux": "AuxInfo=1/0/N:1,2,5,3,4/E:(1,2)(3,4)/CRV:1.3,2.3,3.3,4.3/rA:5nC3C3C3O2C3/rB:a1;a2;a3;a1a4;/rC:12,18,0;72,23,0;132,23,0;192,23,0;252,18,0;"
-    }
+    },
+    "inchikey_xhash1": "04fc26b0500d4986fcd5173cc046549563767292898f3792",
+    "inchikey_xhash2": "80fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inchikey_merged": "InChIHash=YLQBMQCUIZJEEH-UHFFFAOYSA-N-04fc26b0500d4986fcd5173cc046549563767292898f3792-80fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
     "id": "identity/ammonium",
@@ -257,7 +284,10 @@
     "donotaddh": {
       "inchi": "InChI=1S/N/q+1",
       "aux": "AuxInfo=1/0/N:1/rA:1nN0+/rB:/rC:12,12,0;"
-    }
+    },
+    "inchikey_xhash1": "b6b1b050ecc70c18f2ae7c28cbb7d1d1699259a20f3b15ab",
+    "inchikey_xhash2": "80fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inchikey_merged": "InChIHash=QGZKDVFQNNGYKY-UHFFFAOYSA-O-b6b1b050ecc70c18f2ae7c28cbb7d1d1699259a20f3b15ab-80fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
     "id": "identity/acetate",
@@ -283,7 +313,10 @@
     "donotaddh": {
       "inchi": "InChI=1S/C2HO2/c1-2(3)4/h(H,3,4)/p-1",
       "aux": "AuxInfo=1/1/N:1,2,3,4/E:(3,4)/CRV:1.1/rA:4nC1COO-/rB:s1;d2;s2;/rC:12,17,0;72,17,0;132,12,0;132,62,0;"
-    }
+    },
+    "inchikey_xhash1": "9212ba5e684ffed148401fdd284963a2145f04b3082d4139",
+    "inchikey_xhash2": "80fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inchikey_merged": "InChIHash=QTBSBXVTEAMEQO-UHFFFAOYSA-M-9212ba5e684ffed148401fdd284963a2145f04b3082d4139-80fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
     "id": "identity/hydroxide",
@@ -309,7 +342,10 @@
     "donotaddh": {
       "inchi": "InChI=1S/O/q-1",
       "aux": "AuxInfo=1/0/N:1/rA:1nO0-/rB:/rC:12,12,0;"
-    }
+    },
+    "inchikey_xhash1": "e014f429aafac730dc565eecf4ec4d2c4263e05c04ae2ef6",
+    "inchikey_xhash2": "80fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inchikey_merged": "InChIHash=XLYOFNOQVPJJNP-UHFFFAOYSA-M-e014f429aafac730dc565eecf4ec4d2c4263e05c04ae2ef6-80fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
     "id": "identity/d2o",
@@ -335,7 +371,10 @@
     "donotaddh": {
       "inchi": "InChI=1S/H2O/h1H2/i/hD2",
       "aux": "AuxInfo=1/1/N:2/rA:3nH.i2OH.i2/rB:s1;s2;/rC:12,12,0;72,12,0;132,12,0;"
-    }
+    },
+    "inchikey_xhash1": "e014f429aafac730dc565eecf4ec4d2c4263e05c04ae2ef6",
+    "inchikey_xhash2": "e04610d2595bf91403b8e7c915012d189ec70ec7522539442e03be1f",
+    "inchikey_merged": "InChIHash=XLYOFNOQVPJJNP-ZSJDYOACSA-N-e014f429aafac730dc565eecf4ec4d2c4263e05c04ae2ef6-e04610d2595bf91403b8e7c915012d189ec70ec7522539442e03be1f"
   },
   {
     "id": "identity/c13-methane",
@@ -361,7 +400,10 @@
     "donotaddh": {
       "inchi": "InChI=1S/C/i1+1",
       "aux": "AuxInfo=1/0/N:1/rA:1nC0i13/rB:/rC:12,12,0;"
-    }
+    },
+    "inchikey_xhash1": "cec0fb586fcd9994364c98919d1465b60d59bfb10a075fa2",
+    "inchikey_xhash2": "e030cb1cfe1d5f81ce46a332b07c4a0f0cb193226989cf8a39def54f",
+    "inchikey_merged": "InChIHash=VNWKTOKETHGBQD-OUBTZVSYSA-N-cec0fb586fcd9994364c98919d1465b60d59bfb10a075fa2-e030cb1cfe1d5f81ce46a332b07c4a0f0cb193226989cf8a39def54f"
   },
   {
     "id": "identity/l-alanine",
@@ -387,7 +429,10 @@
     "donotaddh": {
       "inchi": "InChI=1S/C3NO2/c1-2(4)3(5)6",
       "aux": "AuxInfo=1/0/N:3,2,4,1,5,6/E:(5,6)/CRV:1.1,2.3,4.1,6.1/rA:6nN1C3C1COO1/rB:n1;s2;s2;d4;s4;/rC:12,22,0;72,22,0;132,67,0;132,17,0;192,12,0;192,62,0;"
-    }
+    },
+    "inchikey_xhash1": "f01465954d159ff5cda3a26c05164b37cbe7c7c3b90884b7",
+    "inchikey_xhash2": "80aff356efc57d2069443a55fdfda7581fdd8c22b938f2de97fda2c0",
+    "inchikey_merged": "InChIHash=QNAYBMKLOCPYGJ-UWTATZPHSA-N-f01465954d159ff5cda3a26c05164b37cbe7c7c3b90884b7-80aff356efc57d2069443a55fdfda7581fdd8c22b938f2de97fda2c0"
   },
   {
     "id": "identity/d-alanine",
@@ -413,7 +458,10 @@
     "donotaddh": {
       "inchi": "InChI=1S/C3NO2/c1-2(4)3(5)6",
       "aux": "AuxInfo=1/0/N:3,2,4,1,5,6/E:(5,6)/CRV:1.1,2.3,4.1,6.1/rA:6nN1C3C1COO1/rB:p1;s2;s2;d4;s4;/rC:12,22,0;72,22,0;132,67,0;132,17,0;192,12,0;192,62,0;"
-    }
+    },
+    "inchikey_xhash1": "f01465954d159ff5cda3a26c05164b37cbe7c7c3b90884b7",
+    "inchikey_xhash2": "e0e3f975e9a688ca1c236dad7c661a017b37b3eca718799cb66e05bd",
+    "inchikey_merged": "InChIHash=QNAYBMKLOCPYGJ-REOHCLBHSA-N-f01465954d159ff5cda3a26c05164b37cbe7c7c3b90884b7-e0e3f975e9a688ca1c236dad7c661a017b37b3eca718799cb66e05bd"
   },
   {
     "id": "identity/e-2-butene",
@@ -491,7 +539,10 @@
     "donotaddh": {
       "inchi": "InChI=1S/C9O4/c1-6(10)13-8-5-3-2-4-7(8)9(11)12",
       "aux": "AuxInfo=1/0/N:1,8,7,9,6,2,10,5,11,3,12,13,4/E:(11,12)/CRV:1.1,2.3,3.3,4.3,5.3,12.1/rA:13nC1COOCC3C3C3C3CCOO1/rB:s1;d2;s2;s4;d5;s6;d7;s8;s5d9;s10;d11;s11;/rC:12,57,0;72,57,0;132,12,0;132,62,0;192,62,0;252,67,0;312,67,0;372,67,0;432,67,0;492,62,0;552,62,0;612,17,0;612,67,0;"
-    }
+    },
+    "inchikey_xhash1": "e471451dd226c270535c92de1b512af187367e0bb223435b",
+    "inchikey_xhash2": "80fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inchikey_merged": "InChIHash=BSYNRYMUTXBXSQ-UHFFFAOYSA-N-e471451dd226c270535c92de1b512af187367e0bb223435b-80fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
     "id": "identity/ibuprofen",
@@ -517,7 +568,10 @@
     "donotaddh": {
       "inchi": "InChI=1S/C13O2/c1-9(2)8-11-4-6-12(7-5-11)10(3)13(14)15",
       "aux": "AuxInfo=1/0/N:1,3,12,6,10,7,9,4,2,11,5,8,13,14,15/E:(1,2)(4,5)(6,7)(14,15)/CRV:1.1,2.1,3.1,4.3,5.3,6.3,7.3,8.2,9.3,10.3,15.1/rA:15nC1C3C1C2CC3C3CC3C3C3C1COO1/rB:s1;s2;s2;s4;a5;a6;a7;a8;a5a9;s8;s11;s11;d13;s13;/rC:12,122.5,0;72,122.5,0;132,77.5,0;132,127.5,0;192,127.5,0;252,102,0;312,102,0;372,102,0;432,107,0;492,127.5,0;432,57,0;492,12,0;492,62,0;552,17,0;552,67,0;"
-    }
+    },
+    "inchikey_xhash1": "c4263198649cdde8ad94d14afe3cad4c939b92026857562e",
+    "inchikey_xhash2": "80fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inchikey_merged": "InChIHash=HEFNNWSXXWATRW-UHFFFAOYSA-N-c4263198649cdde8ad94d14afe3cad4c939b92026857562e-80fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
     "id": "identity/paracetamol",
@@ -543,7 +597,10 @@
     "donotaddh": {
       "inchi": "InChI=1S/C8NO2/c1-6(10)9-7-2-4-8(11)5-3-7",
       "aux": "AuxInfo=1/0/N:1,6,11,7,10,2,5,8,4,3,9/E:(2,3)(4,5)/CRV:1.1,2.3,3.3,4.3,5.3,9.2,11.1/rA:11nC1CON2CC3C3CO1C3C3/rB:s1;d2;s2;s4;a5;a6;a7;s8;a8;a5a10;/rC:12,58,0;72,58,0;132,13,0;132,63,0;192,63,0;252,68,0;312,68,0;372,68,0;432,23,0;432,73,0;492,68,0;"
-    }
+    },
+    "inchikey_xhash1": "001c97e431e1702d4008c877743cf7df643d02a58b0d02f7",
+    "inchikey_xhash2": "80fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inchikey_merged": "InChIHash=RZVAJINKPMORJF-UHFFFAOYSA-N-001c97e431e1702d4008c877743cf7df643d02a58b0d02f7-80fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
     "id": "identity/caffeine",
@@ -569,7 +626,10 @@
     "donotaddh": {
       "inchi": "InChI=1S/C8N4O2/c1-10-4-9-6-5(10)7(13)12(3)8(14)11(6)2",
       "aux": "AuxInfo=1/0/N:1,14,10,3,6,5,7,11,4,2,13,9,8,12/CRV:1.1,2.1,3.1,4.3/rA:14nC1N3C3NCCC4ON3C1C4ON3C1/rB:s1;a2;a3;a4;a2a5;a6;d7;a7;s9;a9;d11;a5a11;s13;/rC:12,107,0;72,107,0;132,112,0;192,112,0;252,112,0;312,57,0;372,57,0;432,12,0;432,62,0;492,17,0;492,67,0;552,62,0;552,112,0;612,112,0;"
-    }
+    },
+    "inchikey_xhash1": "fc54587aeba61f6cbb12aa93f16abcda68d127ddfa60b4dc",
+    "inchikey_xhash2": "80fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inchikey_merged": "InChIHash=RYYVLZVUVIJVGH-UHFFFAOYSA-N-fc54587aeba61f6cbb12aa93f16abcda68d127ddfa60b4dc-80fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
     "id": "identity/glycine",
@@ -595,7 +655,10 @@
     "donotaddh": {
       "inchi": "InChI=1S/C2NO2/c3-1-2(4)5",
       "aux": "AuxInfo=1/0/N:2,3,1,4,5/E:(4,5)/CRV:1.2,3.1,5.1/rA:5nN1C2COO1/rB:s1;s2;d3;s3;/rC:12,17,0;72,17,0;132,17,0;192,12,0;192,62,0;"
-    }
+    },
+    "inchikey_xhash1": "6046a7dc400ca97a4f9364f9c7683ecd5f1ddb48722e57aa",
+    "inchikey_xhash2": "80fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inchikey_merged": "InChIHash=DHMQDGOQFOQNFH-UHFFFAOYSA-N-6046a7dc400ca97a4f9364f9c7683ecd5f1ddb48722e57aa-80fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
     "id": "identity/urea",
@@ -621,7 +684,10 @@
     "donotaddh": {
       "inchi": "InChI=1S/CN2O/c2-1(3)4",
       "aux": "AuxInfo=1/0/N:2,1,4,3/E:(2,3)/CRV:2.1,3.1/rA:4nN1CON1/rB:s1;d2;s2;/rC:12,17,0;72,17,0;132,12,0;132,62,0;"
-    }
+    },
+    "inchikey_xhash1": "c22547f16f141427e15be181d6b8bd3726503d8959bcedb7",
+    "inchikey_xhash2": "80fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inchikey_merged": "InChIHash=XSQUKJJJFZCRTK-UHFFFAOYSA-N-c22547f16f141427e15be181d6b8bd3726503d8959bcedb7-80fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
     "id": "identity/sulfuric-acid",
@@ -647,7 +713,10 @@
     "donotaddh": {
       "inchi": "InChI=1S/O4S/c1-5(2,3)4",
       "aux": "AuxInfo=1/0/N:1,3,4,5,2/E:(1,2,3,4)/CRV:1.1,3.1,4.1,5.5/rA:5nO1S5OO1O1/rB:s1;d2;s2;s2;/rC:12,19.5,0;72,19.5,0;142,62,0;142,112,0;142,12,0;"
-    }
+    },
+    "inchikey_xhash1": "806c759c2f0e7fbc7607cfa4d0f815a7d28e48c117d500c7",
+    "inchikey_xhash2": "80fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inchikey_merged": "InChIHash=YWOREDLFEYOMOK-UHFFFAOYSA-N-806c759c2f0e7fbc7607cfa4d0f815a7d28e48c117d500c7-80fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
     "id": "identity/phosphoric-acid",
@@ -673,7 +742,10 @@
     "donotaddh": {
       "inchi": "InChI=1S/O4P/c1-5(2,3)4",
       "aux": "AuxInfo=1/0/N:1,3,4,5,2/E:(1,2,3,4)/CRV:1.1,3.1,4.1/rA:5nO1POO1O1/rB:s1;d2;s2;s2;/rC:12,19.5,0;72,19.5,0;142,62,0;142,112,0;142,12,0;"
-    }
+    },
+    "inchikey_xhash1": "7c794407d3938d99672a422eabc002a1e59b8737cd4b7a53",
+    "inchikey_xhash2": "80fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inchikey_merged": "InChIHash=NBIIXXVUZAFLBC-UHFFFAOYSA-N-7c794407d3938d99672a422eabc002a1e59b8737cd4b7a53-80fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
     "id": "identity/sulfate-2",
@@ -701,7 +773,10 @@
     "donotaddh": {
       "inchi": "InChI=1S/O4S/c1-5(2,3)4/q-2",
       "aux": "AuxInfo=1/0/N:1,3,4,5,2/E:(1,2,3,4)/CRV:1-1,3.1,4-1,5.5/rA:5nO-S5OO1O-/rB:s1;d2;s2;s2;/rC:12,19.5,0;72,19.5,0;142,62,0;142,112,0;142,12,0;"
-    }
+    },
+    "inchikey_xhash1": "806c759c2f0e7fbc7607cfa4d0f815a7d28e48c117d500c7",
+    "inchikey_xhash2": "80fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inchikey_merged": "InChIHash=YWOREDLFEYOMOK-UHFFFAOYSA-L-806c759c2f0e7fbc7607cfa4d0f815a7d28e48c117d500c7-80fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
     "id": "identity/carbonate-2",
@@ -729,7 +804,10 @@
     "donotaddh": {
       "inchi": "InChI=1S/CH2O3/c2-1(3)4/h(H2,2,3,4)/p-2",
       "aux": "AuxInfo=1/1/N:2,1,3,4/E:(2,3,4)/rA:4nO-COO-/rB:s1;d2;s2;/rC:12,17,0;72,17,0;132,12,0;132,62,0;"
-    }
+    },
+    "inchikey_xhash1": "668ffa8be719814968d1da287e2f32304c5c9472445bdb6e",
+    "inchikey_xhash2": "80fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inchikey_merged": "InChIHash=BVKZGUZCCUSVTD-UHFFFAOYSA-L-668ffa8be719814968d1da287e2f32304c5c9472445bdb6e-80fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
     "id": "identity/bicarbonate",
