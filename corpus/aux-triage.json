@@ -68,116 +68,116 @@
     "recorded": "2026-10-31"
   },
   "identity/multi-magnesium-sulfate": {
-    "reason": "multi-component perception not yet ported (campaign unit #113) (aux side: multi-component/metal aux machinery not yet ported)",
-    "recorded": "2026-10-31"
+    "reason": "FixedH multi-component and metal: the /f block over the disconnected-metal and ion-lattice structures rides the per-component /f assembly (decode: the fixed-H formula absorbs the disconnected anions, the metal charge rides as the bare m); DoNotAddH aux tail: the rA atom echo under DoNotAddH reads its under-H state (the chem-valence digits: cisplatin ammine N1, phenoxide ring C3) - echo variant not yet ported",
+    "recorded": "2026-11-02"
   },
   "identity/multi-calcium-sulfate": {
-    "reason": "multi-component perception not yet ported (campaign unit #113) (aux side: multi-component/metal aux machinery not yet ported)",
-    "recorded": "2026-10-31"
+    "reason": "FixedH multi-component and metal: the /f block over the disconnected-metal and ion-lattice structures rides the per-component /f assembly (decode: the fixed-H formula absorbs the disconnected anions, the metal charge rides as the bare m); DoNotAddH aux tail: the rA atom echo under DoNotAddH reads its under-H state (the chem-valence digits: cisplatin ammine N1, phenoxide ring C3) - echo variant not yet ported",
+    "recorded": "2026-11-02"
   },
   "identity/multi-copper-sulfate": {
-    "reason": "multi-component perception not yet ported (campaign unit #113) (aux side: multi-component/metal aux machinery not yet ported)",
-    "recorded": "2026-10-31"
+    "reason": "FixedH multi-component and metal: the /f block over the disconnected-metal and ion-lattice structures rides the per-component /f assembly (decode: the fixed-H formula absorbs the disconnected anions, the metal charge rides as the bare m); DoNotAddH aux tail: the rA atom echo under DoNotAddH reads its under-H state (the chem-valence digits: cisplatin ammine N1, phenoxide ring C3) - echo variant not yet ported",
+    "recorded": "2026-11-02"
   },
   "identity/multi-iron-trichloride": {
-    "reason": "multi-component perception not yet ported (campaign unit #113) (aux side: multi-component/metal aux machinery not yet ported)",
-    "recorded": "2026-10-31"
+    "reason": "FixedH multi-component and metal: the /f block over the disconnected-metal and ion-lattice structures rides the per-component /f assembly (decode: the fixed-H formula absorbs the disconnected anions, the metal charge rides as the bare m)",
+    "recorded": "2026-11-02"
   },
   "identity/multi-lead-diiodide": {
-    "reason": "multi-component perception not yet ported (campaign unit #113) (aux side: multi-component/metal aux machinery not yet ported)",
-    "recorded": "2026-10-31"
+    "reason": "FixedH multi-component and metal: the /f block over the disconnected-metal and ion-lattice structures rides the per-component /f assembly (decode: the fixed-H formula absorbs the disconnected anions, the metal charge rides as the bare m)",
+    "recorded": "2026-11-02"
   },
   "identity/multi-zinc-oxide": {
     "reason": "multi-component perception not yet ported (campaign unit #113) (aux side: multi-component/metal aux machinery not yet ported)",
     "recorded": "2026-10-31"
   },
   "identity/multi-potassium-permanganate": {
-    "reason": "multi-component perception not yet ported (campaign unit #113) (aux side: multi-component/metal aux machinery not yet ported)",
-    "recorded": "2026-10-31"
+    "reason": "FixedH multi-component and metal: the /f block over the disconnected-metal and ion-lattice structures rides the per-component /f assembly (decode: the fixed-H formula absorbs the disconnected anions, the metal charge rides as the bare m); DoNotAddH aux tail: the rA atom echo under DoNotAddH reads its under-H state (the chem-valence digits: cisplatin ammine N1, phenoxide ring C3) - echo variant not yet ported",
+    "recorded": "2026-11-02"
   },
   "identity/multi-tetrabutylammonium-bromide": {
-    "reason": "multi-component perception not yet ported (campaign unit #113) (aux side: multi-component/metal aux machinery not yet ported)",
-    "recorded": "2026-10-31"
+    "reason": "FixedH multi-component and metal: the /f block over the disconnected-metal and ion-lattice structures rides the per-component /f assembly (decode: the fixed-H formula absorbs the disconnected anions, the metal charge rides as the bare m); DoNotAddH aux tail: the rA atom echo under DoNotAddH reads its under-H state (the chem-valence digits: cisplatin ammine N1, phenoxide ring C3) - echo variant not yet ported",
+    "recorded": "2026-11-02"
   },
   "identity/multi-sodium-citrate": {
-    "reason": "multi-component perception not yet ported (campaign unit #113) (aux side: multi-component/metal aux machinery not yet ported)",
-    "recorded": "2026-10-31"
+    "reason": "FixedH multi-component and metal: the /f block over the disconnected-metal and ion-lattice structures rides the per-component /f assembly (decode: the fixed-H formula absorbs the disconnected anions, the metal charge rides as the bare m); DoNotAddH aux tail: the rA atom echo under DoNotAddH reads its under-H state (the chem-valence digits: cisplatin ammine N1, phenoxide ring C3) - echo variant not yet ported",
+    "recorded": "2026-11-02"
   },
   "identity/multi-magnesium-sulfate-heptahydrate": {
-    "reason": "multi-component perception not yet ported (campaign unit #113) (aux side: multi-component/metal aux machinery not yet ported)",
-    "recorded": "2026-10-31"
+    "reason": "FixedH multi-component and metal: the /f block over the disconnected-metal and ion-lattice structures rides the per-component /f assembly (decode: the fixed-H formula absorbs the disconnected anions, the metal charge rides as the bare m); DoNotAddH aux tail: the rA atom echo under DoNotAddH reads its under-H state (the chem-valence digits: cisplatin ammine N1, phenoxide ring C3) - echo variant not yet ported",
+    "recorded": "2026-11-02"
   },
   "identity/multi-copper-sulfate-pentahydrate": {
-    "reason": "multi-component perception not yet ported (campaign unit #113) (aux side: multi-component/metal aux machinery not yet ported)",
-    "recorded": "2026-10-31"
+    "reason": "FixedH multi-component and metal: the /f block over the disconnected-metal and ion-lattice structures rides the per-component /f assembly (decode: the fixed-H formula absorbs the disconnected anions, the metal charge rides as the bare m); DoNotAddH aux tail: the rA atom echo under DoNotAddH reads its under-H state (the chem-valence digits: cisplatin ammine N1, phenoxide ring C3) - echo variant not yet ported",
+    "recorded": "2026-11-02"
   },
   "identity/multi-alum-dodecahydrate": {
-    "reason": "multi-component perception not yet ported (campaign unit #113) (aux side: multi-component/metal aux machinery not yet ported)",
-    "recorded": "2026-10-31"
+    "reason": "FixedH multi-component and metal: the /f block over the disconnected-metal and ion-lattice structures rides the per-component /f assembly (decode: the fixed-H formula absorbs the disconnected anions, the metal charge rides as the bare m); DoNotAddH aux tail: the rA atom echo under DoNotAddH reads its under-H state (the chem-valence digits: cisplatin ammine N1, phenoxide ring C3) - echo variant not yet ported",
+    "recorded": "2026-11-02"
   },
   "identity/multi-barium-chloride-dihydrate": {
-    "reason": "multi-component perception not yet ported (campaign unit #113) (aux side: multi-component/metal aux machinery not yet ported)",
-    "recorded": "2026-10-31"
+    "reason": "FixedH multi-component and metal: the /f block over the disconnected-metal and ion-lattice structures rides the per-component /f assembly (decode: the fixed-H formula absorbs the disconnected anions, the metal charge rides as the bare m); DoNotAddH aux tail: the rA atom echo under DoNotAddH reads its under-H state (the chem-valence digits: cisplatin ammine N1, phenoxide ring C3) - echo variant not yet ported",
+    "recorded": "2026-11-02"
   },
   "identity/multi-sodium-sulfate-decahydrate": {
-    "reason": "multi-component perception not yet ported (campaign unit #113) (aux side: multi-component/metal aux machinery not yet ported)",
-    "recorded": "2026-10-31"
+    "reason": "FixedH multi-component and metal: the /f block over the disconnected-metal and ion-lattice structures rides the per-component /f assembly (decode: the fixed-H formula absorbs the disconnected anions, the metal charge rides as the bare m); DoNotAddH aux tail: the rA atom echo under DoNotAddH reads its under-H state (the chem-valence digits: cisplatin ammine N1, phenoxide ring C3) - echo variant not yet ported",
+    "recorded": "2026-11-02"
   },
   "identity/metal-cisplatin": {
-    "reason": "metal perception (disconnect/reconnect) not yet ported (units #107+#113) (aux side: multi-component/metal aux machinery not yet ported)",
-    "recorded": "2026-10-31"
+    "reason": "FixedH multi-component and metal: the /f block over the disconnected-metal and ion-lattice structures rides the per-component /f assembly (decode: the fixed-H formula absorbs the disconnected anions, the metal charge rides as the bare m); DoNotAddH aux tail: the rA atom echo under DoNotAddH reads its under-H state (the chem-valence digits: cisplatin ammine N1, phenoxide ring C3) - echo variant not yet ported",
+    "recorded": "2026-11-02"
   },
   "identity/metal-palladium-dichloride": {
-    "reason": "metal perception (disconnect/reconnect) not yet ported (units #107+#113) (aux side: multi-component/metal aux machinery not yet ported)",
-    "recorded": "2026-10-31"
+    "reason": "FixedH multi-component and metal: the /f block over the disconnected-metal and ion-lattice structures rides the per-component /f assembly (decode: the fixed-H formula absorbs the disconnected anions, the metal charge rides as the bare m)",
+    "recorded": "2026-11-02"
   },
   "identity/metal-gold-trichloride": {
-    "reason": "metal perception (disconnect/reconnect) not yet ported (units #107+#113) (aux side: multi-component/metal aux machinery not yet ported)",
-    "recorded": "2026-10-31"
+    "reason": "FixedH multi-component and metal: the /f block over the disconnected-metal and ion-lattice structures rides the per-component /f assembly (decode: the fixed-H formula absorbs the disconnected anions, the metal charge rides as the bare m)",
+    "recorded": "2026-11-02"
   },
   "identity/metal-tin-tetrachloride": {
-    "reason": "metal perception (disconnect/reconnect) not yet ported (units #107+#113) (aux side: multi-component/metal aux machinery not yet ported)",
-    "recorded": "2026-10-31"
+    "reason": "FixedH multi-component and metal: the /f block over the disconnected-metal and ion-lattice structures rides the per-component /f assembly (decode: the fixed-H formula absorbs the disconnected anions, the metal charge rides as the bare m)",
+    "recorded": "2026-11-02"
   },
   "identity/metal-sodium-phenoxide-bonded": {
-    "reason": "metal perception (disconnect/reconnect) not yet ported (units #107+#113) (aux side: multi-component/metal aux machinery not yet ported)",
-    "recorded": "2026-10-31"
+    "reason": "FixedH multi-component and metal: the /f block over the disconnected-metal and ion-lattice structures rides the per-component /f assembly (decode: the fixed-H formula absorbs the disconnected anions, the metal charge rides as the bare m); DoNotAddH aux tail: the rA atom echo under DoNotAddH reads its under-H state (the chem-valence digits: cisplatin ammine N1, phenoxide ring C3) - echo variant not yet ported",
+    "recorded": "2026-11-02"
   },
   "identity/metal-sodium-acetate-bonded": {
-    "reason": "metal perception (disconnect/reconnect) not yet ported (units #107+#113) (aux side: multi-component/metal aux machinery not yet ported)",
-    "recorded": "2026-10-31"
+    "reason": "FixedH multi-component and metal: the /f block over the disconnected-metal and ion-lattice structures rides the per-component /f assembly (decode: the fixed-H formula absorbs the disconnected anions, the metal charge rides as the bare m); DoNotAddH aux tail: the rA atom echo under DoNotAddH reads its under-H state (the chem-valence digits: cisplatin ammine N1, phenoxide ring C3) - echo variant not yet ported",
+    "recorded": "2026-11-02"
   },
   "identity/metal-silver-nitrate-bonded": {
     "reason": "metal perception (disconnect/reconnect) not yet ported (units #107+#113) (aux side: multi-component/metal aux machinery not yet ported)",
     "recorded": "2026-10-31"
   },
   "identity/metal-methyl-lithium": {
-    "reason": "metal perception (disconnect/reconnect) not yet ported (units #107+#113) (aux side: multi-component/metal aux machinery not yet ported)",
-    "recorded": "2026-10-31"
+    "reason": "DoNotAddH aux tail: the rA atom echo under DoNotAddH reads its under-H state (the chem-valence digits: cisplatin ammine N1, phenoxide ring C3) - echo variant not yet ported",
+    "recorded": "2026-11-02"
   },
   "identity/metal-n-butyl-lithium": {
-    "reason": "metal perception (disconnect/reconnect) not yet ported (units #107+#113) (aux side: multi-component/metal aux machinery not yet ported)",
-    "recorded": "2026-10-31"
+    "reason": "DoNotAddH aux tail: the rA atom echo under DoNotAddH reads its under-H state (the chem-valence digits: cisplatin ammine N1, phenoxide ring C3) - echo variant not yet ported",
+    "recorded": "2026-11-02"
   },
   "identity/metal-ethyl-magnesium-bromide": {
-    "reason": "metal perception (disconnect/reconnect) not yet ported (units #107+#113) (aux side: multi-component/metal aux machinery not yet ported)",
-    "recorded": "2026-10-31"
+    "reason": "FixedH multi-component and metal: the /f block over the disconnected-metal and ion-lattice structures rides the per-component /f assembly (decode: the fixed-H formula absorbs the disconnected anions, the metal charge rides as the bare m); DoNotAddH aux tail: the rA atom echo under DoNotAddH reads its under-H state (the chem-valence digits: cisplatin ammine N1, phenoxide ring C3) - echo variant not yet ported",
+    "recorded": "2026-11-02"
   },
   "identity/metal-dimethyl-zinc": {
-    "reason": "metal perception (disconnect/reconnect) not yet ported (units #107+#113) (aux side: multi-component/metal aux machinery not yet ported)",
-    "recorded": "2026-10-31"
+    "reason": "DoNotAddH aux tail: the rA atom echo under DoNotAddH reads its under-H state (the chem-valence digits: cisplatin ammine N1, phenoxide ring C3) - echo variant not yet ported",
+    "recorded": "2026-11-02"
   },
   "identity/metal-trimethyl-aluminium": {
-    "reason": "metal perception (disconnect/reconnect) not yet ported (units #107+#113) (aux side: multi-component/metal aux machinery not yet ported)",
-    "recorded": "2026-10-31"
+    "reason": "DoNotAddH aux tail: the rA atom echo under DoNotAddH reads its under-H state (the chem-valence digits: cisplatin ammine N1, phenoxide ring C3) - echo variant not yet ported",
+    "recorded": "2026-11-02"
   },
   "identity/metal-sodium-diethylamide": {
-    "reason": "metal perception (disconnect/reconnect) not yet ported (units #107+#113) (aux side: multi-component/metal aux machinery not yet ported)",
-    "recorded": "2026-10-31"
+    "reason": "DoNotAddH aux tail: the rA atom echo under DoNotAddH reads its under-H state (the chem-valence digits: cisplatin ammine N1, phenoxide ring C3) - echo variant not yet ported",
+    "recorded": "2026-11-02"
   },
   "identity/metal-methyl-copper": {
-    "reason": "metal perception (disconnect/reconnect) not yet ported (units #107+#113) (aux side: multi-component/metal aux machinery not yet ported)",
-    "recorded": "2026-10-31"
+    "reason": "DoNotAddH aux tail: the rA atom echo under DoNotAddH reads its under-H state (the chem-valence digits: cisplatin ammine N1, phenoxide ring C3) - echo variant not yet ported",
+    "recorded": "2026-11-02"
   },
   "identity/multi-nacl": {
     "reason": "FixedH multi-component: the /f block and its aux /F: pass are single-component \u2014 the standard identifiers and aux lines PASS (retired); the FixedH mode rides the per-component /f assembly",
