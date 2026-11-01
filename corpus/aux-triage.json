@@ -67,58 +67,6 @@
     "reason": "aux tail: /E: full-automorphism orbits; norm salt bit (TEST_TAUT__SALTS_DONE/MERGE via BNS scan); CRV unusual valences via BNS integer bonds valence",
     "recorded": "2026-10-31"
   },
-  "identity/multi-nacl": {
-    "reason": "multi-component perception not yet ported (campaign unit #113) (aux side: multi-component/metal aux machinery not yet ported)",
-    "recorded": "2026-10-31"
-  },
-  "identity/multi-kcl": {
-    "reason": "multi-component perception not yet ported (campaign unit #113) (aux side: multi-component/metal aux machinery not yet ported)",
-    "recorded": "2026-10-31"
-  },
-  "identity/multi-sodium-hydroxide": {
-    "reason": "multi-component perception not yet ported (campaign unit #113) (aux side: multi-component/metal aux machinery not yet ported)",
-    "recorded": "2026-10-31"
-  },
-  "identity/multi-potassium-hydroxide": {
-    "reason": "multi-component perception not yet ported (campaign unit #113) (aux side: multi-component/metal aux machinery not yet ported)",
-    "recorded": "2026-10-31"
-  },
-  "identity/multi-sodium-acetate": {
-    "reason": "multi-component perception not yet ported (campaign unit #113) (aux side: multi-component/metal aux machinery not yet ported)",
-    "recorded": "2026-10-31"
-  },
-  "identity/multi-sodium-phenoxide": {
-    "reason": "multi-component perception not yet ported (campaign unit #113) (aux side: multi-component/metal aux machinery not yet ported)",
-    "recorded": "2026-10-31"
-  },
-  "identity/multi-sodium-benzoate": {
-    "reason": "multi-component perception not yet ported (campaign unit #113) (aux side: multi-component/metal aux machinery not yet ported)",
-    "recorded": "2026-10-31"
-  },
-  "identity/multi-potassium-benzoate": {
-    "reason": "multi-component perception not yet ported (campaign unit #113) (aux side: multi-component/metal aux machinery not yet ported)",
-    "recorded": "2026-10-31"
-  },
-  "identity/multi-ammonium-chloride": {
-    "reason": "multi-component perception not yet ported (campaign unit #113) (aux side: multi-component/metal aux machinery not yet ported)",
-    "recorded": "2026-10-31"
-  },
-  "identity/multi-ammonium-benzoate": {
-    "reason": "multi-component perception not yet ported (campaign unit #113) (aux side: multi-component/metal aux machinery not yet ported)",
-    "recorded": "2026-10-31"
-  },
-  "identity/multi-sodium-bicarbonate": {
-    "reason": "multi-component perception not yet ported (campaign unit #113) (aux side: multi-component/metal aux machinery not yet ported)",
-    "recorded": "2026-10-31"
-  },
-  "identity/multi-sodium-hydrogen-sulfate": {
-    "reason": "multi-component perception not yet ported (campaign unit #113) (aux side: multi-component/metal aux machinery not yet ported)",
-    "recorded": "2026-10-31"
-  },
-  "identity/multi-sodium-carbonate": {
-    "reason": "multi-component perception not yet ported (campaign unit #113) (aux side: multi-component/metal aux machinery not yet ported)",
-    "recorded": "2026-10-31"
-  },
   "identity/multi-magnesium-sulfate": {
     "reason": "multi-component perception not yet ported (campaign unit #113) (aux side: multi-component/metal aux machinery not yet ported)",
     "recorded": "2026-10-31"
@@ -139,15 +87,7 @@
     "reason": "multi-component perception not yet ported (campaign unit #113) (aux side: multi-component/metal aux machinery not yet ported)",
     "recorded": "2026-10-31"
   },
-  "identity/multi-silver-nitrate": {
-    "reason": "multi-component perception not yet ported (campaign unit #113) (aux side: multi-component/metal aux machinery not yet ported)",
-    "recorded": "2026-10-31"
-  },
   "identity/multi-zinc-oxide": {
-    "reason": "multi-component perception not yet ported (campaign unit #113) (aux side: multi-component/metal aux machinery not yet ported)",
-    "recorded": "2026-10-31"
-  },
-  "identity/multi-sodium-thiosulfate": {
     "reason": "multi-component perception not yet ported (campaign unit #113) (aux side: multi-component/metal aux machinery not yet ported)",
     "recorded": "2026-10-31"
   },
@@ -155,19 +95,7 @@
     "reason": "multi-component perception not yet ported (campaign unit #113) (aux side: multi-component/metal aux machinery not yet ported)",
     "recorded": "2026-10-31"
   },
-  "identity/multi-lithium-hexafluorophosphate": {
-    "reason": "multi-component perception not yet ported (campaign unit #113) (aux side: multi-component/metal aux machinery not yet ported)",
-    "recorded": "2026-10-31"
-  },
   "identity/multi-tetrabutylammonium-bromide": {
-    "reason": "multi-component perception not yet ported (campaign unit #113) (aux side: multi-component/metal aux machinery not yet ported)",
-    "recorded": "2026-10-31"
-  },
-  "identity/multi-sodium-dodecyl-sulfate": {
-    "reason": "multi-component perception not yet ported (campaign unit #113) (aux side: multi-component/metal aux machinery not yet ported)",
-    "recorded": "2026-10-31"
-  },
-  "identity/multi-ammonium-sulfate": {
     "reason": "multi-component perception not yet ported (campaign unit #113) (aux side: multi-component/metal aux machinery not yet ported)",
     "recorded": "2026-10-31"
   },
@@ -180,10 +108,6 @@
     "recorded": "2026-10-31"
   },
   "identity/multi-copper-sulfate-pentahydrate": {
-    "reason": "multi-component perception not yet ported (campaign unit #113) (aux side: multi-component/metal aux machinery not yet ported)",
-    "recorded": "2026-10-31"
-  },
-  "identity/multi-sodium-carbonate-decahydrate": {
     "reason": "multi-component perception not yet ported (campaign unit #113) (aux side: multi-component/metal aux machinery not yet ported)",
     "recorded": "2026-10-31"
   },
@@ -254,5 +178,81 @@
   "identity/metal-methyl-copper": {
     "reason": "metal perception (disconnect/reconnect) not yet ported (units #107+#113) (aux side: multi-component/metal aux machinery not yet ported)",
     "recorded": "2026-10-31"
+  },
+  "identity/multi-nacl": {
+    "reason": "FixedH multi-component: the /f block and its aux /F: pass are single-component \u2014 the standard identifiers and aux lines PASS (retired); the FixedH mode rides the per-component /f assembly",
+    "recorded": "2026-11-01"
+  },
+  "identity/multi-kcl": {
+    "reason": "FixedH multi-component: the /f block and its aux /F: pass are single-component \u2014 the standard identifiers and aux lines PASS (retired); the FixedH mode rides the per-component /f assembly",
+    "recorded": "2026-11-01"
+  },
+  "identity/multi-sodium-hydroxide": {
+    "reason": "FixedH multi-component: the /f block and its aux /F: pass are single-component \u2014 the standard identifiers and aux lines PASS (retired); the FixedH mode rides the per-component /f assembly",
+    "recorded": "2026-11-01"
+  },
+  "identity/multi-potassium-hydroxide": {
+    "reason": "FixedH multi-component: the /f block and its aux /F: pass are single-component \u2014 the standard identifiers and aux lines PASS (retired); the FixedH mode rides the per-component /f assembly",
+    "recorded": "2026-11-01"
+  },
+  "identity/multi-sodium-acetate": {
+    "reason": "FixedH multi-component: the /f block and its aux /F: pass are single-component \u2014 the standard identifiers and aux lines PASS (retired); the FixedH mode rides the per-component /f assembly",
+    "recorded": "2026-11-01"
+  },
+  "identity/multi-sodium-phenoxide": {
+    "reason": "FixedH multi-component: the /f block and its aux /F: pass are single-component \u2014 the standard identifiers and aux lines PASS (retired); the FixedH mode rides the per-component /f assembly",
+    "recorded": "2026-11-01"
+  },
+  "identity/multi-sodium-benzoate": {
+    "reason": "FixedH multi-component: the /f block and its aux /F: pass are single-component \u2014 the standard identifiers and aux lines PASS (retired); the FixedH mode rides the per-component /f assembly",
+    "recorded": "2026-11-01"
+  },
+  "identity/multi-potassium-benzoate": {
+    "reason": "FixedH multi-component: the /f block and its aux /F: pass are single-component \u2014 the standard identifiers and aux lines PASS (retired); the FixedH mode rides the per-component /f assembly",
+    "recorded": "2026-11-01"
+  },
+  "identity/multi-ammonium-chloride": {
+    "reason": "FixedH multi-component: the /f block and its aux /F: pass are single-component \u2014 the standard identifiers and aux lines PASS (retired); the FixedH mode rides the per-component /f assembly",
+    "recorded": "2026-11-01"
+  },
+  "identity/multi-ammonium-benzoate": {
+    "reason": "FixedH multi-component: the /f block and its aux /F: pass are single-component \u2014 the standard identifiers and aux lines PASS (retired); the FixedH mode rides the per-component /f assembly",
+    "recorded": "2026-11-01"
+  },
+  "identity/multi-sodium-bicarbonate": {
+    "reason": "FixedH multi-component: the /f block and its aux /F: pass are single-component \u2014 the standard identifiers and aux lines PASS (retired); the FixedH mode rides the per-component /f assembly",
+    "recorded": "2026-11-01"
+  },
+  "identity/multi-sodium-hydrogen-sulfate": {
+    "reason": "FixedH multi-component: the /f block and its aux /F: pass are single-component \u2014 the standard identifiers and aux lines PASS (retired); the FixedH mode rides the per-component /f assembly",
+    "recorded": "2026-11-01"
+  },
+  "identity/multi-sodium-carbonate": {
+    "reason": "FixedH multi-component: the /f block and its aux /F: pass are single-component \u2014 the standard identifiers and aux lines PASS (retired); the FixedH mode rides the per-component /f assembly",
+    "recorded": "2026-11-01"
+  },
+  "identity/multi-silver-nitrate": {
+    "reason": "FixedH multi-component: the /f block and its aux /F: pass are single-component \u2014 the standard identifiers and aux lines PASS (retired); the FixedH mode rides the per-component /f assembly",
+    "recorded": "2026-11-01"
+  },
+  "identity/multi-sodium-thiosulfate": {
+    "reason": "FixedH multi-component: the /f block and its aux /F: pass are single-component \u2014 the standard identifiers and aux lines PASS (retired); the FixedH mode rides the per-component /f assembly",
+    "recorded": "2026-11-01"
+  },
+  "identity/multi-lithium-hexafluorophosphate": {
+    "reason": "FixedH multi-component: the /f block and its aux /F: pass are single-component \u2014 the standard identifiers and aux lines PASS (retired); the FixedH mode rides the per-component /f assembly",
+    "recorded": "2026-11-01"
+  },
+  "identity/multi-sodium-dodecyl-sulfate": {
+    "reason": "FixedH multi-component: the /f block and its aux /F: pass are single-component \u2014 the standard identifiers and aux lines PASS (retired); the FixedH mode rides the per-component /f assembly",
+    "recorded": "2026-11-01"
+  },
+  "identity/multi-ammonium-sulfate": {
+    "reason": "FixedH multi-component: the /f block and its aux /F: pass are single-component \u2014 the standard identifiers and aux lines PASS (retired); the FixedH mode rides the per-component /f assembly",
+    "recorded": "2026-11-01"
+  },
+  "identity/multi-sodium-carbonate-decahydrate": {
+    "reason": "FixedH multi-component: the /f block and its aux /F: pass are single-component \u2014 the standard identifiers and aux lines PASS (retired); the FixedH mode rides the per-component /f assembly",
+    "recorded": "2026-11-01"
   }
 }
