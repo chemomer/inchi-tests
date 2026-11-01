@@ -21,6 +21,10 @@
     "snon": {
       "inchi": "InChI=1S/2ClH.2H2N.Pt/h2*1H;2*1H2;/q;;2*-1;+4/p-2",
       "aux": "AuxInfo=1/1/N:3;4;1;5;2/CRV:;;2*1-1;/rA:5nNPtClClN/rB:s1;s2;s2;s2;/rC:12,19.5,0;72,19.5,0;142,62,0;142,112,0;142,12,0;"
+    },
+    "donotaddh": {
+      "inchi": "InChI=1S/2ClH.2N.Pt/h2*1H;;;/q;;;;+2/p-2",
+      "aux": "AuxInfo=1/1/N:3;4;1;5;2/rA:5nN1PtClClN1/rB:s1;s2;s2;s2;/rC:12,19.5,0;72,19.5,0;142,62,0;142,112,0;142,12,0;"
     }
   },
   {
@@ -43,6 +47,10 @@
       "aux": "AuxInfo=1/1/N:1;3;2/rA:3nClPdCl/rB:s1;s2;/rC:12,12,0;72,12,0;132,12,0;"
     },
     "snon": {
+      "inchi": "InChI=1S/2ClH.Pd/h2*1H;/q;;+2/p-2",
+      "aux": "AuxInfo=1/1/N:1;3;2/rA:3nClPdCl/rB:s1;s2;/rC:12,12,0;72,12,0;132,12,0;"
+    },
+    "donotaddh": {
       "inchi": "InChI=1S/2ClH.Pd/h2*1H;/q;;+2/p-2",
       "aux": "AuxInfo=1/1/N:1;3;2/rA:3nClPdCl/rB:s1;s2;/rC:12,12,0;72,12,0;132,12,0;"
     }
@@ -69,6 +77,10 @@
     "snon": {
       "inchi": "InChI=1S/Au.3ClH/h;3*1H/q+3;;;/p-3",
       "aux": "AuxInfo=1/1/N:2;1;3;4/rA:4nClAuClCl/rB:s1;s2;s2;/rC:12,17,0;72,17,0;132,12,0;132,62,0;"
+    },
+    "donotaddh": {
+      "inchi": "InChI=1S/Au.3ClH/h;3*1H/q+3;;;/p-3",
+      "aux": "AuxInfo=1/1/N:2;1;3;4/rA:4nClAuClCl/rB:s1;s2;s2;/rC:12,17,0;72,17,0;132,12,0;132,62,0;"
     }
   },
   {
@@ -91,6 +103,10 @@
       "aux": "AuxInfo=1/1/N:1;3;4;5;2/rA:5nClSnClClCl/rB:s1;s2;s2;s2;/rC:12,19.5,0;72,19.5,0;142,62,0;142,112,0;142,12,0;"
     },
     "snon": {
+      "inchi": "InChI=1S/4ClH.Sn/h4*1H;/q;;;;+4/p-4",
+      "aux": "AuxInfo=1/1/N:1;3;4;5;2/rA:5nClSnClClCl/rB:s1;s2;s2;s2;/rC:12,19.5,0;72,19.5,0;142,62,0;142,112,0;142,12,0;"
+    },
+    "donotaddh": {
       "inchi": "InChI=1S/4ClH.Sn/h4*1H;/q;;;;+4/p-4",
       "aux": "AuxInfo=1/1/N:1;3;4;5;2/rA:5nClSnClClCl/rB:s1;s2;s2;s2;/rC:12,19.5,0;72,19.5,0;142,62,0;142,112,0;142,12,0;"
     }
@@ -117,6 +133,10 @@
     "snon": {
       "inchi": "InChI=1S/C6H6O.Na/c7-6-4-2-1-3-5-6;/h1-5,7H;/q;+1/p-1",
       "aux": "AuxInfo=1/1/N:6,5,7,4,8,3,2;1/E:(2,3)(4,5);/rA:8nNaOCCCCCC/rB:s1;s2;a3;a4;a5;a6;a3a7;/rC:12,18,0;72,18,0;132,18,0;192,23,0;252,23,0;312,23,0;372,23,0;432,18,0;"
+    },
+    "donotaddh": {
+      "inchi": "InChI=1S/C6HO.Na/c7-6-4-2-1-3-5-6;/h7H;/q;+1/p-1",
+      "aux": "AuxInfo=1/1/N:6,5,7,4,8,3,2;1/E:(2,3)(4,5);/CRV:1.3,2.3,3.3,4.3,5.3;/rA:8nNaOCC3C3C3C3C3/rB:s1;s2;a3;a4;a5;a6;a3a7;/rC:12,18,0;72,18,0;132,18,0;192,23,0;252,23,0;312,23,0;372,23,0;432,18,0;"
     }
   },
   {
@@ -141,6 +161,10 @@
     "snon": {
       "inchi": "InChI=1S/C2H4O2.Na/c1-2(3)4;/h1H3,(H,3,4);/q;+1/p-1",
       "aux": "AuxInfo=1/1/N:1,2,3,4;5/E:(3,4);/rA:5nCCOONa/rB:s1;d2;s2;s4;/rC:12,17,0;72,17,0;132,12,0;132,62,0;192,62,0;"
+    },
+    "donotaddh": {
+      "inchi": "InChI=1S/C2HO2.Na/c1-2(3)4;/h(H,3,4);/q;+1/p-1",
+      "aux": "AuxInfo=1/1/N:1,2,3,4;5/E:(3,4);/CRV:1.1;/rA:5nC1COONa/rB:s1;d2;s2;s4;/rC:12,17,0;72,17,0;132,12,0;132,62,0;192,62,0;"
     }
   },
   {
@@ -163,6 +187,10 @@
       "aux": "AuxInfo=1/0/N:5;2,1,3,4/E:;(2,3,4)/CRV:;1.5,4-1/rA:5nO-N+OOAg/rB:s1;d2;s2;s4;/rC:12,17,0;72,17,0;132,12,0;132,62,0;192,62,0;/R:/0/N:5,2,1,3,4/E:(3,4)/CRV:2.5"
     },
     "snon": {
+      "inchi": "InChI=1S/Ag.NO3/c;2-1(3)4/q+1;-1",
+      "aux": "AuxInfo=1/0/N:5;2,1,3,4/E:;(2,3,4)/CRV:;1.5,4-1/rA:5nO-N+OOAg/rB:s1;d2;s2;s4;/rC:12,17,0;72,17,0;132,12,0;132,62,0;192,62,0;"
+    },
+    "donotaddh": {
       "inchi": "InChI=1S/Ag.NO3/c;2-1(3)4/q+1;-1",
       "aux": "AuxInfo=1/0/N:5;2,1,3,4/E:;(2,3,4)/CRV:;1.5,4-1/rA:5nO-N+OOAg/rB:s1;d2;s2;s4;/rC:12,17,0;72,17,0;132,12,0;132,62,0;192,62,0;"
     }
@@ -189,6 +217,10 @@
     "snon": {
       "inchi": "InChI=1S/CH3.Li/h1H3;",
       "aux": "AuxInfo=1/0/N:1;2/CRV:1.3;/rA:2nCLi/rB:s1;/rC:12,12,0;72,12,0;"
+    },
+    "donotaddh": {
+      "inchi": "InChI=1S/C.Li",
+      "aux": "AuxInfo=1/0/N:1;2/rA:2nC1Li/rB:s1;/rC:12,12,0;72,12,0;"
     }
   },
   {
@@ -213,6 +245,10 @@
     "snon": {
       "inchi": "InChI=1S/C4H9.Li/c1-3-4-2;/h1,3-4H2,2H3;",
       "aux": "AuxInfo=1/0/N:4,1,3,2;5/CRV:1.3;/rA:5nCCCCLi/rB:s1;s2;s3;s4;/rC:12,12,0;72,12,0;132,12,0;192,12,0;252,12,0;"
+    },
+    "donotaddh": {
+      "inchi": "InChI=1S/C4.Li/c1-3-4-2;",
+      "aux": "AuxInfo=1/0/N:1,4,2,3;5/E:(1,2)(3,4);/CRV:1.1,2.1,3.2,4.2;/rA:5nC1C2C2C2Li/rB:s1;s2;s3;s4;/rC:12,12,0;72,12,0;132,12,0;192,12,0;252,12,0;"
     }
   },
   {
@@ -237,6 +273,10 @@
     "snon": {
       "inchi": "InChI=1S/C2H5.BrH.Mg/c1-2;;/h1H2,2H3;1H;/q;;+1/p-1",
       "aux": "AuxInfo=1/1/N:2,1;4;3/CRV:1.3;;/rA:4nCCMgBr/rB:s1;s2;s3;/rC:12,12,0;72,12,0;132,12,0;192,12,0;"
+    },
+    "donotaddh": {
+      "inchi": "InChI=1S/C2.BrH.Mg/c1-2;;/h;1H;/q;;+1/p-1",
+      "aux": "AuxInfo=1/1/N:1,2;4;3/E:(1,2);;/CRV:1.1,2.1;;/rA:4nC1C2MgBr/rB:s1;s2;s3;/rC:12,12,0;72,12,0;132,12,0;192,12,0;"
     }
   },
   {
@@ -261,6 +301,10 @@
     "snon": {
       "inchi": "InChI=1S/2CH3.Zn/h2*1H3;",
       "aux": "AuxInfo=1/0/N:1;3;2/CRV:2*1.3;/rA:3nCZnC/rB:s1;s2;/rC:12,12,0;72,12,0;132,12,0;"
+    },
+    "donotaddh": {
+      "inchi": "InChI=1S/2C.Zn",
+      "aux": "AuxInfo=1/0/N:1;3;2/rA:3nC1ZnC1/rB:s1;s2;/rC:12,12,0;72,12,0;132,12,0;"
     }
   },
   {
@@ -285,6 +329,10 @@
     "snon": {
       "inchi": "InChI=1S/3CH3.Al/h3*1H3;",
       "aux": "AuxInfo=1/0/N:1;3;4;2/CRV:3*1.3;/rA:4nCAlCC/rB:s1;s2;s2;/rC:12,17,0;72,17,0;132,12,0;132,62,0;"
+    },
+    "donotaddh": {
+      "inchi": "InChI=1S/3C.Al",
+      "aux": "AuxInfo=1/0/N:1;3;4;2/rA:4nC1AlC1C1/rB:s1;s2;s2;/rC:12,17,0;72,17,0;132,12,0;132,62,0;"
     }
   },
   {
@@ -309,6 +357,10 @@
     "snon": {
       "inchi": "InChI=1S/C4H10N.C2H5.Na/c1-3-5-4-2;1-2;/h3-4H2,1-2H3;1H2,2H3;/q-1;;+1",
       "aux": "AuxInfo=1/0/N:6,8,5,7,4;2,1;3/E:(1,2)(3,4);;/CRV:5-1;1.3;/rA:8nCCNa2NCCCC/rB:s1;s2;s3;s4;s5;s4;s7;/rC:12,17,0;72,17,0;132,17,0;192,17,0;252,12,0;312,12,0;252,62,0;312,62,0;"
+    },
+    "donotaddh": {
+      "inchi": "InChI=1S/C4N.C2.Na/c1-3-5-4-2;1-2;/q-1;;+1",
+      "aux": "AuxInfo=1/0/N:6,8,5,7,4;1,2;3/E:(1,2)(3,4);(1,2);/CRV:1.1,2.1,3.2,4.2,5-1;1.1,2.1;/rA:8nC1C2Na2NC2C1C2C1/rB:s1;s2;s3;s4;s5;s4;s7;/rC:12,17,0;72,17,0;132,17,0;192,17,0;252,12,0;312,12,0;252,62,0;312,62,0;"
     }
   },
   {
@@ -333,6 +385,10 @@
     "snon": {
       "inchi": "InChI=1S/CH3.Cu/h1H3;",
       "aux": "AuxInfo=1/0/N:1;2/CRV:1.3;/rA:2nCCu/rB:s1;/rC:12,12,0;72,12,0;"
+    },
+    "donotaddh": {
+      "inchi": "InChI=1S/C.Cu",
+      "aux": "AuxInfo=1/0/N:1;2/rA:2nC1Cu/rB:s1;/rC:12,12,0;72,12,0;"
     }
   }
 ]
