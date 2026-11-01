@@ -1,56 +1,4 @@
 {
-  "identity/multi-nacl": {
-    "reason": "multi-component perception not yet ported (campaign unit #113)",
-    "recorded": "2026-10-31"
-  },
-  "identity/multi-kcl": {
-    "reason": "multi-component perception not yet ported (campaign unit #113)",
-    "recorded": "2026-10-31"
-  },
-  "identity/multi-sodium-hydroxide": {
-    "reason": "multi-component perception not yet ported (campaign unit #113)",
-    "recorded": "2026-10-31"
-  },
-  "identity/multi-potassium-hydroxide": {
-    "reason": "multi-component perception not yet ported (campaign unit #113)",
-    "recorded": "2026-10-31"
-  },
-  "identity/multi-sodium-acetate": {
-    "reason": "multi-component perception not yet ported (campaign unit #113)",
-    "recorded": "2026-10-31"
-  },
-  "identity/multi-sodium-phenoxide": {
-    "reason": "multi-component perception not yet ported (campaign unit #113)",
-    "recorded": "2026-10-31"
-  },
-  "identity/multi-sodium-benzoate": {
-    "reason": "multi-component perception not yet ported (campaign unit #113)",
-    "recorded": "2026-10-31"
-  },
-  "identity/multi-potassium-benzoate": {
-    "reason": "multi-component perception not yet ported (campaign unit #113)",
-    "recorded": "2026-10-31"
-  },
-  "identity/multi-ammonium-chloride": {
-    "reason": "multi-component perception not yet ported (campaign unit #113)",
-    "recorded": "2026-10-31"
-  },
-  "identity/multi-ammonium-benzoate": {
-    "reason": "multi-component perception not yet ported (campaign unit #113)",
-    "recorded": "2026-10-31"
-  },
-  "identity/multi-sodium-bicarbonate": {
-    "reason": "multi-component perception not yet ported (campaign unit #113)",
-    "recorded": "2026-10-31"
-  },
-  "identity/multi-sodium-hydrogen-sulfate": {
-    "reason": "multi-component perception not yet ported (campaign unit #113)",
-    "recorded": "2026-10-31"
-  },
-  "identity/multi-sodium-carbonate": {
-    "reason": "multi-component perception not yet ported (campaign unit #113)",
-    "recorded": "2026-10-31"
-  },
   "identity/multi-magnesium-sulfate": {
     "reason": "multi-component perception not yet ported (campaign unit #113)",
     "recorded": "2026-10-31"
@@ -71,15 +19,7 @@
     "reason": "multi-component perception not yet ported (campaign unit #113)",
     "recorded": "2026-10-31"
   },
-  "identity/multi-silver-nitrate": {
-    "reason": "multi-component perception not yet ported (campaign unit #113)",
-    "recorded": "2026-10-31"
-  },
   "identity/multi-zinc-oxide": {
-    "reason": "multi-component perception not yet ported (campaign unit #113)",
-    "recorded": "2026-10-31"
-  },
-  "identity/multi-sodium-thiosulfate": {
     "reason": "multi-component perception not yet ported (campaign unit #113)",
     "recorded": "2026-10-31"
   },
@@ -87,19 +27,7 @@
     "reason": "multi-component perception not yet ported (campaign unit #113)",
     "recorded": "2026-10-31"
   },
-  "identity/multi-lithium-hexafluorophosphate": {
-    "reason": "multi-component perception not yet ported (campaign unit #113)",
-    "recorded": "2026-10-31"
-  },
   "identity/multi-tetrabutylammonium-bromide": {
-    "reason": "multi-component perception not yet ported (campaign unit #113)",
-    "recorded": "2026-10-31"
-  },
-  "identity/multi-sodium-dodecyl-sulfate": {
-    "reason": "multi-component perception not yet ported (campaign unit #113)",
-    "recorded": "2026-10-31"
-  },
-  "identity/multi-ammonium-sulfate": {
     "reason": "multi-component perception not yet ported (campaign unit #113)",
     "recorded": "2026-10-31"
   },
@@ -112,10 +40,6 @@
     "recorded": "2026-10-31"
   },
   "identity/multi-copper-sulfate-pentahydrate": {
-    "reason": "multi-component perception not yet ported (campaign unit #113)",
-    "recorded": "2026-10-31"
-  },
-  "identity/multi-sodium-carbonate-decahydrate": {
     "reason": "multi-component perception not yet ported (campaign unit #113)",
     "recorded": "2026-10-31"
   },
