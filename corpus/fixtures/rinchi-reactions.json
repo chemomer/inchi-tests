@@ -1,0 +1,526 @@
+[
+  {
+    "id": "rinchi/water-is-water",
+    "rxnfile": "$RXN\nwater-is-water\n  chemomer recording\n\n  1  1\n$MOL\n\n  AsciiChem\n\n  1  0  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\nM  END\n$MOL\n\n  AsciiChem\n\n  1  0  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\nM  END\n",
+    "rinchi": "RInChI=1.00.1S/H2O/h1H2<>H2O/h1H2/d+",
+    "rauxinfo": "RAuxInfo=1.00.1/0/N:1/rA:1nO/rB:/rC:12,12,0;<>0/N:1/rA:1nO/rB:/rC:12,12,0;",
+    "rinchikey": "SA-FUHFF-XLYOFNOQVP-XLYOFNOQVP-UHFFFADPSC-NUHFF-NUHFF-NUHFF-ZZZ",
+    "longKey": "SA-FUHFF-XLYOFNOQVPJJNP-UHFFFAOYSA-N--XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+    "webKey": "XLYOFNOQVPJJNPIXP-NUHFFFADPSCTJSA",
+    "components": [
+      {
+        "species": "water",
+        "inchi": "InChI=1S/H2O/h1H2",
+        "aux": "AuxInfo=1/0/N:1/rA:1nO/rB:/rC:12,12,0;",
+        "inchikey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N"
+      },
+      {
+        "species": "water",
+        "inchi": "InChI=1S/H2O/h1H2",
+        "aux": "AuxInfo=1/0/N:1/rA:1nO/rB:/rC:12,12,0;",
+        "inchikey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  {
+    "id": "rinchi/esterification",
+    "rxnfile": "$RXN\nesterification\n  chemomer recording\n\n  2  2\n$MOL\nacetic acid\n  chemomer\n\n  4  3  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   24.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   36.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   48.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  2  3  2  0\n  2  4  1  0\nM  END\n$MOL\n\n  AsciiChem\n\n  3  2  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n   72.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  132.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0  0  0  0  0  0  0  0\n  2  3  1  0  0  0  0  0  0  0  0\nM  END\n$MOL\nethyl acetate\n  chemomer\n\n  6  5  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   24.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   36.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   48.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   60.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   72.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  2  3  1  0\n  3  4  1  0\n  4  5  1  0\n  4  6  2  0\nM  END\n$MOL\n\n  AsciiChem\n\n  1  0  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\nM  END\n",
+    "rinchi": "RInChI=1.00.1S/C2H4O2/c1-2(3)4/h1H3,(H,3,4)!C2H6O/c1-2-3/h3H,2H2,1H3<>C4H8O2/c1-3-6-4(2)5/h3H2,1-2H3!H2O/h1H2/d+",
+    "rauxinfo": "RAuxInfo=1.00.1/1/N:1,2,3,4/E:(3,4)/rA:4nCCOO/rB:s1;d2;s2;/rC:12,12,0;24,12,0;36,12,0;48,12,0;!0/N:1,2,3/rA:3nCCO/rB:s1;s2;/rC:12,12,0;72,12,0;132,12,0;<>0/N:1,5,2,4,6,3/rA:6nCCOCCO/rB:s1;s2;s3;s4;d4;/rC:12,12,0;24,12,0;36,12,0;48,12,0;60,12,0;72,12,0;!0/N:1/rA:1nO/rB:/rC:12,12,0;",
+    "rinchikey": "SA-FUHFF-JJFIATRHOH-UDXZTNISGZ-UHFFFADPSC-NUHFF-NUHFF-NUHFF-ZZZ",
+    "longKey": "SA-FUHFF-QTBSBXVTEAMEQO-UHFFFAOYSA-N-LFQSCWFLJHTTHZ-UHFFFAOYSA-N--XEKOWRVHYACXOJ-UHFFFAOYSA-N-XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+    "webKey": "DGHMKCKZFKENAWOEU-NUHFFFADPSCTJSA",
+    "components": [
+      {
+        "species": "acetic-acid",
+        "inchi": "InChI=1S/C2H4O2/c1-2(3)4/h1H3,(H,3,4)",
+        "aux": "AuxInfo=1/1/N:1,2,3,4/E:(3,4)/rA:4nCCOO/rB:s1;d2;s2;/rC:12,12,0;24,12,0;36,12,0;48,12,0;",
+        "inchikey": "QTBSBXVTEAMEQO-UHFFFAOYSA-N"
+      },
+      {
+        "species": "ethanol",
+        "inchi": "InChI=1S/C2H6O/c1-2-3/h3H,2H2,1H3",
+        "aux": "AuxInfo=1/0/N:1,2,3/rA:3nCCO/rB:s1;s2;/rC:12,12,0;72,12,0;132,12,0;",
+        "inchikey": "LFQSCWFLJHTTHZ-UHFFFAOYSA-N"
+      },
+      {
+        "species": "ethyl-acetate",
+        "inchi": "InChI=1S/C4H8O2/c1-3-6-4(2)5/h3H2,1-2H3",
+        "aux": "AuxInfo=1/0/N:1,5,2,4,6,3/rA:6nCCOCCO/rB:s1;s2;s3;s4;d4;/rC:12,12,0;24,12,0;36,12,0;48,12,0;60,12,0;72,12,0;",
+        "inchikey": "XEKOWRVHYACXOJ-UHFFFAOYSA-N"
+      },
+      {
+        "species": "water",
+        "inchi": "InChI=1S/H2O/h1H2",
+        "aux": "AuxInfo=1/0/N:1/rA:1nO/rB:/rC:12,12,0;",
+        "inchikey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  {
+    "id": "rinchi/ester-hydrolysis",
+    "rxnfile": "$RXN\nester-hydrolysis\n  chemomer recording\n\n  2  2\n$MOL\nethyl acetate\n  chemomer\n\n  6  5  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   24.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   36.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   48.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   60.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   72.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  2  3  1  0\n  3  4  1  0\n  4  5  1  0\n  4  6  2  0\nM  END\n$MOL\n\n  AsciiChem\n\n  1  0  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\nM  END\n$MOL\nacetic acid\n  chemomer\n\n  4  3  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   24.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   36.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   48.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  2  3  2  0\n  2  4  1  0\nM  END\n$MOL\n\n  AsciiChem\n\n  3  2  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n   72.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  132.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0  0  0  0  0  0  0  0\n  2  3  1  0  0  0  0  0  0  0  0\nM  END\n",
+    "rinchi": "RInChI=1.00.1S/C2H4O2/c1-2(3)4/h1H3,(H,3,4)!C2H6O/c1-2-3/h3H,2H2,1H3<>C4H8O2/c1-3-6-4(2)5/h3H2,1-2H3!H2O/h1H2/d-",
+    "rauxinfo": "RAuxInfo=1.00.1/1/N:1,2,3,4/E:(3,4)/rA:4nCCOO/rB:s1;d2;s2;/rC:12,12,0;24,12,0;36,12,0;48,12,0;!0/N:1,2,3/rA:3nCCO/rB:s1;s2;/rC:12,12,0;72,12,0;132,12,0;<>0/N:1,5,2,4,6,3/rA:6nCCOCCO/rB:s1;s2;s3;s4;d4;/rC:12,12,0;24,12,0;36,12,0;48,12,0;60,12,0;72,12,0;!0/N:1/rA:1nO/rB:/rC:12,12,0;",
+    "rinchikey": "SA-BUHFF-JJFIATRHOH-UDXZTNISGZ-UHFFFADPSC-NUHFF-NUHFF-NUHFF-ZZZ",
+    "longKey": "SA-BUHFF-QTBSBXVTEAMEQO-UHFFFAOYSA-N-LFQSCWFLJHTTHZ-UHFFFAOYSA-N--XEKOWRVHYACXOJ-UHFFFAOYSA-N-XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+    "webKey": "DGHMKCKZFKENAWOEU-NUHFFFADPSCTJSA",
+    "components": [
+      {
+        "species": "ethyl-acetate",
+        "inchi": "InChI=1S/C4H8O2/c1-3-6-4(2)5/h3H2,1-2H3",
+        "aux": "AuxInfo=1/0/N:1,5,2,4,6,3/rA:6nCCOCCO/rB:s1;s2;s3;s4;d4;/rC:12,12,0;24,12,0;36,12,0;48,12,0;60,12,0;72,12,0;",
+        "inchikey": "XEKOWRVHYACXOJ-UHFFFAOYSA-N"
+      },
+      {
+        "species": "water",
+        "inchi": "InChI=1S/H2O/h1H2",
+        "aux": "AuxInfo=1/0/N:1/rA:1nO/rB:/rC:12,12,0;",
+        "inchikey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N"
+      },
+      {
+        "species": "acetic-acid",
+        "inchi": "InChI=1S/C2H4O2/c1-2(3)4/h1H3,(H,3,4)",
+        "aux": "AuxInfo=1/1/N:1,2,3,4/E:(3,4)/rA:4nCCOO/rB:s1;d2;s2;/rC:12,12,0;24,12,0;36,12,0;48,12,0;",
+        "inchikey": "QTBSBXVTEAMEQO-UHFFFAOYSA-N"
+      },
+      {
+        "species": "ethanol",
+        "inchi": "InChI=1S/C2H6O/c1-2-3/h3H,2H2,1H3",
+        "aux": "AuxInfo=1/0/N:1,2,3/rA:3nCCO/rB:s1;s2;/rC:12,12,0;72,12,0;132,12,0;",
+        "inchikey": "LFQSCWFLJHTTHZ-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  {
+    "id": "rinchi/catalyzed-esterification",
+    "rxnfile": "$RXN\ncatalyzed-esterification\n  chemomer recording\n\n  2  2  1\n$MOL\nacetic acid\n  chemomer\n\n  4  3  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   24.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   36.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   48.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  2  3  2  0\n  2  4  1  0\nM  END\n$MOL\n\n  AsciiChem\n\n  3  2  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n   72.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  132.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0  0  0  0  0  0  0  0\n  2  3  1  0  0  0  0  0  0  0  0\nM  END\n$MOL\nethyl acetate\n  chemomer\n\n  6  5  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   24.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   36.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   48.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   60.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   72.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  2  3  1  0\n  3  4  1  0\n  4  5  1  0\n  4  6  2  0\nM  END\n$MOL\n\n  AsciiChem\n\n  1  0  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\nM  END\n$MOL\n\n  AsciiChem\n\n  5  4  0  0  0  0  0  0  0  0999 V2000\n   12.0000   19.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\n   72.0000   19.5000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0  0\n  142.0000   62.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\n  142.0000  112.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\n  142.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0  0  0  0  0  0  0  0\n  2  3  2  0  0  0  0  0  0  0  0\n  2  4  1  0  0  0  0  0  0  0  0\n  2  5  1  0  0  0  0  0  0  0  0\nM  END\n",
+    "rinchi": "RInChI=1.00.1S/C2H4O2/c1-2(3)4/h1H3,(H,3,4)!C2H6O/c1-2-3/h3H,2H2,1H3<>C4H8O2/c1-3-6-4(2)5/h3H2,1-2H3!H2O/h1H2<>H4O4S/c1-5(2,3)4/h5H,(H3,1,2,3,4)/d+",
+    "rauxinfo": "RAuxInfo=1.00.1/1/N:1,2,3,4/E:(3,4)/rA:4nCCOO/rB:s1;d2;s2;/rC:12,12,0;24,12,0;36,12,0;48,12,0;!0/N:1,2,3/rA:3nCCO/rB:s1;s2;/rC:12,12,0;72,12,0;132,12,0;<>0/N:1,5,2,4,6,3/rA:6nCCOCCO/rB:s1;s2;s3;s4;d4;/rC:12,12,0;24,12,0;36,12,0;48,12,0;60,12,0;72,12,0;!0/N:1/rA:1nO/rB:/rC:12,12,0;<>1/N:1,3,4,5,2/E:(1,2,3,4)/CRV:5.6/rA:5nOSOOO/rB:s1;d2;s2;s2;/rC:12,19.5,0;72,19.5,0;142,62,0;142,112,0;142,12,0;",
+    "rinchikey": "SA-FUHFF-JJFIATRHOH-UDXZTNISGZ-YWOREDLFEY-NUHFF-NUHFF-NUHFF-ZZZ",
+    "longKey": "SA-FUHFF-QTBSBXVTEAMEQO-UHFFFAOYSA-N-LFQSCWFLJHTTHZ-UHFFFAOYSA-N--XEKOWRVHYACXOJ-UHFFFAOYSA-N-XLYOFNOQVPJJNP-UHFFFAOYSA-N--YWOREDLFEYOMOK-UHFFFAOYSA-N",
+    "webKey": "BINJQDZWTVOCOKNKL-NUHFFFADPSCTJSA",
+    "components": [
+      {
+        "species": "acetic-acid",
+        "inchi": "InChI=1S/C2H4O2/c1-2(3)4/h1H3,(H,3,4)",
+        "aux": "AuxInfo=1/1/N:1,2,3,4/E:(3,4)/rA:4nCCOO/rB:s1;d2;s2;/rC:12,12,0;24,12,0;36,12,0;48,12,0;",
+        "inchikey": "QTBSBXVTEAMEQO-UHFFFAOYSA-N"
+      },
+      {
+        "species": "ethanol",
+        "inchi": "InChI=1S/C2H6O/c1-2-3/h3H,2H2,1H3",
+        "aux": "AuxInfo=1/0/N:1,2,3/rA:3nCCO/rB:s1;s2;/rC:12,12,0;72,12,0;132,12,0;",
+        "inchikey": "LFQSCWFLJHTTHZ-UHFFFAOYSA-N"
+      },
+      {
+        "species": "ethyl-acetate",
+        "inchi": "InChI=1S/C4H8O2/c1-3-6-4(2)5/h3H2,1-2H3",
+        "aux": "AuxInfo=1/0/N:1,5,2,4,6,3/rA:6nCCOCCO/rB:s1;s2;s3;s4;d4;/rC:12,12,0;24,12,0;36,12,0;48,12,0;60,12,0;72,12,0;",
+        "inchikey": "XEKOWRVHYACXOJ-UHFFFAOYSA-N"
+      },
+      {
+        "species": "water",
+        "inchi": "InChI=1S/H2O/h1H2",
+        "aux": "AuxInfo=1/0/N:1/rA:1nO/rB:/rC:12,12,0;",
+        "inchikey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N"
+      },
+      {
+        "species": "sulfuric-acid",
+        "inchi": "InChI=1S/H4O4S/c1-5(2,3)4/h5H,(H3,1,2,3,4)",
+        "aux": "AuxInfo=1/1/N:1,3,4,5,2/E:(1,2,3,4)/CRV:5.6/rA:5nOSOOO/rB:s1;d2;s2;s2;/rC:12,19.5,0;72,19.5,0;142,62,0;142,112,0;142,12,0;",
+        "inchikey": "YWOREDLFEYOMOK-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  {
+    "id": "rinchi/aspirin-hydrolysis",
+    "rxnfile": "$RXN\naspirin-hydrolysis\n  chemomer recording\n\n  2  2\n$MOL\n\n  AsciiChem\n\n 13 13  0  0  0  0  0  0  0  0999 V2000\n   12.0000   57.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n   72.0000   57.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  132.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\n  132.0000   62.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\n  192.0000   62.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  252.0000   67.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  312.0000   67.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  372.0000   67.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  432.0000   67.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  492.0000   62.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  552.0000   62.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  612.0000   17.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\n  612.0000   67.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0  0  0  0  0  0  0  0\n  2  3  2  0  0  0  0  0  0  0  0\n  4  5  1  0  0  0  0  0  0  0  0\n  5  6  2  0  0  0  0  0  0  0  0\n  6  7  1  0  0  0  0  0  0  0  0\n  7  8  2  0  0  0  0  0  0  0  0\n  8  9  1  0  0  0  0  0  0  0  0\n  9 10  2  0  0  0  0  0  0  0  0\n 10 11  1  0  0  0  0  0  0  0  0\n 11 12  2  0  0  0  0  0  0  0  0\n  2  4  1  0  0  0  0  0  0  0  0\n  5 10  1  0  0  0  0  0  0  0  0\n 11 13  1  0  0  0  0  0  0  0  0\nM  END\n$MOL\n\n  AsciiChem\n\n  1  0  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\nM  END\n$MOL\nsalicylic acid\n  chemomer\n\n 10 10  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   24.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   36.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   48.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   60.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   72.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   84.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   96.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n  108.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n  120.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  2  0\n  2  3  1  0\n  3  4  2  0\n  4  5  1  0\n  5  6  2  0\n  6  1  1  0\n  1  7  1  0\n  7  8  2  0\n  7  9  1  0\n  2 10  1  0\nM  END\n$MOL\nacetic acid\n  chemomer\n\n  4  3  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   24.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   36.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   48.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  2  3  2  0\n  2  4  1  0\nM  END\n",
+    "rinchi": "RInChI=1.00.1S/C2H4O2/c1-2(3)4/h1H3,(H,3,4)!C7H6O3/c8-6-4-2-1-3-5(6)7(9)10/h1-4,8H,(H,9,10)<>C9H8O4/c1-6(10)13-8-5-3-2-4-7(8)9(11)12/h2-5H,1H3,(H,11,12)!H2O/h1H2/d-",
+    "rauxinfo": "RAuxInfo=1.00.1/1/N:1,2,3,4/E:(3,4)/rA:4nCCOO/rB:s1;d2;s2;/rC:12,12,0;24,12,0;36,12,0;48,12,0;!1/N:5,4,6,3,1,2,7,10,8,9/E:(9,10)/rA:10nCCCCCCCOOO/rB:d1;s2;d3;s4;s1d5;s1;d7;s7;s2;/rC:12,12,0;24,12,0;36,12,0;48,12,0;60,12,0;72,12,0;84,12,0;96,12,0;108,12,0;120,12,0;<>1/N:1,8,7,9,6,2,10,5,11,3,12,13,4/E:(11,12)/rA:13nCCOOCCCCCCCOO/rB:s1;d2;s2;s4;d5;s6;d7;s8;s5d9;s10;d11;s11;/rC:12,57,0;72,57,0;132,12,0;132,62,0;192,62,0;252,67,0;312,67,0;372,67,0;432,67,0;492,62,0;552,62,0;612,17,0;612,67,0;!0/N:1/rA:1nO/rB:/rC:12,12,0;",
+    "rinchikey": "SA-BUHFF-YSGGMXQDTQ-XYMJBOUAKH-UHFFFADPSC-NUHFF-NUHFF-NUHFF-ZZZ",
+    "longKey": "SA-BUHFF-QTBSBXVTEAMEQO-UHFFFAOYSA-N-YGSDEFSMJLZEOE-UHFFFAOYSA-N--BSYNRYMUTXBXSQ-UHFFFAOYSA-N-XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+    "webKey": "MIINXFXYWFBXQRVAZ-NUHFFFADPSCTJSA",
+    "components": [
+      {
+        "species": "aspirin",
+        "inchi": "InChI=1S/C9H8O4/c1-6(10)13-8-5-3-2-4-7(8)9(11)12/h2-5H,1H3,(H,11,12)",
+        "aux": "AuxInfo=1/1/N:1,8,7,9,6,2,10,5,11,3,12,13,4/E:(11,12)/rA:13nCCOOCCCCCCCOO/rB:s1;d2;s2;s4;d5;s6;d7;s8;s5d9;s10;d11;s11;/rC:12,57,0;72,57,0;132,12,0;132,62,0;192,62,0;252,67,0;312,67,0;372,67,0;432,67,0;492,62,0;552,62,0;612,17,0;612,67,0;",
+        "inchikey": "BSYNRYMUTXBXSQ-UHFFFAOYSA-N"
+      },
+      {
+        "species": "water",
+        "inchi": "InChI=1S/H2O/h1H2",
+        "aux": "AuxInfo=1/0/N:1/rA:1nO/rB:/rC:12,12,0;",
+        "inchikey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N"
+      },
+      {
+        "species": "salicylic-acid",
+        "inchi": "InChI=1S/C7H6O3/c8-6-4-2-1-3-5(6)7(9)10/h1-4,8H,(H,9,10)",
+        "aux": "AuxInfo=1/1/N:5,4,6,3,1,2,7,10,8,9/E:(9,10)/rA:10nCCCCCCCOOO/rB:d1;s2;d3;s4;s1d5;s1;d7;s7;s2;/rC:12,12,0;24,12,0;36,12,0;48,12,0;60,12,0;72,12,0;84,12,0;96,12,0;108,12,0;120,12,0;",
+        "inchikey": "YGSDEFSMJLZEOE-UHFFFAOYSA-N"
+      },
+      {
+        "species": "acetic-acid",
+        "inchi": "InChI=1S/C2H4O2/c1-2(3)4/h1H3,(H,3,4)",
+        "aux": "AuxInfo=1/1/N:1,2,3,4/E:(3,4)/rA:4nCCOO/rB:s1;d2;s2;/rC:12,12,0;24,12,0;36,12,0;48,12,0;",
+        "inchikey": "QTBSBXVTEAMEQO-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  {
+    "id": "rinchi/combustion-of-methane",
+    "rxnfile": "$RXN\ncombustion-of-methane\n  chemomer recording\n\n  3  3\n$MOL\n\n  AsciiChem\n\n  1  0  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\nM  END\n$MOL\noxygen\n  chemomer\n\n  2  1  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   24.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  2  0\nM  END\n$MOL\noxygen\n  chemomer\n\n  2  1  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   24.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  2  0\nM  END\n$MOL\ncarbon dioxide\n  chemomer\n\n  3  2  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   24.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   36.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  2  0\n  1  3  2  0\nM  END\n$MOL\n\n  AsciiChem\n\n  1  0  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\nM  END\n$MOL\n\n  AsciiChem\n\n  1  0  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\nM  END\n",
+    "rinchi": "RInChI=1.00.1S/CH4/h1H4!O2/c1-2!O2/c1-2<>CO2/c2-1-3!H2O/h1H2!H2O/h1H2/d+",
+    "rauxinfo": "RAuxInfo=1.00.1/0/N:1/rA:1nC/rB:/rC:12,12,0;!0/N:1,2/E:(1,2)/rA:2nOO/rB:d1;/rC:12,12,0;24,12,0;!0/N:1,2/E:(1,2)/rA:2nOO/rB:d1;/rC:12,12,0;24,12,0;<>0/N:1,2,3/E:(2,3)/rA:3nCOO/rB:d1;d1;/rC:12,12,0;24,12,0;36,12,0;!0/N:1/rA:1nO/rB:/rC:12,12,0;!0/N:1/rA:1nO/rB:/rC:12,12,0;",
+    "rinchikey": "SA-FUHFF-KCCDUTIETN-BOZGAJHFEZ-UHFFFADPSC-NUHFF-NUHFF-NUHFF-ZZZ",
+    "longKey": "SA-FUHFF-VNWKTOKETHGBQD-UHFFFAOYSA-N-MYMOFIZGZYHOMD-UHFFFAOYSA-N-MYMOFIZGZYHOMD-UHFFFAOYSA-N--CURLTUGMZLYLDI-UHFFFAOYSA-N-XLYOFNOQVPJJNP-UHFFFAOYSA-N-XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+    "webKey": "SJRPXXNVOXMRSQWML-NUHFFFADPSCTJSA",
+    "components": [
+      {
+        "species": "methane",
+        "inchi": "InChI=1S/CH4/h1H4",
+        "aux": "AuxInfo=1/0/N:1/rA:1nC/rB:/rC:12,12,0;",
+        "inchikey": "VNWKTOKETHGBQD-UHFFFAOYSA-N"
+      },
+      {
+        "species": "o2",
+        "inchi": "InChI=1S/O2/c1-2",
+        "aux": "AuxInfo=1/0/N:1,2/E:(1,2)/rA:2nOO/rB:d1;/rC:12,12,0;24,12,0;",
+        "inchikey": "MYMOFIZGZYHOMD-UHFFFAOYSA-N"
+      },
+      {
+        "species": "o2",
+        "inchi": "InChI=1S/O2/c1-2",
+        "aux": "AuxInfo=1/0/N:1,2/E:(1,2)/rA:2nOO/rB:d1;/rC:12,12,0;24,12,0;",
+        "inchikey": "MYMOFIZGZYHOMD-UHFFFAOYSA-N"
+      },
+      {
+        "species": "co2",
+        "inchi": "InChI=1S/CO2/c2-1-3",
+        "aux": "AuxInfo=1/0/N:1,2,3/E:(2,3)/rA:3nCOO/rB:d1;d1;/rC:12,12,0;24,12,0;36,12,0;",
+        "inchikey": "CURLTUGMZLYLDI-UHFFFAOYSA-N"
+      },
+      {
+        "species": "water",
+        "inchi": "InChI=1S/H2O/h1H2",
+        "aux": "AuxInfo=1/0/N:1/rA:1nO/rB:/rC:12,12,0;",
+        "inchikey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N"
+      },
+      {
+        "species": "water",
+        "inchi": "InChI=1S/H2O/h1H2",
+        "aux": "AuxInfo=1/0/N:1/rA:1nO/rB:/rC:12,12,0;",
+        "inchikey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  {
+    "id": "rinchi/acetylene-trimerization",
+    "rxnfile": "$RXN\nacetylene-trimerization\n  chemomer recording\n\n  3  1\n$MOL\nacetylene\n  chemomer\n\n  2  1  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   24.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  3  0\nM  END\n$MOL\nacetylene\n  chemomer\n\n  2  1  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   24.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  3  0\nM  END\n$MOL\nacetylene\n  chemomer\n\n  2  1  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   24.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  3  0\nM  END\n$MOL\n\n  AsciiChem\n\n  6  6  0  0  0  0  0  0  0  0999 V2000\n   12.0000   18.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n   72.0000   23.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  132.0000   23.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  192.0000   23.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  252.0000   23.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  312.0000   18.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  4  0  0  0  0  0  0  0  0\n  2  3  4  0  0  0  0  0  0  0  0\n  3  4  4  0  0  0  0  0  0  0  0\n  4  5  4  0  0  0  0  0  0  0  0\n  5  6  4  0  0  0  0  0  0  0  0\n  1  6  4  0  0  0  0  0  0  0  0\nM  END\n",
+    "rinchi": "RInChI=1.00.1S/C2H2/c1-2/h1-2H!C2H2/c1-2/h1-2H!C2H2/c1-2/h1-2H<>C6H6/c1-2-4-6-5-3-1/h1-6H/d+",
+    "rauxinfo": "RAuxInfo=1.00.1/0/N:1,2/E:(1,2)/rA:2nCC/rB:t1;/rC:12,12,0;24,12,0;!0/N:1,2/E:(1,2)/rA:2nCC/rB:t1;/rC:12,12,0;24,12,0;!0/N:1,2/E:(1,2)/rA:2nCC/rB:t1;/rC:12,12,0;24,12,0;<>0/N:1,2,6,3,5,4/E:(1,2,3,4,5,6)/rA:6nCCCCCC/rB:a1;a2;a3;a4;a1a5;/rC:12,18,0;72,23,0;132,23,0;192,23,0;252,23,0;312,18,0;",
+    "rinchikey": "SA-FUHFF-KVZJASKVPJ-UHOVQNZJYS-UHFFFADPSC-NUHFF-NUHFF-NUHFF-ZZZ",
+    "longKey": "SA-FUHFF-HSFWRNGVRCDJHI-UHFFFAOYSA-N-HSFWRNGVRCDJHI-UHFFFAOYSA-N-HSFWRNGVRCDJHI-UHFFFAOYSA-N--UHOVQNZJYSORNB-UHFFFAOYSA-N",
+    "webKey": "JIQNQHZYCBEYHHQKQ-NUHFFFADPSCTJSA",
+    "components": [
+      {
+        "species": "acetylene",
+        "inchi": "InChI=1S/C2H2/c1-2/h1-2H",
+        "aux": "AuxInfo=1/0/N:1,2/E:(1,2)/rA:2nCC/rB:t1;/rC:12,12,0;24,12,0;",
+        "inchikey": "HSFWRNGVRCDJHI-UHFFFAOYSA-N"
+      },
+      {
+        "species": "acetylene",
+        "inchi": "InChI=1S/C2H2/c1-2/h1-2H",
+        "aux": "AuxInfo=1/0/N:1,2/E:(1,2)/rA:2nCC/rB:t1;/rC:12,12,0;24,12,0;",
+        "inchikey": "HSFWRNGVRCDJHI-UHFFFAOYSA-N"
+      },
+      {
+        "species": "acetylene",
+        "inchi": "InChI=1S/C2H2/c1-2/h1-2H",
+        "aux": "AuxInfo=1/0/N:1,2/E:(1,2)/rA:2nCC/rB:t1;/rC:12,12,0;24,12,0;",
+        "inchikey": "HSFWRNGVRCDJHI-UHFFFAOYSA-N"
+      },
+      {
+        "species": "benzene",
+        "inchi": "InChI=1S/C6H6/c1-2-4-6-5-3-1/h1-6H",
+        "aux": "AuxInfo=1/0/N:1,2,6,3,5,4/E:(1,2,3,4,5,6)/rA:6nCCCCCC/rB:a1;a2;a3;a4;a1a5;/rC:12,18,0;72,23,0;132,23,0;192,23,0;252,23,0;312,18,0;",
+        "inchikey": "UHOVQNZJYSORNB-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  {
+    "id": "rinchi/ethene-hydration",
+    "rxnfile": "$RXN\nethene-hydration\n  chemomer recording\n\n  2  1  1\n$MOL\nethene\n  chemomer\n\n  2  1  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   24.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  2  0\nM  END\n$MOL\n\n  AsciiChem\n\n  1  0  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\nM  END\n$MOL\n\n  AsciiChem\n\n  3  2  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n   72.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  132.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0  0  0  0  0  0  0  0\n  2  3  1  0  0  0  0  0  0  0  0\nM  END\n$MOL\n\n  AsciiChem\n\n  5  4  0  0  0  0  0  0  0  0999 V2000\n   12.0000   19.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\n   72.0000   19.5000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0  0\n  142.0000   62.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\n  142.0000  112.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\n  142.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0  0  0  0  0  0  0  0\n  2  3  2  0  0  0  0  0  0  0  0\n  2  4  1  0  0  0  0  0  0  0  0\n  2  5  1  0  0  0  0  0  0  0  0\nM  END\n",
+    "rinchi": "RInChI=1.00.1S/C2H4/c1-2/h1-2H2!H2O/h1H2<>C2H6O/c1-2-3/h3H,2H2,1H3<>H4O4S/c1-5(2,3)4/h5H,(H3,1,2,3,4)/d+",
+    "rauxinfo": "RAuxInfo=1.00.1/0/N:1,2/E:(1,2)/rA:2nCC/rB:d1;/rC:12,12,0;24,12,0;!0/N:1/rA:1nO/rB:/rC:12,12,0;<>0/N:1,2,3/rA:3nCCO/rB:s1;s2;/rC:12,12,0;72,12,0;132,12,0;<>1/N:1,3,4,5,2/E:(1,2,3,4)/CRV:5.6/rA:5nOSOOO/rB:s1;d2;s2;s2;/rC:12,19.5,0;72,19.5,0;142,62,0;142,112,0;142,12,0;",
+    "rinchikey": "SA-FUHFF-UGXDTVWMOF-LFQSCWFLJH-YWOREDLFEY-NUHFF-NUHFF-NUHFF-ZZZ",
+    "longKey": "SA-FUHFF-VGGSQFUCUMXWEO-UHFFFAOYSA-N-XLYOFNOQVPJJNP-UHFFFAOYSA-N--LFQSCWFLJHTTHZ-UHFFFAOYSA-N--YWOREDLFEYOMOK-UHFFFAOYSA-N",
+    "webKey": "SHLHGCAGRLDLFOUOC-NUHFFFADPSCTJSA",
+    "components": [
+      {
+        "species": "ethene",
+        "inchi": "InChI=1S/C2H4/c1-2/h1-2H2",
+        "aux": "AuxInfo=1/0/N:1,2/E:(1,2)/rA:2nCC/rB:d1;/rC:12,12,0;24,12,0;",
+        "inchikey": "VGGSQFUCUMXWEO-UHFFFAOYSA-N"
+      },
+      {
+        "species": "water",
+        "inchi": "InChI=1S/H2O/h1H2",
+        "aux": "AuxInfo=1/0/N:1/rA:1nO/rB:/rC:12,12,0;",
+        "inchikey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N"
+      },
+      {
+        "species": "ethanol",
+        "inchi": "InChI=1S/C2H6O/c1-2-3/h3H,2H2,1H3",
+        "aux": "AuxInfo=1/0/N:1,2,3/rA:3nCCO/rB:s1;s2;/rC:12,12,0;72,12,0;132,12,0;",
+        "inchikey": "LFQSCWFLJHTTHZ-UHFFFAOYSA-N"
+      },
+      {
+        "species": "sulfuric-acid",
+        "inchi": "InChI=1S/H4O4S/c1-5(2,3)4/h5H,(H3,1,2,3,4)",
+        "aux": "AuxInfo=1/1/N:1,3,4,5,2/E:(1,2,3,4)/CRV:5.6/rA:5nOSOOO/rB:s1;d2;s2;s2;/rC:12,19.5,0;72,19.5,0;142,62,0;142,112,0;142,12,0;",
+        "inchikey": "YWOREDLFEYOMOK-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  {
+    "id": "rinchi/benzene-chlorination",
+    "rxnfile": "$RXN\nbenzene-chlorination\n  chemomer recording\n\n  2  2\n$MOL\n\n  AsciiChem\n\n  6  6  0  0  0  0  0  0  0  0999 V2000\n   12.0000   18.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n   72.0000   23.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  132.0000   23.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  192.0000   23.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  252.0000   23.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  312.0000   18.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  4  0  0  0  0  0  0  0  0\n  2  3  4  0  0  0  0  0  0  0  0\n  3  4  4  0  0  0  0  0  0  0  0\n  4  5  4  0  0  0  0  0  0  0  0\n  5  6  4  0  0  0  0  0  0  0  0\n  1  6  4  0  0  0  0  0  0  0  0\nM  END\n$MOL\nchlorine\n  chemomer\n\n  2  1  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0\n   24.0000   12.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\nM  END\n$MOL\nchlorobenzene\n  chemomer\n\n  7  7  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   24.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   36.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   48.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   60.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   72.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   84.0000   12.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  2  0\n  2  3  1  0\n  3  4  2  0\n  4  5  1  0\n  5  6  2  0\n  6  1  1  0\n  2  7  1  0\nM  END\n$MOL\nhydrogen chloride\n  chemomer\n\n  2  1  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0\n   24.0000   12.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\nM  END\n",
+    "rinchi": "RInChI=1.00.1S/C6H5Cl/c7-6-4-2-1-3-5-6/h1-5H!ClH/h1H<>C6H6/c1-2-4-6-5-3-1/h1-6H!Cl2/c1-2/d-",
+    "rauxinfo": "RAuxInfo=1.00.1/0/N:5,4,6,3,1,2,7/E:(2,3)(4,5)/rA:7nCCCCCCCl/rB:d1;s2;d3;s4;s1d5;s2;/rC:12,12,0;24,12,0;36,12,0;48,12,0;60,12,0;72,12,0;84,12,0;!0/N:2/rA:2nHCl/rB:s1;/rC:12,12,0;24,12,0;<>0/N:1,2,6,3,5,4/E:(1,2,3,4,5,6)/rA:6nCCCCCC/rB:a1;a2;a3;a4;a1a5;/rC:12,18,0;72,23,0;132,23,0;192,23,0;252,23,0;312,18,0;!0/N:1,2/E:(1,2)/rA:2nClCl/rB:s1;/rC:12,12,0;24,12,0;",
+    "rinchikey": "SA-BUHFF-DKUODYNIEA-MRCJKDPZLK-UHFFFADPSC-NUHFF-NUHFF-NUHFF-ZZZ",
+    "longKey": "SA-BUHFF-MVPPADPHJFYWMZ-UHFFFAOYSA-N-VEXZGXHMUGYJMC-UHFFFAOYSA-N--UHOVQNZJYSORNB-UHFFFAOYSA-N-KZBUYRJDOAKODT-UHFFFAOYSA-N",
+    "webKey": "CZARLBFEXSNGTCBDT-NUHFFFADPSCTJSA",
+    "components": [
+      {
+        "species": "benzene",
+        "inchi": "InChI=1S/C6H6/c1-2-4-6-5-3-1/h1-6H",
+        "aux": "AuxInfo=1/0/N:1,2,6,3,5,4/E:(1,2,3,4,5,6)/rA:6nCCCCCC/rB:a1;a2;a3;a4;a1a5;/rC:12,18,0;72,23,0;132,23,0;192,23,0;252,23,0;312,18,0;",
+        "inchikey": "UHOVQNZJYSORNB-UHFFFAOYSA-N"
+      },
+      {
+        "species": "cl2",
+        "inchi": "InChI=1S/Cl2/c1-2",
+        "aux": "AuxInfo=1/0/N:1,2/E:(1,2)/rA:2nClCl/rB:s1;/rC:12,12,0;24,12,0;",
+        "inchikey": "KZBUYRJDOAKODT-UHFFFAOYSA-N"
+      },
+      {
+        "species": "chlorobenzene",
+        "inchi": "InChI=1S/C6H5Cl/c7-6-4-2-1-3-5-6/h1-5H",
+        "aux": "AuxInfo=1/0/N:5,4,6,3,1,2,7/E:(2,3)(4,5)/rA:7nCCCCCCCl/rB:d1;s2;d3;s4;s1d5;s2;/rC:12,12,0;24,12,0;36,12,0;48,12,0;60,12,0;72,12,0;84,12,0;",
+        "inchikey": "MVPPADPHJFYWMZ-UHFFFAOYSA-N"
+      },
+      {
+        "species": "hcl",
+        "inchi": "InChI=1S/ClH/h1H",
+        "aux": "AuxInfo=1/0/N:2/rA:2nHCl/rB:s1;/rC:12,12,0;24,12,0;",
+        "inchikey": "VEXZGXHMUGYJMC-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  {
+    "id": "rinchi/methane-chlorination",
+    "rxnfile": "$RXN\nmethane-chlorination\n  chemomer recording\n\n  2  2\n$MOL\n\n  AsciiChem\n\n  1  0  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\nM  END\n$MOL\nchlorine\n  chemomer\n\n  2  1  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0\n   24.0000   12.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\nM  END\n$MOL\nchloromethane\n  chemomer\n\n  2  1  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   24.0000   12.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\nM  END\n$MOL\nhydrogen chloride\n  chemomer\n\n  2  1  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0\n   24.0000   12.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\nM  END\n",
+    "rinchi": "RInChI=1.00.1S/CH3Cl/c1-2/h1H3!ClH/h1H<>CH4/h1H4!Cl2/c1-2/d-",
+    "rauxinfo": "RAuxInfo=1.00.1/0/N:1,2/rA:2nCCl/rB:s1;/rC:12,12,0;24,12,0;!0/N:2/rA:2nHCl/rB:s1;/rC:12,12,0;24,12,0;<>0/N:1/rA:1nC/rB:/rC:12,12,0;!0/N:1,2/E:(1,2)/rA:2nClCl/rB:s1;/rC:12,12,0;24,12,0;",
+    "rinchikey": "SA-BUHFF-PGNJSYXGRH-MIUPSZUGLF-UHFFFADPSC-NUHFF-NUHFF-NUHFF-ZZZ",
+    "longKey": "SA-BUHFF-NEHMKBQYUWJMIP-UHFFFAOYSA-N-VEXZGXHMUGYJMC-UHFFFAOYSA-N--VNWKTOKETHGBQD-UHFFFAOYSA-N-KZBUYRJDOAKODT-UHFFFAOYSA-N",
+    "webKey": "JNFXILJJBYESHTYAO-NUHFFFADPSCTJSA",
+    "components": [
+      {
+        "species": "methane",
+        "inchi": "InChI=1S/CH4/h1H4",
+        "aux": "AuxInfo=1/0/N:1/rA:1nC/rB:/rC:12,12,0;",
+        "inchikey": "VNWKTOKETHGBQD-UHFFFAOYSA-N"
+      },
+      {
+        "species": "cl2",
+        "inchi": "InChI=1S/Cl2/c1-2",
+        "aux": "AuxInfo=1/0/N:1,2/E:(1,2)/rA:2nClCl/rB:s1;/rC:12,12,0;24,12,0;",
+        "inchikey": "KZBUYRJDOAKODT-UHFFFAOYSA-N"
+      },
+      {
+        "species": "chloromethane",
+        "inchi": "InChI=1S/CH3Cl/c1-2/h1H3",
+        "aux": "AuxInfo=1/0/N:1,2/rA:2nCCl/rB:s1;/rC:12,12,0;24,12,0;",
+        "inchikey": "NEHMKBQYUWJMIP-UHFFFAOYSA-N"
+      },
+      {
+        "species": "hcl",
+        "inchi": "InChI=1S/ClH/h1H",
+        "aux": "AuxInfo=1/0/N:2/rA:2nHCl/rB:s1;/rC:12,12,0;24,12,0;",
+        "inchikey": "VEXZGXHMUGYJMC-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  {
+    "id": "rinchi/butene-isomerization",
+    "rxnfile": "$RXN\nbutene-isomerization\n  chemomer recording\n\n  1  1\n$MOL\ne-2-butene\n  AsciiChem\n\n  4  3  0  0  0  0  0  0  0  0999 V2000\n   12.0000   85.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n   60.0000   50.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  120.0000   50.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  168.0000   15.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0  0  0  0  0\n  2  3  2  0  0  0  0  0\n  3  4  1  0  0  0  0  0\nM  END\n$MOL\nz-2-butene\n  AsciiChem\n\n  4  3  0  0  0  0  0  0  0  0999 V2000\n   12.0000   15.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n   60.0000   50.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  120.0000   50.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  168.0000   15.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0  0  0  0  0\n  2  3  2  0  0  0  0  0\n  3  4  1  0  0  0  0  0\nM  END\n",
+    "rinchi": "RInChI=1.00.1S/C4H8/c1-3-4-2/h3-4H,1-2H3/b4-3+<>C4H8/c1-3-4-2/h3-4H,1-2H3/b4-3-/d+",
+    "rauxinfo": "RAuxInfo=1.00.1/0/N:1,4,2,3/E:(1,2)(3,4)/rA:4nCCCC/rB:s1;d2;s3;/rC:12,85,0;60,50,0;120,50,0;168,15,0;<>0/N:1,4,2,3/E:(1,2)(3,4)/rA:4nCCCC/rB:s1;d2;s3;/rC:12,15,0;60,50,0;120,50,0;168,15,0;",
+    "rinchikey": "SA-FUHFF-IAQRGUVFOM-IAQRGUVFOM-UHFFFADPSC-NSOPS-NHDSW-NUHFF-ZZZ",
+    "longKey": "SA-FUHFF-IAQRGUVFOMOMEM-ONEGZZNKSA-N--IAQRGUVFOMOMEM-ARJAWSKDSA-N",
+    "webKey": "JRBYNMSRGLCEDDXMM-NOOBQQTMKAMLASA",
+    "components": [
+      {
+        "species": "e-2-butene",
+        "inchi": "InChI=1S/C4H8/c1-3-4-2/h3-4H,1-2H3/b4-3+",
+        "aux": "AuxInfo=1/0/N:1,4,2,3/E:(1,2)(3,4)/rA:4nCCCC/rB:s1;d2;s3;/rC:12,85,0;60,50,0;120,50,0;168,15,0;",
+        "inchikey": "IAQRGUVFOMOMEM-ONEGZZNKSA-N"
+      },
+      {
+        "species": "z-2-butene",
+        "inchi": "InChI=1S/C4H8/c1-3-4-2/h3-4H,1-2H3/b4-3-",
+        "aux": "AuxInfo=1/0/N:1,4,2,3/E:(1,2)(3,4)/rA:4nCCCC/rB:s1;d2;s3;/rC:12,15,0;60,50,0;120,50,0;168,15,0;",
+        "inchikey": "IAQRGUVFOMOMEM-ARJAWSKDSA-N"
+      }
+    ]
+  },
+  {
+    "id": "rinchi/alanine-racemization",
+    "rxnfile": "$RXN\nalanine-racemization\n  chemomer recording\n\n  1  1\n$MOL\n\n  AsciiChem\n\n  6  5  0  0  0  0  0  0  0  0999 V2000\n   12.0000   22.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0  0\n   72.0000   22.0000    0.0000 C   0  0  2  2  0  0  0  0  0  0  0  0  0\n  132.0000   67.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  132.0000   17.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  192.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\n  192.0000   62.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\n  2  1  1  6  0  0  0  0  0  0  0\n  2  3  1  0  0  0  0  0  0  0  0\n  4  5  2  0  0  0  0  0  0  0  0\n  2  4  1  0  0  0  0  0  0  0  0\n  4  6  1  0  0  0  0  0  0  0  0\nM  END\n$MOL\n\n  AsciiChem\n\n  6  5  0  0  0  0  0  0  0  0999 V2000\n   12.0000   22.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0  0\n   72.0000   22.0000    0.0000 C   0  0  1  2  0  0  0  0  0  0  0  0  0\n  132.0000   67.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  132.0000   17.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  192.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\n  192.0000   62.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\n  2  1  1  1  0  0  0  0  0  0  0\n  2  3  1  0  0  0  0  0  0  0  0\n  4  5  2  0  0  0  0  0  0  0  0\n  2  4  1  0  0  0  0  0  0  0  0\n  4  6  1  0  0  0  0  0  0  0  0\nM  END\n",
+    "rinchi": "RInChI=1.00.1S/C3H7NO2/c1-2(4)3(5)6/h2H,4H2,1H3,(H,5,6)/t2-/m0/s1<>C3H7NO2/c1-2(4)3(5)6/h2H,4H2,1H3,(H,5,6)/t2-/m1/s1/d-",
+    "rauxinfo": "RAuxInfo=1.00.1/1/N:3,2,4,1,5,6/E:(5,6)/it:im/rA:6nNCCCOO/rB:p1;s2;s2;d4;s4;/rC:12,22,0;72,22,0;132,67,0;132,17,0;192,12,0;192,62,0;<>1/N:3,2,4,1,5,6/E:(5,6)/it:im/rA:6nNCCCOO/rB:n1;s2;s2;d4;s4;/rC:12,22,0;72,22,0;132,67,0;132,17,0;192,12,0;192,62,0;",
+    "rinchikey": "SA-BUHFF-QNAYBMKLOC-QNAYBMKLOC-UHFFFADPSC-NGQWF-NWBEM-NUHFF-ZZZ",
+    "longKey": "SA-BUHFF-QNAYBMKLOCPYGJ-REOHCLBHSA-N--QNAYBMKLOCPYGJ-UWTATZPHSA-N",
+    "webKey": "QFJDEEBWWYYAAZSNC-NXMJZMAGZDHGUSA",
+    "components": [
+      {
+        "species": "l-alanine",
+        "inchi": "InChI=1S/C3H7NO2/c1-2(4)3(5)6/h2H,4H2,1H3,(H,5,6)/t2-/m1/s1",
+        "aux": "AuxInfo=1/1/N:3,2,4,1,5,6/E:(5,6)/it:im/rA:6nNCCCOO/rB:n1;s2;s2;d4;s4;/rC:12,22,0;72,22,0;132,67,0;132,17,0;192,12,0;192,62,0;",
+        "inchikey": "QNAYBMKLOCPYGJ-UWTATZPHSA-N"
+      },
+      {
+        "species": "d-alanine",
+        "inchi": "InChI=1S/C3H7NO2/c1-2(4)3(5)6/h2H,4H2,1H3,(H,5,6)/t2-/m0/s1",
+        "aux": "AuxInfo=1/1/N:3,2,4,1,5,6/E:(5,6)/it:im/rA:6nNCCCOO/rB:p1;s2;s2;d4;s4;/rC:12,22,0;72,22,0;132,67,0;132,17,0;192,12,0;192,62,0;",
+        "inchikey": "QNAYBMKLOCPYGJ-REOHCLBHSA-N"
+      }
+    ]
+  },
+  {
+    "id": "rinchi/woehler-urea-synthesis",
+    "rxnfile": "$RXN\nwoehler-urea-synthesis\n  chemomer recording\n\n  3  2\n$MOL\ncarbon dioxide\n  chemomer\n\n  3  2  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   24.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   36.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  2  0\n  1  3  2  0\nM  END\n$MOL\n\n  AsciiChem\n\n  1  0  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0  0\nM  END\n$MOL\n\n  AsciiChem\n\n  1  0  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0  0\nM  END\n$MOL\n\n  AsciiChem\n\n  4  3  0  0  0  0  0  0  0  0999 V2000\n   12.0000   17.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0  0\n   72.0000   17.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  132.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\n  132.0000   62.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0  0  0  0  0  0  0  0\n  2  3  2  0  0  0  0  0  0  0  0\n  2  4  1  0  0  0  0  0  0  0  0\nM  END\n$MOL\n\n  AsciiChem\n\n  1  0  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\nM  END\n",
+    "rinchi": "RInChI=1.00.1S/CH4N2O/c2-1(3)4/h(H4,2,3,4)!H2O/h1H2<>CO2/c2-1-3!H3N/h1H3!H3N/h1H3/d-",
+    "rauxinfo": "RAuxInfo=1.00.1/1/N:2,1,4,3/E:(2,3)/rA:4nNCON/rB:s1;d2;s2;/rC:12,17,0;72,17,0;132,12,0;132,62,0;!0/N:1/rA:1nO/rB:/rC:12,12,0;<>0/N:1,2,3/E:(2,3)/rA:3nCOO/rB:d1;d1;/rC:12,12,0;24,12,0;36,12,0;!0/N:1/rA:1nN/rB:/rC:12,12,0;!0/N:1/rA:1nN/rB:/rC:12,12,0;",
+    "rinchikey": "SA-BUHFF-SCUASENYHW-LHKLHUCUQW-UHFFFADPSC-NUHFF-NUHFF-NUHFF-ZZZ",
+    "longKey": "SA-BUHFF-XSQUKJJJFZCRTK-UHFFFAOYSA-N-XLYOFNOQVPJJNP-UHFFFAOYSA-N--CURLTUGMZLYLDI-UHFFFAOYSA-N-QGZKDVFQNNGYKY-UHFFFAOYSA-N-QGZKDVFQNNGYKY-UHFFFAOYSA-N",
+    "webKey": "ZOUHVWFXSWDKLSLDX-NUHFFFADPSCTJSA",
+    "components": [
+      {
+        "species": "co2",
+        "inchi": "InChI=1S/CO2/c2-1-3",
+        "aux": "AuxInfo=1/0/N:1,2,3/E:(2,3)/rA:3nCOO/rB:d1;d1;/rC:12,12,0;24,12,0;36,12,0;",
+        "inchikey": "CURLTUGMZLYLDI-UHFFFAOYSA-N"
+      },
+      {
+        "species": "ammonia",
+        "inchi": "InChI=1S/H3N/h1H3",
+        "aux": "AuxInfo=1/0/N:1/rA:1nN/rB:/rC:12,12,0;",
+        "inchikey": "QGZKDVFQNNGYKY-UHFFFAOYSA-N"
+      },
+      {
+        "species": "ammonia",
+        "inchi": "InChI=1S/H3N/h1H3",
+        "aux": "AuxInfo=1/0/N:1/rA:1nN/rB:/rC:12,12,0;",
+        "inchikey": "QGZKDVFQNNGYKY-UHFFFAOYSA-N"
+      },
+      {
+        "species": "urea",
+        "inchi": "InChI=1S/CH4N2O/c2-1(3)4/h(H4,2,3,4)",
+        "aux": "AuxInfo=1/1/N:2,1,4,3/E:(2,3)/rA:4nNCON/rB:s1;d2;s2;/rC:12,17,0;72,17,0;132,12,0;132,62,0;",
+        "inchikey": "XSQUKJJJFZCRTK-UHFFFAOYSA-N"
+      },
+      {
+        "species": "water",
+        "inchi": "InChI=1S/H2O/h1H2",
+        "aux": "AuxInfo=1/0/N:1/rA:1nO/rB:/rC:12,12,0;",
+        "inchikey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  {
+    "id": "rinchi/benzene-nitration",
+    "rxnfile": "$RXN\nbenzene-nitration\n  chemomer recording\n\n  2  2\n$MOL\n\n  AsciiChem\n\n  6  6  0  0  0  0  0  0  0  0999 V2000\n   12.0000   18.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n   72.0000   23.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  132.0000   23.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  192.0000   23.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  252.0000   23.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  312.0000   18.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  4  0  0  0  0  0  0  0  0\n  2  3  4  0  0  0  0  0  0  0  0\n  3  4  4  0  0  0  0  0  0  0  0\n  4  5  4  0  0  0  0  0  0  0  0\n  5  6  4  0  0  0  0  0  0  0  0\n  1  6  4  0  0  0  0  0  0  0  0\nM  END\n$MOL\nnitric acid\n  chemomer\n\n  5  4  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0\n   24.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   36.0000   12.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   48.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   60.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  2  3  1  0\n  3  4  2  0\n  3  5  1  0\nM  CHG  2   3   1   5  -1\nM  END\n$MOL\nnitrobenzene\n  chemomer\n\n  9  9  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   24.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   36.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   48.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   60.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   72.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   84.0000   12.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   96.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n  108.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  2  0\n  2  3  1  0\n  3  4  2  0\n  4  5  1  0\n  5  6  2  0\n  6  1  1  0\n  6  7  1  0\n  7  8  2  0\n  7  9  1  0\nM  CHG  2   7   1   9  -1\nM  END\n$MOL\n\n  AsciiChem\n\n  1  0  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\nM  END\n",
+    "rinchi": "RInChI=1.00.1S/C6H5NO2/c8-7(9)6-4-2-1-3-5-6/h1-5H!H2O/h1H2<>C6H6/c1-2-4-6-5-3-1/h1-6H!HNO3/c2-1(3)4/h(H,2,3,4)/d-",
+    "rauxinfo": "RAuxInfo=1.00.1/0/N:3,2,4,1,5,6,7,8,9/E:(2,3)(4,5)(8,9)/CRV:7.5/rA:9nCCCCCCN+OO-/rB:d1;s2;d3;s4;s1d5;s6;d7;s7;/rC:12,12,0;24,12,0;36,12,0;48,12,0;60,12,0;72,12,0;84,12,0;96,12,0;108,12,0;!0/N:1/rA:1nO/rB:/rC:12,12,0;<>0/N:1,2,6,3,5,4/E:(1,2,3,4,5,6)/rA:6nCCCCCC/rB:a1;a2;a3;a4;a1a5;/rC:12,18,0;72,23,0;132,23,0;192,23,0;252,23,0;312,18,0;!1/N:3,2,4,5/E:(2,3,4)/CRV:1.5/rA:5nHON+OO-/rB:s1;s2;d3;s3;/rC:12,12,0;24,12,0;36,12,0;48,12,0;60,12,0;",
+    "rinchikey": "SA-BUHFF-OPVSXILYRF-SANHYHHIGD-UHFFFADPSC-NUHFF-NUHFF-NUHFF-ZZZ",
+    "longKey": "SA-BUHFF-LQNUZADURLCDLV-UHFFFAOYSA-N-XLYOFNOQVPJJNP-UHFFFAOYSA-N--UHOVQNZJYSORNB-UHFFFAOYSA-N-GRYLNZFGIOXLOG-UHFFFAOYSA-N",
+    "webKey": "TXVIAPVCWGBSBGMMW-NUHFFFADPSCTJSA",
+    "components": [
+      {
+        "species": "benzene",
+        "inchi": "InChI=1S/C6H6/c1-2-4-6-5-3-1/h1-6H",
+        "aux": "AuxInfo=1/0/N:1,2,6,3,5,4/E:(1,2,3,4,5,6)/rA:6nCCCCCC/rB:a1;a2;a3;a4;a1a5;/rC:12,18,0;72,23,0;132,23,0;192,23,0;252,23,0;312,18,0;",
+        "inchikey": "UHOVQNZJYSORNB-UHFFFAOYSA-N"
+      },
+      {
+        "species": "nitric-acid",
+        "inchi": "InChI=1S/HNO3/c2-1(3)4/h(H,2,3,4)",
+        "aux": "AuxInfo=1/1/N:3,2,4,5/E:(2,3,4)/CRV:1.5/rA:5nHON+OO-/rB:s1;s2;d3;s3;/rC:12,12,0;24,12,0;36,12,0;48,12,0;60,12,0;",
+        "inchikey": "GRYLNZFGIOXLOG-UHFFFAOYSA-N"
+      },
+      {
+        "species": "nitrobenzene",
+        "inchi": "InChI=1S/C6H5NO2/c8-7(9)6-4-2-1-3-5-6/h1-5H",
+        "aux": "AuxInfo=1/0/N:3,2,4,1,5,6,7,8,9/E:(2,3)(4,5)(8,9)/CRV:7.5/rA:9nCCCCCCN+OO-/rB:d1;s2;d3;s4;s1d5;s6;d7;s7;/rC:12,12,0;24,12,0;36,12,0;48,12,0;60,12,0;72,12,0;84,12,0;96,12,0;108,12,0;",
+        "inchikey": "LQNUZADURLCDLV-UHFFFAOYSA-N"
+      },
+      {
+        "species": "water",
+        "inchi": "InChI=1S/H2O/h1H2",
+        "aux": "AuxInfo=1/0/N:1/rA:1nO/rB:/rC:12,12,0;",
+        "inchikey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  {
+    "id": "rinchi/gas-phase-unknown-product",
+    "rxnfile": "$RXN\ngas-phase-unknown-product\n  chemomer recording\n\n  2  0\n$MOL\n\n  AsciiChem\n\n  1  0  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0  0\nM  END\n$MOL\nhydrogen chloride\n  chemomer\n\n  2  1  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0\n   24.0000   12.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\nM  END\n",
+    "rinchi": "RInChI=1.00.1S/<>ClH/h1H!H3N/h1H3/d-",
+    "rauxinfo": "RAuxInfo=1.00.1/<>0/N:2/rA:2nHCl/rB:s1;/rC:12,12,0;24,12,0;!0/N:1/rA:1nN/rB:/rC:12,12,0;",
+    "rinchikey": "SA-BUHFF-UHFFFADPSC-CZQNQENMZG-UHFFFADPSC-NUHFF-NUHFF-NUHFF-ZZZ",
+    "longKey": "SA-BUHFF---VEXZGXHMUGYJMC-UHFFFAOYSA-N-QGZKDVFQNNGYKY-UHFFFAOYSA-N",
+    "webKey": "CZQNQENMZGJZOHAHT-NUHFFFADPSCTJSA",
+    "components": [
+      {
+        "species": "ammonia",
+        "inchi": "InChI=1S/H3N/h1H3",
+        "aux": "AuxInfo=1/0/N:1/rA:1nN/rB:/rC:12,12,0;",
+        "inchikey": "QGZKDVFQNNGYKY-UHFFFAOYSA-N"
+      },
+      {
+        "species": "hcl",
+        "inchi": "InChI=1S/ClH/h1H",
+        "aux": "AuxInfo=1/0/N:2/rA:2nHCl/rB:s1;/rC:12,12,0;24,12,0;",
+        "inchikey": "VEXZGXHMUGYJMC-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  {
+    "id": "rinchi/water-to-unknown",
+    "rxnfile": "$RXN\nwater-to-unknown\n  chemomer recording\n\n  1  1\n$MOL\n\n  AsciiChem\n\n  1  0  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\nM  END\n$MOL\nunknown structure\n  chemomer\n\n  1  0  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 A   0  0  0  0  0  0  0  0  0  0  0  0\nM  END\n",
+    "rinchi": "RInChI=1.00.1S/<>H2O/h1H2/d-/u1-0-0",
+    "rauxinfo": "RAuxInfo=1.00.1/<>0/N:1/rA:1nO/rB:/rC:12,12,0;",
+    "rinchikey": "SA-BUHFF-UHFFFADPSC-XLYOFNOQVP-UHFFFADPSC-NUHFF-NUHFF-NUHFF-AZZ",
+    "longKey": "SA-BUHFF-MOSFIJXAXDLOML-UHFFFAOYSA-N--XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+    "webKey": "STNSBOCECDZATIDBV-NUHFFFADPSCTJSA",
+    "components": [
+      {
+        "species": "water",
+        "inchi": "InChI=1S/H2O/h1H2",
+        "aux": "AuxInfo=1/0/N:1/rA:1nO/rB:/rC:12,12,0;",
+        "inchikey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N"
+      },
+      {
+        "species": "placeholder",
+        "inchi": "InChI=1S/",
+        "aux": "AuxInfo=1/",
+        "inchikey": "MOSFIJXAXDLOML-UHFFFAOYSA-N"
+      }
+    ]
+  }
+]
