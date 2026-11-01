@@ -1,0 +1,877 @@
+[
+  {
+    "id": "identity/pentane-2-4-dione",
+    "structureClass": "taut-beta-diketone",
+    "tags": [],
+    "molfile": "pentane-2-4-dione\n  AsciiChem\n\n  7  6  0  0  0  0  0  0  0  0999 V2000\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0  0  0  0  0\n  2  3  2  0  0  0  0  0\n  2  4  1  0  0  0  0  0\n  4  5  1  0  0  0  0  0\n  5  6  2  0  0  0  0  0\n  5  7  1  0  0  0  0  0\nM  END\n",
+    "inchi": "InChI=1S/C5H8O2/c1-4(6)3-5(2)7/h3H2,1-2H3",
+    "inchikey": "YRKCREAYFQTBPV-UHFFFAOYSA-N",
+    "ket": {
+      "inchi": "InChI=1/C5H8O2/c1-4(6)3-5(2)7/h1-2H3,(H2,3,6,7)"
+    },
+    "t15": {
+      "inchi": "InChI=1/C5H8O2/c1-4(6)3-5(2)7/h3H2,1-2H3"
+    },
+    "ket15t": {
+      "inchi": "InChI=1/C5H8O2/c1-4(6)3-5(2)7/h1-2H3,(H2,3,6,7)"
+    },
+    "pt22": {
+      "inchi": "InChI=1/C5H8O2/c1-4(6)3-5(2)7/h3H2,1-2H3"
+    },
+    "pt16": {
+      "inchi": "InChI=1/C5H8O2/c1-4(6)3-5(2)7/h3H2,1-2H3"
+    },
+    "pt06": {
+      "inchi": "InChI=1/C5H8O2/c1-4(6)3-5(2)7/h(H8,1,2,3,6,7)"
+    },
+    "pt39": {
+      "inchi": "InChI=1/C5H8O2/c1-4(6)3-5(2)7/h3H2,1-2H3"
+    },
+    "pt13": {
+      "inchi": "InChI=1/C5H8O2/c1-4(6)3-5(2)7/h3H2,1-2H3"
+    },
+    "pt18": {
+      "inchi": "InChI=1/C5H8O2/c1-4(6)3-5(2)7/h3H2,1-2H3"
+    }
+  },
+  {
+    "id": "identity/cyclohexane-1-3-dione",
+    "structureClass": "taut-beta-diketone-ring",
+    "tags": [],
+    "molfile": "cyclohexane-1-3-dione\n  AsciiChem\n\n  8  8  0  0  0  0  0  0  0  0999 V2000\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  2  0  0  0  0  0\n  2  3  1  0  0  0  0  0\n  3  4  1  0  0  0  0  0\n  4  5  1  0  0  0  0  0\n  5  6  1  0  0  0  0  0\n  6  1  1  0  0  0  0  0\n  2  7  2  0  0  0  0  0\n  4  8  2  0  0  0  0  0\nM  END\n",
+    "inchi": "InChI=1S/C6H7O2/c7-5-2-1-3-6(8)4-5/h2H,1,3-4H2",
+    "inchikey": "PKJADIPYRCCMIS-UHFFFAOYSA-N",
+    "ket": {
+      "inchi": "InChI=1/C6H7O2/c7-5-2-1-3-6(8)4-5/h2H,1H2,(H4,3,4,8)"
+    },
+    "t15": {
+      "inchi": "InChI=1/C6H7O2/c7-5-2-1-3-6(8)4-5/h2H,1,3-4H2"
+    },
+    "ket15t": {
+      "inchi": "InChI=1/C6H7O2/c7-5-2-1-3-6(8)4-5/h2H,1H2,(H4,3,4,8)"
+    },
+    "pt22": {
+      "inchi": "InChI=1/C6H7O2/c7-5-2-1-3-6(8)4-5/h2H,1,3-4H2"
+    },
+    "pt16": {
+      "inchi": "InChI=1/C6H7O2/c7-5-2-1-3-6(8)4-5/h2H,1,3-4H2"
+    },
+    "pt06": {
+      "inchi": "InChI=1/C6H7O2/c7-5-2-1-3-6(8)4-5/h1H2,(H5,2,3,4,7,8)"
+    },
+    "pt39": {
+      "inchi": "InChI=1/C6H7O2/c7-5-2-1-3-6(8)4-5/h2H,1,3-4H2"
+    },
+    "pt13": {
+      "inchi": "InChI=1/C6H7O2/c7-5-2-1-3-6(8)4-5/h2H,1,3-4H2"
+    },
+    "pt18": {
+      "inchi": "InChI=1/C6H7O2/c7-5-2-1-3-6(8)4-5/h2H,1,3-4H2"
+    }
+  },
+  {
+    "id": "identity/propan-2-one",
+    "structureClass": "taut-keto-enol",
+    "tags": [],
+    "molfile": "propan-2-one\n  AsciiChem\n\n  4  3  0  0  0  0  0  0  0  0999 V2000\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0  0  0  0  0\n  2  3  2  0  0  0  0  0\n  2  4  1  0  0  0  0  0\nM  END\n",
+    "inchi": "InChI=1S/C3H6O/c1-3(2)4/h1-2H3",
+    "inchikey": "CSCPPACGZOOCGX-UHFFFAOYSA-N",
+    "ket": {
+      "inchi": "InChI=1/C3H6O/c1-3(2)4/h1-2H3"
+    },
+    "t15": {
+      "inchi": "InChI=1/C3H6O/c1-3(2)4/h1-2H3"
+    },
+    "ket15t": {
+      "inchi": "InChI=1/C3H6O/c1-3(2)4/h1-2H3"
+    },
+    "pt22": {
+      "inchi": "InChI=1/C3H6O/c1-3(2)4/h1-2H3"
+    },
+    "pt16": {
+      "inchi": "InChI=1/C3H6O/c1-3(2)4/h1-2H3"
+    },
+    "pt06": {
+      "inchi": "InChI=1/C3H6O/c1-3(2)4/h(H6,1,2,4)"
+    },
+    "pt39": {
+      "inchi": "InChI=1/C3H6O/c1-3(2)4/h1-2H3"
+    },
+    "pt13": {
+      "inchi": "InChI=1/C3H6O/c1-3(2)4/h1-2H3"
+    },
+    "pt18": {
+      "inchi": "InChI=1/C3H6O/c1-3(2)4/h1-2H3"
+    }
+  },
+  {
+    "id": "identity/prop-1-en-2-ol",
+    "structureClass": "taut-keto-enol",
+    "tags": [],
+    "molfile": "prop-1-en-2-ol\n  AsciiChem\n\n  4  3  0  0  0  0  0  0  0  0999 V2000\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0  0  0  0  0\n  2  3  1  0  0  0  0  0\n  2  4  2  0  0  0  0  0\nM  END\n",
+    "inchi": "InChI=1S/C3H6O/c1-3(2)4/h4H,1H2,2H3",
+    "inchikey": "NARVIWMVBMUEOG-UHFFFAOYSA-N",
+    "ket": {
+      "inchi": "InChI=1/C3H6O/c1-3(2)4/h4H,1H2,2H3"
+    },
+    "t15": {
+      "inchi": "InChI=1/C3H6O/c1-3(2)4/h4H,1H2,2H3"
+    },
+    "ket15t": {
+      "inchi": "InChI=1/C3H6O/c1-3(2)4/h4H,1H2,2H3"
+    },
+    "pt22": {
+      "inchi": "InChI=1/C3H6O/c1-3(2)4/h4H,1H2,2H3"
+    },
+    "pt16": {
+      "inchi": "InChI=1/C3H6O/c1-3(2)4/h4H,1H2,2H3"
+    },
+    "pt06": {
+      "inchi": "InChI=1/C3H6O/c1-3(2)4/h(H6,1,2,4)"
+    },
+    "pt39": {
+      "inchi": "InChI=1/C3H6O/c1-3(2)4/h4H,1H2,2H3"
+    },
+    "pt13": {
+      "inchi": "InChI=1/C3H6O/c1-3(2)4/h4H,1H2,2H3"
+    },
+    "pt18": {
+      "inchi": "InChI=1/C3H6O/c1-3(2)4/h4H,1H2,2H3"
+    }
+  },
+  {
+    "id": "identity/cyclohexanone",
+    "structureClass": "taut-keto-enol-ring",
+    "tags": [],
+    "molfile": "cyclohexanone\n  AsciiChem\n\n  7  7  0  0  0  0  0  0  0  0999 V2000\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0  0  0  0  0\n  2  3  1  0  0  0  0  0\n  3  4  1  0  0  0  0  0\n  4  5  1  0  0  0  0  0\n  5  6  1  0  0  0  0  0\n  6  1  1  0  0  0  0  0\n  1  7  2  0  0  0  0  0\nM  END\n",
+    "inchi": "InChI=1S/C6H10O/c7-6-4-2-1-3-5-6/h1-5H2",
+    "inchikey": "JHIVVAPYMSGYDF-UHFFFAOYSA-N",
+    "ket": {
+      "inchi": "InChI=1/C6H10O/c7-6-4-2-1-3-5-6/h1-3H2,(H4,4,5,7)"
+    },
+    "t15": {
+      "inchi": "InChI=1/C6H10O/c7-6-4-2-1-3-5-6/h1-5H2"
+    },
+    "ket15t": {
+      "inchi": "InChI=1/C6H10O/c7-6-4-2-1-3-5-6/h1-3H2,(H4,4,5,7)"
+    },
+    "pt22": {
+      "inchi": "InChI=1/C6H10O/c7-6-4-2-1-3-5-6/h1-5H2"
+    },
+    "pt16": {
+      "inchi": "InChI=1/C6H10O/c7-6-4-2-1-3-5-6/h1-5H2"
+    },
+    "pt06": {
+      "inchi": "InChI=1/C6H10O/c7-6-4-2-1-3-5-6/h1-3H2,(H4,4,5,7)"
+    },
+    "pt39": {
+      "inchi": "InChI=1/C6H10O/c7-6-4-2-1-3-5-6/h1-5H2"
+    },
+    "pt13": {
+      "inchi": "InChI=1/C6H10O/c7-6-4-2-1-3-5-6/h1-5H2"
+    },
+    "pt18": {
+      "inchi": "InChI=1/C6H10O/c7-6-4-2-1-3-5-6/h1-5H2"
+    }
+  },
+  {
+    "id": "identity/cyclohex-1-en-1-ol",
+    "structureClass": "taut-keto-enol-ring",
+    "tags": [],
+    "molfile": "cyclohex-1-en-1-ol\n  AsciiChem\n\n  7  7  0  0  0  0  0  0  0  0999 V2000\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0  0  0  0  0\n  2  3  2  0  0  0  0  0\n  3  4  1  0  0  0  0  0\n  4  5  1  0  0  0  0  0\n  5  6  1  0  0  0  0  0\n  6  1  1  0  0  0  0  0\n  2  7  1  0  0  0  0  0\nM  END\n",
+    "inchi": "InChI=1S/C6H10O/c7-6-4-2-1-3-5-6/h4,7H,1-3,5H2",
+    "inchikey": "QHDHNVFIKWGRJR-UHFFFAOYSA-N",
+    "ket": {
+      "inchi": "InChI=1/C6H10O/c7-6-4-2-1-3-5-6/h1-3H2,(H4,4,5,7)"
+    },
+    "t15": {
+      "inchi": "InChI=1/C6H10O/c7-6-4-2-1-3-5-6/h4,7H,1-3,5H2"
+    },
+    "ket15t": {
+      "inchi": "InChI=1/C6H10O/c7-6-4-2-1-3-5-6/h1-3H2,(H4,4,5,7)"
+    },
+    "pt22": {
+      "inchi": "InChI=1/C6H10O/c7-6-4-2-1-3-5-6/h4,7H,1-3,5H2"
+    },
+    "pt16": {
+      "inchi": "InChI=1/C6H10O/c7-6-4-2-1-3-5-6/h4,7H,1-3,5H2"
+    },
+    "pt06": {
+      "inchi": "InChI=1/C6H10O/c7-6-4-2-1-3-5-6/h1-3H2,(H4,4,5,7)"
+    },
+    "pt39": {
+      "inchi": "InChI=1/C6H10O/c7-6-4-2-1-3-5-6/h4,7H,1-3,5H2"
+    },
+    "pt13": {
+      "inchi": "InChI=1/C6H10O/c7-6-4-2-1-3-5-6/h4,7H,1-3,5H2"
+    },
+    "pt18": {
+      "inchi": "InChI=1/C6H10O/c7-6-4-2-1-3-5-6/h4,7H,1-3,5H2"
+    }
+  },
+  {
+    "id": "identity/glutaconaldehyde-imine",
+    "structureClass": "taut-1-5-chain",
+    "tags": [],
+    "molfile": "glutaconaldehyde-imine\n  AsciiChem\n\n  5  4  0  0  0  0  0  0  0  0999 V2000\n    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  2  0  0  0  0  0\n  2  3  1  0  0  0  0  0\n  3  4  2  0  0  0  0  0\n  4  5  1  0  0  0  0  0\nM  END\n",
+    "inchi": "InChI=1S/C3H5NO/c4-2-1-3-5/h1-3H,4H2",
+    "inchikey": "UCRYVFBKCBUURB-UHFFFAOYSA-N",
+    "ket": {
+      "inchi": "InChI=1/C3H5NO/c4-2-1-3-5/h1-3H,4H2"
+    },
+    "t15": {
+      "inchi": "InChI=1/C3H5NO/c4-2-1-3-5/h1-3H,(H2,4,5)"
+    },
+    "ket15t": {
+      "inchi": "InChI=1/C3H5NO/c4-2-1-3-5/h2-3H,(H3,1,4,5)"
+    },
+    "pt22": {
+      "inchi": "InChI=1/C3H5NO/c4-2-1-3-5/h1-3H,4H2"
+    },
+    "pt16": {
+      "inchi": "InChI=1/C3H5NO/c4-2-1-3-5/h1-3H,4H2"
+    },
+    "pt06": {
+      "inchi": "InChI=1/C3H5NO/c4-2-1-3-5/h2-3H,(H3,1,4,5)"
+    },
+    "pt39": {
+      "inchi": "InChI=1/C3H5NO/c4-2-1-3-5/h1-3H,4H2"
+    },
+    "pt13": {
+      "inchi": "InChI=1/C3H5NO/c4-2-1-3-5/h2-3H,4H2,(H,1,5)"
+    },
+    "pt18": {
+      "inchi": "InChI=1/C3H5NO/c4-2-1-3-5/h1-3H,4H2"
+    }
+  },
+  {
+    "id": "identity/glutaconaldehyde-imine-enol",
+    "structureClass": "taut-1-5-chain",
+    "tags": [],
+    "molfile": "glutaconaldehyde-imine-enol\n  AsciiChem\n\n  5  4  0  0  0  0  0  0  0  0999 V2000\n    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0  0  0  0  0\n  2  3  2  0  0  0  0  0\n  3  4  1  0  0  0  0  0\n  4  5  2  0  0  0  0  0\nM  END\n",
+    "inchi": "InChI=1S/C3H5NO/c4-2-1-3-5/h1-5H",
+    "inchikey": "ZFRAOYKNCCPHCP-UHFFFAOYSA-N",
+    "ket": {
+      "inchi": "InChI=1/C3H5NO/c4-2-1-3-5/h2-4H,(H2,1,5)"
+    },
+    "t15": {
+      "inchi": "InChI=1/C3H5NO/c4-2-1-3-5/h1-3H,(H2,4,5)"
+    },
+    "ket15t": {
+      "inchi": "InChI=1/C3H5NO/c4-2-1-3-5/h2-3H,(H3,1,4,5)"
+    },
+    "pt22": {
+      "inchi": "InChI=1/C3H5NO/c4-2-1-3-5/h1-5H"
+    },
+    "pt16": {
+      "inchi": "InChI=1/C3H5NO/c4-2-1-3-5/h1-5H"
+    },
+    "pt06": {
+      "inchi": "InChI=1/C3H5NO/c4-2-1-3-5/h2-3H,(H3,1,4,5)"
+    },
+    "pt39": {
+      "inchi": "InChI=1/C3H5NO/c4-2-1-3-5/h1-5H"
+    },
+    "pt13": {
+      "inchi": "InChI=1/C3H5NO/c4-2-1-3-5/h1-5H"
+    },
+    "pt18": {
+      "inchi": "InChI=1/C3H5NO/c4-2-1-3-5/h1-5H"
+    }
+  },
+  {
+    "id": "identity/but-2-enedial",
+    "structureClass": "taut-1-5-chain",
+    "tags": [],
+    "molfile": "but-2-enedial\n  AsciiChem\n\n  6  5  0  0  0  0  0  0  0  0999 V2000\n    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  2  0  0  0  0  0\n  2  3  1  0  0  0  0  0\n  3  4  2  0  0  0  0  0\n  4  5  1  0  0  0  0  0\n  5  6  2  0  0  0  0  0\nM  END\n",
+    "inchi": "InChI=1S/C4H4O2/c5-3-1-2-4-6/h1-4H",
+    "inchikey": "JGEMYUOFGVHXKV-UHFFFAOYSA-N",
+    "ket": {
+      "inchi": "InChI=1/C4H4O2/c5-3-1-2-4-6/h1-4H"
+    },
+    "t15": {
+      "inchi": "InChI=1/C4H4O2/c5-3-1-2-4-6/h1-4H"
+    },
+    "ket15t": {
+      "inchi": "InChI=1/C4H4O2/c5-3-1-2-4-6/h1-4H"
+    },
+    "pt22": {
+      "inchi": "InChI=1/C4H4O2/c5-3-1-2-4-6/h1-4H"
+    },
+    "pt16": {
+      "inchi": "InChI=1/C4H4O2/c5-3-1-2-4-6/h1-4H"
+    },
+    "pt06": {
+      "inchi": "InChI=1/C4H4O2/c5-3-1-2-4-6/h1-4H"
+    },
+    "pt39": {
+      "inchi": "InChI=1/C4H4O2/c5-3-1-2-4-6/h1-4H"
+    },
+    "pt13": {
+      "inchi": "InChI=1/C4H4O2/c5-3-1-2-4-6/h3-4H,(H,1,5)(H,2,6)"
+    },
+    "pt18": {
+      "inchi": "InChI=1/C4H4O2/c5-3-1-2-4-6/h1-4H"
+    }
+  },
+  {
+    "id": "identity/but-2-enedial-bisenol",
+    "structureClass": "taut-1-5-chain",
+    "tags": [],
+    "molfile": "but-2-enedial-bisenol\n  AsciiChem\n\n  6  5  0  0  0  0  0  0  0  0999 V2000\n    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0  0  0  0  0\n  2  3  2  0  0  0  0  0\n  3  4  1  0  0  0  0  0\n  4  5  2  0  0  0  0  0\n  5  6  1  0  0  0  0  0\nM  END\n",
+    "inchi": "InChI=1S/C4H6O2/c5-3-1-2-4-6/h1-6H",
+    "inchikey": "CXDWIOQNFMIXCX-UHFFFAOYSA-N",
+    "ket": {
+      "inchi": "InChI=1/C4H6O2/c5-3-1-2-4-6/h3-4H,(H2,1,5)(H2,2,6)"
+    },
+    "t15": {
+      "inchi": "InChI=1/C4H6O2/c5-3-1-2-4-6/h1-6H"
+    },
+    "ket15t": {
+      "inchi": "InChI=1/C4H6O2/c5-3-1-2-4-6/h3-4H,(H2,1,5)(H2,2,6)"
+    },
+    "pt22": {
+      "inchi": "InChI=1/C4H6O2/c5-3-1-2-4-6/h1-6H"
+    },
+    "pt16": {
+      "inchi": "InChI=1/C4H6O2/c5-3-1-2-4-6/h1-6H"
+    },
+    "pt06": {
+      "inchi": "InChI=1/C4H6O2/c5-3-1-2-4-6/h3-4H,(H2,1,5)(H2,2,6)"
+    },
+    "pt39": {
+      "inchi": "InChI=1/C4H6O2/c5-3-1-2-4-6/h1-6H"
+    },
+    "pt13": {
+      "inchi": "InChI=1/C4H6O2/c5-3-1-2-4-6/h1-6H"
+    },
+    "pt18": {
+      "inchi": "InChI=1/C4H6O2/c5-3-1-2-4-6/h1-6H"
+    }
+  },
+  {
+    "id": "identity/formaldoxime",
+    "structureClass": "taut-nitroso-oxime",
+    "tags": [],
+    "molfile": "formaldoxime\n  AsciiChem\n\n  3  2  0  0  0  0  0  0  0  0999 V2000\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  2  0  0  0  0  0\n  2  3  1  0  0  0  0  0\nM  END\n",
+    "inchi": "InChI=1S/CH3NO/c1-2-3/h3H,1H2",
+    "inchikey": "SQDFHQJTAWCFIB-UHFFFAOYSA-N",
+    "ket": {
+      "inchi": "InChI=1/CH3NO/c1-2-3/h3H,1H2"
+    },
+    "t15": {
+      "inchi": "InChI=1/CH3NO/c1-2-3/h3H,1H2"
+    },
+    "ket15t": {
+      "inchi": "InChI=1/CH3NO/c1-2-3/h3H,1H2"
+    },
+    "pt22": {
+      "inchi": "InChI=1/CH3NO/c1-2-3/h3H,1H2"
+    },
+    "pt16": {
+      "inchi": "InChI=1/CH3NO/c1-2-3/h3H,1H2"
+    },
+    "pt06": {
+      "inchi": "InChI=1/CH3NO/c1-2-3/h(H3,1,3)"
+    },
+    "pt39": {
+      "inchi": "InChI=1/CH3NO/c1-2-3/h3H,1H2"
+    },
+    "pt13": {
+      "inchi": "InChI=1/CH3NO/c1-2-3/h3H,1H2"
+    },
+    "pt18": {
+      "inchi": "InChI=1/CH3NO/c1-2-3/h3H,1H2"
+    }
+  },
+  {
+    "id": "identity/nitrosomethane",
+    "structureClass": "taut-nitroso-oxime",
+    "tags": [],
+    "molfile": "nitrosomethane\n  AsciiChem\n\n  3  2  0  0  0  0  0  0  0  0999 V2000\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0  0  0  0  0\n  2  3  2  0  0  0  0  0\nM  END\n",
+    "inchi": "InChI=1S/CH3NO/c1-2-3/h1H3",
+    "inchikey": "IMHRONYAKYWGCC-UHFFFAOYSA-N",
+    "ket": {
+      "inchi": "InChI=1/CH3NO/c1-2-3/h1H3"
+    },
+    "t15": {
+      "inchi": "InChI=1/CH3NO/c1-2-3/h1H3"
+    },
+    "ket15t": {
+      "inchi": "InChI=1/CH3NO/c1-2-3/h1H3"
+    },
+    "pt22": {
+      "inchi": "InChI=1/CH3NO/c1-2-3/h1H3"
+    },
+    "pt16": {
+      "inchi": "InChI=1/CH3NO/c1-2-3/h1H3"
+    },
+    "pt06": {
+      "inchi": "InChI=1/CH3NO/c1-2-3/h(H3,1,3)"
+    },
+    "pt39": {
+      "inchi": "InChI=1/CH3NO/c1-2-3/h1H3"
+    },
+    "pt13": {
+      "inchi": "InChI=1/CH3NO/c1-2-3/h1H3"
+    },
+    "pt18": {
+      "inchi": "InChI=1/CH3NO/c1-2-3/h1H3"
+    }
+  },
+  {
+    "id": "identity/acetaldoxime",
+    "structureClass": "taut-nitroso-oxime",
+    "tags": [],
+    "molfile": "acetaldoxime\n  AsciiChem\n\n  4  3  0  0  0  0  0  0  0  0999 V2000\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0  0  0  0  0\n  2  3  2  0  0  0  0  0\n  3  4  1  0  0  0  0  0\nM  END\n",
+    "inchi": "InChI=1S/C2H5NO/c1-2-3-4/h2,4H,1H3",
+    "inchikey": "FZENGILVLUJGJX-UHFFFAOYSA-N",
+    "ket": {
+      "inchi": "InChI=1/C2H5NO/c1-2-3-4/h2,4H,1H3"
+    },
+    "t15": {
+      "inchi": "InChI=1/C2H5NO/c1-2-3-4/h2,4H,1H3"
+    },
+    "ket15t": {
+      "inchi": "InChI=1/C2H5NO/c1-2-3-4/h2,4H,1H3"
+    },
+    "pt22": {
+      "inchi": "InChI=1/C2H5NO/c1-2-3-4/h2,4H,1H3"
+    },
+    "pt16": {
+      "inchi": "InChI=1/C2H5NO/c1-2-3-4/h1H3,(H2,2,4)"
+    },
+    "pt06": {
+      "inchi": "InChI=1/C2H5NO/c1-2-3-4/h(H3,1,3)(H2,2,4)"
+    },
+    "pt39": {
+      "inchi": "InChI=1/C2H5NO/c1-2-3-4/h2,4H,1H3"
+    },
+    "pt13": {
+      "inchi": "InChI=1/C2H5NO/c1-2-3-4/h2,4H,1H3"
+    },
+    "pt18": {
+      "inchi": "InChI=1/C2H5NO/c1-2-3-4/h2,4H,1H3"
+    }
+  },
+  {
+    "id": "identity/cyanic-acid",
+    "structureClass": "taut-cyanic",
+    "tags": [],
+    "molfile": "cyanic-acid\n  AsciiChem\n\n  3  2  0  0  0  0  0  0  0  0999 V2000\n    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0  0  0  0  0\n  2  3  3  0  0  0  0  0\nM  END\n",
+    "inchi": "InChI=1S/CHNO/c2-1-3/h3H",
+    "inchikey": "XLJMAIOERFSOGZ-UHFFFAOYSA-N",
+    "ket": {
+      "inchi": "InChI=1/CHNO/c2-1-3/h3H"
+    },
+    "t15": {
+      "inchi": "InChI=1/CHNO/c2-1-3/h3H"
+    },
+    "ket15t": {
+      "inchi": "InChI=1/CHNO/c2-1-3/h3H"
+    },
+    "pt22": {
+      "inchi": "InChI=1/CHNO/c2-1-3/h3H"
+    },
+    "pt16": {
+      "inchi": "InChI=1/CHNO/c2-1-3/h3H"
+    },
+    "pt06": {
+      "inchi": "InChI=1/CHNO/c2-1-3/h3H"
+    },
+    "pt39": {
+      "inchi": "InChI=1/CHNO/c2-1-3/h3H"
+    },
+    "pt13": {
+      "inchi": "InChI=1/CHNO/c2-1-3/h3H"
+    },
+    "pt18": {
+      "inchi": "InChI=1/CHNO/c2-1-3/h(H,2,3)"
+    }
+  },
+  {
+    "id": "identity/isocyanic-acid",
+    "structureClass": "taut-cyanic",
+    "tags": [],
+    "molfile": "isocyanic-acid\n  AsciiChem\n\n  3  2  0  0  0  0  0  0  0  0999 V2000\n    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  2  0  0  0  0  0\n  2  3  2  0  0  0  0  0\nM  END\n",
+    "inchi": "InChI=1S/CHNO/c2-1-3/h2H",
+    "inchikey": "OWIKHYCFFJSOEH-UHFFFAOYSA-N",
+    "ket": {
+      "inchi": "InChI=1/CHNO/c2-1-3/h2H"
+    },
+    "t15": {
+      "inchi": "InChI=1/CHNO/c2-1-3/h2H"
+    },
+    "ket15t": {
+      "inchi": "InChI=1/CHNO/c2-1-3/h2H"
+    },
+    "pt22": {
+      "inchi": "InChI=1/CHNO/c2-1-3/h2H"
+    },
+    "pt16": {
+      "inchi": "InChI=1/CHNO/c2-1-3/h2H"
+    },
+    "pt06": {
+      "inchi": "InChI=1/CHNO/c2-1-3/h2H"
+    },
+    "pt39": {
+      "inchi": "InChI=1/CHNO/c2-1-3/h2H"
+    },
+    "pt13": {
+      "inchi": "InChI=1/CHNO/c2-1-3/h2H"
+    },
+    "pt18": {
+      "inchi": "InChI=1/CHNO/c2-1-3/h(H,2,3)"
+    }
+  },
+  {
+    "id": "identity/N-methyl-ethanimine",
+    "structureClass": "taut-imine",
+    "tags": [],
+    "molfile": "N-methyl-ethanimine\n  AsciiChem\n\n  4  3  0  0  0  0  0  0  0  0999 V2000\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0  0  0  0  0\n  2  3  2  0  0  0  0  0\n  3  4  1  0  0  0  0  0\nM  END\n",
+    "inchi": "InChI=1S/C3H7N/c1-3-4-2/h3H,1-2H3",
+    "inchikey": "OHACMJAMDKRMSW-UHFFFAOYSA-N",
+    "ket": {
+      "inchi": "InChI=1/C3H7N/c1-3-4-2/h3H,1-2H3"
+    },
+    "t15": {
+      "inchi": "InChI=1/C3H7N/c1-3-4-2/h3H,1-2H3"
+    },
+    "ket15t": {
+      "inchi": "InChI=1/C3H7N/c1-3-4-2/h3H,1-2H3"
+    },
+    "pt22": {
+      "inchi": "InChI=1/C3H7N/c1-3-4-2/h1H3,(H4,2,3)"
+    },
+    "pt16": {
+      "inchi": "InChI=1/C3H7N/c1-3-4-2/h3H,1-2H3"
+    },
+    "pt06": {
+      "inchi": "InChI=1/C3H7N/c1-3-4-2/h3H,2H3,(H3,1,4)"
+    },
+    "pt39": {
+      "inchi": "InChI=1/C3H7N/c1-3-4-2/h3H,1-2H3"
+    },
+    "pt13": {
+      "inchi": "InChI=1/C3H7N/c1-3-4-2/h3H,1-2H3"
+    },
+    "pt18": {
+      "inchi": "InChI=1/C3H7N/c1-3-4-2/h3H,1-2H3"
+    }
+  },
+  {
+    "id": "identity/ethylidenimine-enamine-tautomer",
+    "structureClass": "taut-imine",
+    "tags": [],
+    "molfile": "ethylidenimine-enamine-tautomer\n  AsciiChem\n\n  4  3  0  0  0  0  0  0  0  0999 V2000\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0  0  0  0  0\n  2  3  1  0  0  0  0  0\n  3  4  2  0  0  0  0  0\nM  END\n",
+    "inchi": "InChI=1S/C3H7N/c1-3-4-2/h2-3H2,1H3",
+    "inchikey": "FKOYAFITBICFAO-UHFFFAOYSA-N",
+    "ket": {
+      "inchi": "InChI=1/C3H7N/c1-3-4-2/h2-3H2,1H3"
+    },
+    "t15": {
+      "inchi": "InChI=1/C3H7N/c1-3-4-2/h2-3H2,1H3"
+    },
+    "ket15t": {
+      "inchi": "InChI=1/C3H7N/c1-3-4-2/h2-3H2,1H3"
+    },
+    "pt22": {
+      "inchi": "InChI=1/C3H7N/c1-3-4-2/h1H3,(H4,2,3)"
+    },
+    "pt16": {
+      "inchi": "InChI=1/C3H7N/c1-3-4-2/h2-3H2,1H3"
+    },
+    "pt06": {
+      "inchi": "InChI=1/C3H7N/c1-3-4-2/h2-3H2,1H3"
+    },
+    "pt39": {
+      "inchi": "InChI=1/C3H7N/c1-3-4-2/h2-3H2,1H3"
+    },
+    "pt13": {
+      "inchi": "InChI=1/C3H7N/c1-3-4-2/h2-3H2,1H3"
+    },
+    "pt18": {
+      "inchi": "InChI=1/C3H7N/c1-3-4-2/h2-3H2,1H3"
+    }
+  },
+  {
+    "id": "identity/diazene-methane",
+    "structureClass": "taut-hetero-ene",
+    "tags": [],
+    "molfile": "diazene-methane\n  AsciiChem\n\n  3  2  0  0  0  0  0  0  0  0999 V2000\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  2  0  0  0  0  0\n  2  3  1  0  0  0  0  0\nM  END\n",
+    "inchi": "InChI=1S/CH4N2/c1-3-2/h1-2H2",
+    "inchikey": "IDBOAVAEGRJRIZ-UHFFFAOYSA-N",
+    "ket": {
+      "inchi": "InChI=1/CH4N2/c1-3-2/h1-2H2"
+    },
+    "t15": {
+      "inchi": "InChI=1/CH4N2/c1-3-2/h1-2H2"
+    },
+    "ket15t": {
+      "inchi": "InChI=1/CH4N2/c1-3-2/h1-2H2"
+    },
+    "pt22": {
+      "inchi": "InChI=1/CH4N2/c1-3-2/h1-2H2"
+    },
+    "pt16": {
+      "inchi": "InChI=1/CH4N2/c1-3-2/h1-2H2"
+    },
+    "pt06": {
+      "inchi": "InChI=1/CH4N2/c1-3-2/h(H4,1,2)"
+    },
+    "pt39": {
+      "inchi": "InChI=1/CH4N2/c1-3-2/h1-2H2"
+    },
+    "pt13": {
+      "inchi": "InChI=1/CH4N2/c1-3-2/h1-2H2"
+    },
+    "pt18": {
+      "inchi": "InChI=1/CH4N2/c1-3-2/h1-2H2"
+    }
+  },
+  {
+    "id": "identity/azo-methane-tautomer",
+    "structureClass": "taut-hetero-ene",
+    "tags": [],
+    "molfile": "azo-methane-tautomer\n  AsciiChem\n\n  3  2  0  0  0  0  0  0  0  0999 V2000\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0  0  0  0  0\n  2  3  2  0  0  0  0  0\nM  END\n",
+    "inchi": "InChI=1S/CH4N2/c1-3-2/h2H,1H3",
+    "inchikey": "JYXPWUYLZPYOAH-UHFFFAOYSA-N",
+    "ket": {
+      "inchi": "InChI=1/CH4N2/c1-3-2/h2H,1H3"
+    },
+    "t15": {
+      "inchi": "InChI=1/CH4N2/c1-3-2/h2H,1H3"
+    },
+    "ket15t": {
+      "inchi": "InChI=1/CH4N2/c1-3-2/h2H,1H3"
+    },
+    "pt22": {
+      "inchi": "InChI=1/CH4N2/c1-3-2/h2H,1H3"
+    },
+    "pt16": {
+      "inchi": "InChI=1/CH4N2/c1-3-2/h2H,1H3"
+    },
+    "pt06": {
+      "inchi": "InChI=1/CH4N2/c1-3-2/h(H4,1,2)"
+    },
+    "pt39": {
+      "inchi": "InChI=1/CH4N2/c1-3-2/h2H,1H3"
+    },
+    "pt13": {
+      "inchi": "InChI=1/CH4N2/c1-3-2/h2H,1H3"
+    },
+    "pt18": {
+      "inchi": "InChI=1/CH4N2/c1-3-2/h2H,1H3"
+    }
+  },
+  {
+    "id": "identity/C-methyl-N-methyl-nitrone",
+    "structureClass": "taut-nitrone",
+    "tags": [],
+    "molfile": "C-methyl-N-methyl-nitrone\n  AsciiChem\n\n  5  4  0  0  0  0  0  0  0  0999 V2000\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0  0  0  0  0\n  2  3  2  0  0  0  0  0\n  3  4  1  0  0  0  0  0\n  3  5  1  0  0  0  0  0\nM  CHG  2   3   1   4  -1\nM  END\n",
+    "inchi": "InChI=1S/C3H7NO/c1-3-4(2)5/h3H,1-2H3",
+    "inchikey": "NJRRLMCNXQQNLK-UHFFFAOYSA-N",
+    "ket": {
+      "inchi": "InChI=1/C3H7NO/c1-3-4(2)5/h3H,1-2H3"
+    },
+    "t15": {
+      "inchi": "InChI=1/C3H7NO/c1-3-4(2)5/h3H,1-2H3"
+    },
+    "ket15t": {
+      "inchi": "InChI=1/C3H7NO/c1-3-4(2)5/h3H,1-2H3"
+    },
+    "pt22": {
+      "inchi": "InChI=1/C3H7NO/c1-3-4(2)5/h1H3,(H4,2,3)"
+    },
+    "pt16": {
+      "inchi": "InChI=1/C3H7NO/c1-3-4(2)5/h3H,1-2H3"
+    },
+    "pt06": {
+      "inchi": "InChI=1/C3H7NO/c1-3-4(2)5/h3H,1-2H3"
+    },
+    "pt39": {
+      "inchi": "InChI=1/C3H7NO/c1-3-4(2)5/h1H3,(H4,2,3)"
+    },
+    "pt13": {
+      "inchi": "InChI=1/C3H7NO/c1-3-4(2)5/h3H,1-2H3"
+    },
+    "pt18": {
+      "inchi": "InChI=1/C3H7NO/c1-3-4(2)5/h3H,1-2H3"
+    }
+  },
+  {
+    "id": "identity/nitrone-N-oxide-tautomer",
+    "structureClass": "taut-nitrone",
+    "tags": [],
+    "molfile": "nitrone-N-oxide-tautomer\n  AsciiChem\n\n  5  4  0  0  0  0  0  0  0  0999 V2000\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0  0  0  0  0\n  2  3  1  0  0  0  0  0\n  3  4  2  0  0  0  0  0\n  3  5  1  0  0  0  0  0\nM  END\n",
+    "inchi": "InChI=1S/C3H8NO/c1-3-4(2)5/h3H2,1-2H3",
+    "inchikey": "CFXIFGSOLQANBY-UHFFFAOYSA-N",
+    "ket": {
+      "inchi": "InChI=1/C3H8NO/c1-3-4(2)5/h3H2,1-2H3"
+    },
+    "t15": {
+      "inchi": "InChI=1/C3H8NO/c1-3-4(2)5/h3H2,1-2H3"
+    },
+    "ket15t": {
+      "inchi": "InChI=1/C3H8NO/c1-3-4(2)5/h3H2,1-2H3"
+    },
+    "pt22": {
+      "inchi": "InChI=1/C3H8NO/c1-3-4(2)5/h3H2,1-2H3"
+    },
+    "pt16": {
+      "inchi": "InChI=1/C3H8NO/c1-3-4(2)5/h3H2,1-2H3"
+    },
+    "pt06": {
+      "inchi": "InChI=1/C3H8NO/c1-3-4(2)5/h1H3,(H5,2,3,5)"
+    },
+    "pt39": {
+      "inchi": "InChI=1/C3H8NO/c1-3-4(2)5/h3H2,1-2H3"
+    },
+    "pt13": {
+      "inchi": "InChI=1/C3H8NO/c1-3-4(2)5/h3H2,1-2H3"
+    },
+    "pt18": {
+      "inchi": "InChI=1/C3H8NO/c1-3-4(2)5/h3H2,1-2H3"
+    }
+  },
+  {
+    "id": "identity/ketene",
+    "structureClass": "taut-ketene",
+    "tags": [],
+    "molfile": "ketene\n  AsciiChem\n\n  3  2  0  0  0  0  0  0  0  0999 V2000\n    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  2  0  0  0  0  0\n  2  3  2  0  0  0  0  0\nM  END\n",
+    "inchi": "InChI=1S/C2H2O/c1-2-3/h1H2",
+    "inchikey": "CCGKOQOJPYTBIH-UHFFFAOYSA-N",
+    "ket": {
+      "inchi": "InChI=1/C2H2O/c1-2-3/h1H2"
+    },
+    "t15": {
+      "inchi": "InChI=1/C2H2O/c1-2-3/h1H2"
+    },
+    "ket15t": {
+      "inchi": "InChI=1/C2H2O/c1-2-3/h1H2"
+    },
+    "pt22": {
+      "inchi": "InChI=1/C2H2O/c1-2-3/h1H2"
+    },
+    "pt16": {
+      "inchi": "InChI=1/C2H2O/c1-2-3/h1H2"
+    },
+    "pt06": {
+      "inchi": "InChI=1/C2H2O/c1-2-3/h1H2"
+    },
+    "pt39": {
+      "inchi": "InChI=1/C2H2O/c1-2-3/h1H2"
+    },
+    "pt13": {
+      "inchi": "InChI=1/C2H2O/c1-2-3/h(H2,1,3)"
+    },
+    "pt18": {
+      "inchi": "InChI=1/C2H2O/c1-2-3/h1H2"
+    }
+  },
+  {
+    "id": "identity/ethynol",
+    "structureClass": "taut-ketene",
+    "tags": [],
+    "molfile": "ethynol\n  AsciiChem\n\n  3  2  0  0  0  0  0  0  0  0999 V2000\n    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0  0  0  0  0\n  2  3  3  0  0  0  0  0\nM  END\n",
+    "inchi": "InChI=1S/C2H2O/c1-2-3/h1,3H",
+    "inchikey": "QFXZANXYUCUTQH-UHFFFAOYSA-N",
+    "ket": {
+      "inchi": "InChI=1/C2H2O/c1-2-3/h1,3H"
+    },
+    "t15": {
+      "inchi": "InChI=1/C2H2O/c1-2-3/h1,3H"
+    },
+    "ket15t": {
+      "inchi": "InChI=1/C2H2O/c1-2-3/h1,3H"
+    },
+    "pt22": {
+      "inchi": "InChI=1/C2H2O/c1-2-3/h1,3H"
+    },
+    "pt16": {
+      "inchi": "InChI=1/C2H2O/c1-2-3/h1,3H"
+    },
+    "pt06": {
+      "inchi": "InChI=1/C2H2O/c1-2-3/h1,3H"
+    },
+    "pt39": {
+      "inchi": "InChI=1/C2H2O/c1-2-3/h1,3H"
+    },
+    "pt13": {
+      "inchi": "InChI=1/C2H2O/c1-2-3/h1,3H"
+    },
+    "pt18": {
+      "inchi": "InChI=1/C2H2O/c1-2-3/h1,3H"
+    }
+  },
+  {
+    "id": "identity/dimethyl-sulfoxide",
+    "structureClass": "taut-sulfoxide",
+    "tags": [],
+    "molfile": "dimethyl-sulfoxide\n  AsciiChem\n\n  4  3  0  0  0  0  0  0  0  0999 V2000\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0  0  0  0  0\n  2  3  2  0  0  0  0  0\n  2  4  1  0  0  0  0  0\nM  END\n",
+    "inchi": "InChI=1S/C2H6OS/c1-4(2)3/h1-2H3",
+    "inchikey": "IAZDPXIOMUYVGZ-UHFFFAOYSA-N",
+    "ket": {
+      "inchi": "InChI=1/C2H6OS/c1-4(2)3/h1-2H3"
+    },
+    "t15": {
+      "inchi": "InChI=1/C2H6OS/c1-4(2)3/h1-2H3"
+    },
+    "ket15t": {
+      "inchi": "InChI=1/C2H6OS/c1-4(2)3/h1-2H3"
+    },
+    "pt22": {
+      "inchi": "InChI=1/C2H6OS/c1-4(2)3/h1-2H3"
+    },
+    "pt16": {
+      "inchi": "InChI=1/C2H6OS/c1-4(2)3/h1-2H3"
+    },
+    "pt06": {
+      "inchi": "InChI=1/C2H6OS/c1-4(2)3/h1-2H3"
+    },
+    "pt39": {
+      "inchi": "InChI=1/C2H6OS/c1-4(2)3/h1-2H3"
+    },
+    "pt13": {
+      "inchi": "InChI=1/C2H6OS/c1-4(2)3/h1-2H3"
+    },
+    "pt18": {
+      "inchi": "InChI=1/C2H6OS/c1-4(2)3/h1-2H3"
+    }
+  },
+  {
+    "id": "identity/dimethyl-sulfone",
+    "structureClass": "taut-sulfone",
+    "tags": [],
+    "molfile": "dimethyl-sulfone\n  AsciiChem\n\n  5  4  0  0  0  0  0  0  0  0999 V2000\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0  0  0  0  0\n  2  3  2  0  0  0  0  0\n  2  4  2  0  0  0  0  0\n  2  5  1  0  0  0  0  0\nM  END\n",
+    "inchi": "InChI=1S/C2H6O2S/c1-5(2,3)4/h1-2H3",
+    "inchikey": "HHVIBTZHLRERCL-UHFFFAOYSA-N",
+    "ket": {
+      "inchi": "InChI=1/C2H6O2S/c1-5(2,3)4/h1-2H3"
+    },
+    "t15": {
+      "inchi": "InChI=1/C2H6O2S/c1-5(2,3)4/h1-2H3"
+    },
+    "ket15t": {
+      "inchi": "InChI=1/C2H6O2S/c1-5(2,3)4/h1-2H3"
+    },
+    "pt22": {
+      "inchi": "InChI=1/C2H6O2S/c1-5(2,3)4/h1-2H3"
+    },
+    "pt16": {
+      "inchi": "InChI=1/C2H6O2S/c1-5(2,3)4/h1-2H3"
+    },
+    "pt06": {
+      "inchi": "InChI=1/C2H6O2S/c1-5(2,3)4/h1-2H3"
+    },
+    "pt39": {
+      "inchi": "InChI=1/C2H6O2S/c1-5(2,3)4/h1-2H3"
+    },
+    "pt13": {
+      "inchi": "InChI=1/C2H6O2S/c1-5(2,3)4/h1-2H3"
+    },
+    "pt18": {
+      "inchi": "InChI=1/C2H6O2S/c1-5(2,3)4/h1-2H3"
+    }
+  }
+]
