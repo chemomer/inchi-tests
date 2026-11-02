@@ -67,192 +67,48 @@
     "reason": "aux tail: /E: full-automorphism orbits; norm salt bit (TEST_TAUT__SALTS_DONE/MERGE via BNS scan); CRV unusual valences via BNS integer bonds valence",
     "recorded": "2026-10-31"
   },
-  "identity/multi-magnesium-sulfate": {
-    "reason": "FixedH multi-component and metal: the /f block over the disconnected-metal and ion-lattice structures rides the per-component /f assembly (decode: the fixed-H formula absorbs the disconnected anions, the metal charge rides as the bare m); DoNotAddH aux tail: the rA atom echo under DoNotAddH reads its under-H state (the chem-valence digits: cisplatin ammine N1, phenoxide ring C3) - echo variant not yet ported",
-    "recorded": "2026-11-02"
-  },
-  "identity/multi-calcium-sulfate": {
-    "reason": "FixedH multi-component and metal: the /f block over the disconnected-metal and ion-lattice structures rides the per-component /f assembly (decode: the fixed-H formula absorbs the disconnected anions, the metal charge rides as the bare m); DoNotAddH aux tail: the rA atom echo under DoNotAddH reads its under-H state (the chem-valence digits: cisplatin ammine N1, phenoxide ring C3) - echo variant not yet ported",
-    "recorded": "2026-11-02"
-  },
-  "identity/multi-copper-sulfate": {
-    "reason": "FixedH multi-component and metal: the /f block over the disconnected-metal and ion-lattice structures rides the per-component /f assembly (decode: the fixed-H formula absorbs the disconnected anions, the metal charge rides as the bare m); DoNotAddH aux tail: the rA atom echo under DoNotAddH reads its under-H state (the chem-valence digits: cisplatin ammine N1, phenoxide ring C3) - echo variant not yet ported",
-    "recorded": "2026-11-02"
-  },
-  "identity/multi-iron-trichloride": {
-    "reason": "FixedH multi-component and metal: the /f block over the disconnected-metal and ion-lattice structures rides the per-component /f assembly (decode: the fixed-H formula absorbs the disconnected anions, the metal charge rides as the bare m)",
-    "recorded": "2026-11-02"
-  },
-  "identity/multi-lead-diiodide": {
-    "reason": "FixedH multi-component and metal: the /f block over the disconnected-metal and ion-lattice structures rides the per-component /f assembly (decode: the fixed-H formula absorbs the disconnected anions, the metal charge rides as the bare m)",
-    "recorded": "2026-11-02"
-  },
-  "identity/multi-zinc-oxide": {
-    "reason": "multi-component perception not yet ported (campaign unit #113) (aux side: multi-component/metal aux machinery not yet ported)",
-    "recorded": "2026-10-31"
-  },
   "identity/multi-potassium-permanganate": {
-    "reason": "FixedH multi-component and metal: the /f block over the disconnected-metal and ion-lattice structures rides the per-component /f assembly (decode: the fixed-H formula absorbs the disconnected anions, the metal charge rides as the bare m); DoNotAddH aux tail: the rA atom echo under DoNotAddH reads its under-H state (the chem-valence digits: cisplatin ammine N1, phenoxide ring C3) - echo variant not yet ported",
-    "recorded": "2026-11-02"
-  },
-  "identity/multi-tetrabutylammonium-bromide": {
-    "reason": "FixedH multi-component and metal: the /f block over the disconnected-metal and ion-lattice structures rides the per-component /f assembly (decode: the fixed-H formula absorbs the disconnected anions, the metal charge rides as the bare m); DoNotAddH aux tail: the rA atom echo under DoNotAddH reads its under-H state (the chem-valence digits: cisplatin ammine N1, phenoxide ring C3) - echo variant not yet ported",
-    "recorded": "2026-11-02"
-  },
-  "identity/multi-sodium-citrate": {
-    "reason": "FixedH multi-component and metal: the /f block over the disconnected-metal and ion-lattice structures rides the per-component /f assembly (decode: the fixed-H formula absorbs the disconnected anions, the metal charge rides as the bare m); DoNotAddH aux tail: the rA atom echo under DoNotAddH reads its under-H state (the chem-valence digits: cisplatin ammine N1, phenoxide ring C3) - echo variant not yet ported",
-    "recorded": "2026-11-02"
-  },
-  "identity/multi-magnesium-sulfate-heptahydrate": {
-    "reason": "FixedH multi-component and metal: the /f block over the disconnected-metal and ion-lattice structures rides the per-component /f assembly (decode: the fixed-H formula absorbs the disconnected anions, the metal charge rides as the bare m); DoNotAddH aux tail: the rA atom echo under DoNotAddH reads its under-H state (the chem-valence digits: cisplatin ammine N1, phenoxide ring C3) - echo variant not yet ported",
-    "recorded": "2026-11-02"
-  },
-  "identity/multi-copper-sulfate-pentahydrate": {
-    "reason": "FixedH multi-component and metal: the /f block over the disconnected-metal and ion-lattice structures rides the per-component /f assembly (decode: the fixed-H formula absorbs the disconnected anions, the metal charge rides as the bare m); DoNotAddH aux tail: the rA atom echo under DoNotAddH reads its under-H state (the chem-valence digits: cisplatin ammine N1, phenoxide ring C3) - echo variant not yet ported",
-    "recorded": "2026-11-02"
-  },
-  "identity/multi-alum-dodecahydrate": {
-    "reason": "FixedH multi-component and metal: the /f block over the disconnected-metal and ion-lattice structures rides the per-component /f assembly (decode: the fixed-H formula absorbs the disconnected anions, the metal charge rides as the bare m); DoNotAddH aux tail: the rA atom echo under DoNotAddH reads its under-H state (the chem-valence digits: cisplatin ammine N1, phenoxide ring C3) - echo variant not yet ported",
-    "recorded": "2026-11-02"
-  },
-  "identity/multi-barium-chloride-dihydrate": {
-    "reason": "FixedH multi-component and metal: the /f block over the disconnected-metal and ion-lattice structures rides the per-component /f assembly (decode: the fixed-H formula absorbs the disconnected anions, the metal charge rides as the bare m); DoNotAddH aux tail: the rA atom echo under DoNotAddH reads its under-H state (the chem-valence digits: cisplatin ammine N1, phenoxide ring C3) - echo variant not yet ported",
-    "recorded": "2026-11-02"
-  },
-  "identity/multi-sodium-sulfate-decahydrate": {
-    "reason": "FixedH multi-component and metal: the /f block over the disconnected-metal and ion-lattice structures rides the per-component /f assembly (decode: the fixed-H formula absorbs the disconnected anions, the metal charge rides as the bare m); DoNotAddH aux tail: the rA atom echo under DoNotAddH reads its under-H state (the chem-valence digits: cisplatin ammine N1, phenoxide ring C3) - echo variant not yet ported",
+    "reason": "recmet debt: the reconnected /r layer of the RecMet identifier — the reconnection pass emits no /r block where the oracle appends /r<formula>/<conn>; every other recording of these fixtures passes un-ledgered (the FixedH multi-component and metal slice — the /f block and its aux /F: pass — retired 2026-11-02)",
     "recorded": "2026-11-02"
   },
   "identity/metal-cisplatin": {
-    "reason": "FixedH multi-component and metal: the /f block over the disconnected-metal and ion-lattice structures rides the per-component /f assembly (decode: the fixed-H formula absorbs the disconnected anions, the metal charge rides as the bare m); DoNotAddH aux tail: the rA atom echo under DoNotAddH reads its under-H state (the chem-valence digits: cisplatin ammine N1, phenoxide ring C3) - echo variant not yet ported",
-    "recorded": "2026-11-02"
-  },
-  "identity/metal-palladium-dichloride": {
-    "reason": "FixedH multi-component and metal: the /f block over the disconnected-metal and ion-lattice structures rides the per-component /f assembly (decode: the fixed-H formula absorbs the disconnected anions, the metal charge rides as the bare m)",
+    "reason": "recmet debt: the reconnected /r layer of the RecMet identifier — the reconnection pass emits no /r block where the oracle appends /r<formula>/<conn>; every other recording of these fixtures passes un-ledgered (the FixedH multi-component and metal slice — the /f block and its aux /F: pass — retired 2026-11-02)",
     "recorded": "2026-11-02"
   },
   "identity/metal-gold-trichloride": {
-    "reason": "FixedH multi-component and metal: the /f block over the disconnected-metal and ion-lattice structures rides the per-component /f assembly (decode: the fixed-H formula absorbs the disconnected anions, the metal charge rides as the bare m)",
-    "recorded": "2026-11-02"
-  },
-  "identity/metal-tin-tetrachloride": {
-    "reason": "FixedH multi-component and metal: the /f block over the disconnected-metal and ion-lattice structures rides the per-component /f assembly (decode: the fixed-H formula absorbs the disconnected anions, the metal charge rides as the bare m)",
-    "recorded": "2026-11-02"
-  },
-  "identity/metal-sodium-phenoxide-bonded": {
-    "reason": "FixedH multi-component and metal: the /f block over the disconnected-metal and ion-lattice structures rides the per-component /f assembly (decode: the fixed-H formula absorbs the disconnected anions, the metal charge rides as the bare m); DoNotAddH aux tail: the rA atom echo under DoNotAddH reads its under-H state (the chem-valence digits: cisplatin ammine N1, phenoxide ring C3) - echo variant not yet ported",
-    "recorded": "2026-11-02"
-  },
-  "identity/metal-sodium-acetate-bonded": {
-    "reason": "FixedH multi-component and metal: the /f block over the disconnected-metal and ion-lattice structures rides the per-component /f assembly (decode: the fixed-H formula absorbs the disconnected anions, the metal charge rides as the bare m); DoNotAddH aux tail: the rA atom echo under DoNotAddH reads its under-H state (the chem-valence digits: cisplatin ammine N1, phenoxide ring C3) - echo variant not yet ported",
+    "reason": "recmet debt: the reconnected /r layer of the RecMet identifier — the reconnection pass emits no /r block where the oracle appends /r<formula>/<conn>; every other recording of these fixtures passes un-ledgered (the FixedH multi-component and metal slice — the /f block and its aux /F: pass — retired 2026-11-02)",
     "recorded": "2026-11-02"
   },
   "identity/metal-silver-nitrate-bonded": {
-    "reason": "metal perception (disconnect/reconnect) not yet ported (units #107+#113) (aux side: multi-component/metal aux machinery not yet ported)",
-    "recorded": "2026-10-31"
+    "reason": "recmet debt: the reconnected /r layer of the RecMet identifier — the reconnection pass emits no /r block where the oracle appends /r<formula>/<conn>; every other recording of these fixtures passes un-ledgered (the FixedH multi-component and metal slice — the /f block and its aux /F: pass — retired 2026-11-02)",
+    "recorded": "2026-11-02"
   },
   "identity/metal-methyl-lithium": {
-    "reason": "DoNotAddH aux tail: the rA atom echo under DoNotAddH reads its under-H state (the chem-valence digits: cisplatin ammine N1, phenoxide ring C3) - echo variant not yet ported",
+    "reason": "recmet debt: the reconnected /r layer of the RecMet identifier — the reconnection pass emits no /r block where the oracle appends /r<formula>/<conn>; every other recording of these fixtures passes un-ledgered (the FixedH multi-component and metal slice — the /f block and its aux /F: pass — retired 2026-11-02)",
     "recorded": "2026-11-02"
   },
   "identity/metal-n-butyl-lithium": {
-    "reason": "DoNotAddH aux tail: the rA atom echo under DoNotAddH reads its under-H state (the chem-valence digits: cisplatin ammine N1, phenoxide ring C3) - echo variant not yet ported",
+    "reason": "recmet debt: the reconnected /r layer of the RecMet identifier — the reconnection pass emits no /r block where the oracle appends /r<formula>/<conn>; every other recording of these fixtures passes un-ledgered (the FixedH multi-component and metal slice — the /f block and its aux /F: pass — retired 2026-11-02)",
     "recorded": "2026-11-02"
   },
   "identity/metal-ethyl-magnesium-bromide": {
-    "reason": "FixedH multi-component and metal: the /f block over the disconnected-metal and ion-lattice structures rides the per-component /f assembly (decode: the fixed-H formula absorbs the disconnected anions, the metal charge rides as the bare m); DoNotAddH aux tail: the rA atom echo under DoNotAddH reads its under-H state (the chem-valence digits: cisplatin ammine N1, phenoxide ring C3) - echo variant not yet ported",
+    "reason": "recmet debt: the reconnected /r layer of the RecMet identifier — the reconnection pass emits no /r block where the oracle appends /r<formula>/<conn>; every other recording of these fixtures passes un-ledgered (the FixedH multi-component and metal slice — the /f block and its aux /F: pass — retired 2026-11-02)",
     "recorded": "2026-11-02"
   },
   "identity/metal-dimethyl-zinc": {
-    "reason": "DoNotAddH aux tail: the rA atom echo under DoNotAddH reads its under-H state (the chem-valence digits: cisplatin ammine N1, phenoxide ring C3) - echo variant not yet ported",
+    "reason": "recmet debt: the reconnected /r layer of the RecMet identifier — the reconnection pass emits no /r block where the oracle appends /r<formula>/<conn>; every other recording of these fixtures passes un-ledgered (the FixedH multi-component and metal slice — the /f block and its aux /F: pass — retired 2026-11-02)",
     "recorded": "2026-11-02"
   },
   "identity/metal-trimethyl-aluminium": {
-    "reason": "DoNotAddH aux tail: the rA atom echo under DoNotAddH reads its under-H state (the chem-valence digits: cisplatin ammine N1, phenoxide ring C3) - echo variant not yet ported",
+    "reason": "recmet debt: the reconnected /r layer of the RecMet identifier — the reconnection pass emits no /r block where the oracle appends /r<formula>/<conn>; every other recording of these fixtures passes un-ledgered (the FixedH multi-component and metal slice — the /f block and its aux /F: pass — retired 2026-11-02)",
     "recorded": "2026-11-02"
   },
   "identity/metal-sodium-diethylamide": {
-    "reason": "DoNotAddH aux tail: the rA atom echo under DoNotAddH reads its under-H state (the chem-valence digits: cisplatin ammine N1, phenoxide ring C3) - echo variant not yet ported",
+    "reason": "recmet debt: the reconnected /r layer of the RecMet identifier — the reconnection pass emits no /r block where the oracle appends /r<formula>/<conn>; every other recording of these fixtures passes un-ledgered (the FixedH multi-component and metal slice — the /f block and its aux /F: pass — retired 2026-11-02)",
     "recorded": "2026-11-02"
   },
   "identity/metal-methyl-copper": {
-    "reason": "DoNotAddH aux tail: the rA atom echo under DoNotAddH reads its under-H state (the chem-valence digits: cisplatin ammine N1, phenoxide ring C3) - echo variant not yet ported",
+    "reason": "recmet debt: the reconnected /r layer of the RecMet identifier — the reconnection pass emits no /r block where the oracle appends /r<formula>/<conn>; every other recording of these fixtures passes un-ledgered (the FixedH multi-component and metal slice — the /f block and its aux /F: pass — retired 2026-11-02)",
     "recorded": "2026-11-02"
-  },
-  "identity/multi-nacl": {
-    "reason": "FixedH multi-component: the /f block and its aux /F: pass are single-component \u2014 the standard identifiers and aux lines PASS (retired); the FixedH mode rides the per-component /f assembly",
-    "recorded": "2026-11-01"
-  },
-  "identity/multi-kcl": {
-    "reason": "FixedH multi-component: the /f block and its aux /F: pass are single-component \u2014 the standard identifiers and aux lines PASS (retired); the FixedH mode rides the per-component /f assembly",
-    "recorded": "2026-11-01"
-  },
-  "identity/multi-sodium-hydroxide": {
-    "reason": "FixedH multi-component: the /f block and its aux /F: pass are single-component \u2014 the standard identifiers and aux lines PASS (retired); the FixedH mode rides the per-component /f assembly",
-    "recorded": "2026-11-01"
-  },
-  "identity/multi-potassium-hydroxide": {
-    "reason": "FixedH multi-component: the /f block and its aux /F: pass are single-component \u2014 the standard identifiers and aux lines PASS (retired); the FixedH mode rides the per-component /f assembly",
-    "recorded": "2026-11-01"
-  },
-  "identity/multi-sodium-acetate": {
-    "reason": "FixedH multi-component: the /f block and its aux /F: pass are single-component \u2014 the standard identifiers and aux lines PASS (retired); the FixedH mode rides the per-component /f assembly",
-    "recorded": "2026-11-01"
-  },
-  "identity/multi-sodium-phenoxide": {
-    "reason": "FixedH multi-component: the /f block and its aux /F: pass are single-component \u2014 the standard identifiers and aux lines PASS (retired); the FixedH mode rides the per-component /f assembly",
-    "recorded": "2026-11-01"
-  },
-  "identity/multi-sodium-benzoate": {
-    "reason": "FixedH multi-component: the /f block and its aux /F: pass are single-component \u2014 the standard identifiers and aux lines PASS (retired); the FixedH mode rides the per-component /f assembly",
-    "recorded": "2026-11-01"
-  },
-  "identity/multi-potassium-benzoate": {
-    "reason": "FixedH multi-component: the /f block and its aux /F: pass are single-component \u2014 the standard identifiers and aux lines PASS (retired); the FixedH mode rides the per-component /f assembly",
-    "recorded": "2026-11-01"
-  },
-  "identity/multi-ammonium-chloride": {
-    "reason": "FixedH multi-component: the /f block and its aux /F: pass are single-component \u2014 the standard identifiers and aux lines PASS (retired); the FixedH mode rides the per-component /f assembly",
-    "recorded": "2026-11-01"
-  },
-  "identity/multi-ammonium-benzoate": {
-    "reason": "FixedH multi-component: the /f block and its aux /F: pass are single-component \u2014 the standard identifiers and aux lines PASS (retired); the FixedH mode rides the per-component /f assembly",
-    "recorded": "2026-11-01"
-  },
-  "identity/multi-sodium-bicarbonate": {
-    "reason": "FixedH multi-component: the /f block and its aux /F: pass are single-component \u2014 the standard identifiers and aux lines PASS (retired); the FixedH mode rides the per-component /f assembly",
-    "recorded": "2026-11-01"
-  },
-  "identity/multi-sodium-hydrogen-sulfate": {
-    "reason": "FixedH multi-component: the /f block and its aux /F: pass are single-component \u2014 the standard identifiers and aux lines PASS (retired); the FixedH mode rides the per-component /f assembly",
-    "recorded": "2026-11-01"
-  },
-  "identity/multi-sodium-carbonate": {
-    "reason": "FixedH multi-component: the /f block and its aux /F: pass are single-component \u2014 the standard identifiers and aux lines PASS (retired); the FixedH mode rides the per-component /f assembly",
-    "recorded": "2026-11-01"
-  },
-  "identity/multi-silver-nitrate": {
-    "reason": "FixedH multi-component: the /f block and its aux /F: pass are single-component \u2014 the standard identifiers and aux lines PASS (retired); the FixedH mode rides the per-component /f assembly",
-    "recorded": "2026-11-01"
-  },
-  "identity/multi-sodium-thiosulfate": {
-    "reason": "FixedH multi-component: the /f block and its aux /F: pass are single-component \u2014 the standard identifiers and aux lines PASS (retired); the FixedH mode rides the per-component /f assembly",
-    "recorded": "2026-11-01"
-  },
-  "identity/multi-lithium-hexafluorophosphate": {
-    "reason": "FixedH multi-component: the /f block and its aux /F: pass are single-component \u2014 the standard identifiers and aux lines PASS (retired); the FixedH mode rides the per-component /f assembly",
-    "recorded": "2026-11-01"
-  },
-  "identity/multi-sodium-dodecyl-sulfate": {
-    "reason": "FixedH multi-component: the /f block and its aux /F: pass are single-component \u2014 the standard identifiers and aux lines PASS (retired); the FixedH mode rides the per-component /f assembly",
-    "recorded": "2026-11-01"
-  },
-  "identity/multi-ammonium-sulfate": {
-    "reason": "FixedH multi-component: the /f block and its aux /F: pass are single-component \u2014 the standard identifiers and aux lines PASS (retired); the FixedH mode rides the per-component /f assembly",
-    "recorded": "2026-11-01"
-  },
-  "identity/multi-sodium-carbonate-decahydrate": {
-    "reason": "FixedH multi-component: the /f block and its aux /F: pass are single-component \u2014 the standard identifiers and aux lines PASS (retired); the FixedH mode rides the per-component /f assembly",
-    "recorded": "2026-11-01"
   }
 }

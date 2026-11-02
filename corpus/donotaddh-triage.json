@@ -82,5 +82,9 @@
   "identity/breadth3-626": {
     "reason": "donotaddh tail: the reference's (DE)PROTONATION normalization synthesizes conjugate hydrogen over the zero-perception state and its ion-pair cancellation gates on perceived H, so with -DoNotAddH a distant zwitterion keeps /q with a synthesized (H,n,m) pair and the aux numbering follows the smaller t-group class; our DoNotAddH pin suppresses both",
     "recorded": "2026-11-01"
+  },
+  "identity/multi-sodium-bicarbonate": {
+    "reason": "donotaddh tail: the drawn-H placement numbering — the bicarbonate's OH proton numbers (H,3,4) where the oracle reads (H,2,3), the zero-perception t-group order differing by one slot; every other recording of this fixture passes un-ledgered (the FixedH multi-component slice — the /f block and its aux /F: pass — retired 2026-11-02)",
+    "recorded": "2026-11-02"
   }
 }
