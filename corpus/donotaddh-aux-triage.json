@@ -1,0 +1,742 @@
+{
+  "identity/breadth-1068": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth-1102": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth-1177": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth-1185": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth-1196": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth-1199": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth-1231": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth-1273": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth-1280": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth-1298": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth-1364": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth-1410": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth-1417": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth-144": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth-1481": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth-1491": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth-150": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth-17": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth-187": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth-20": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth-27": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth-286": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth-296": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth-300": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth-35": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth-351": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth-40": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth-405": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth-424": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth-450": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth-485": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth-732": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth-889": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth-902": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth-930": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth-947": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth2-1048": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth2-1066": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth2-1082": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth2-1107": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth2-1149": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth2-1178": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth2-1189": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth2-1249": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth2-1311": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth2-141": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth2-1452": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth2-150": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth2-1503": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth2-151": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth2-1536": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth2-1549": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth2-1594": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth2-1600": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth2-1616": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth2-1624": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth2-1650": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth2-17": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth2-1747": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth2-1821": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth2-1939": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth2-1941": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth2-1981": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth2-20": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth2-255": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth2-273": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth2-289": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth2-353": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth2-500": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth2-624": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth2-63": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth2-723": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth2-73": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth2-784": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth2-81": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth2-811": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth2-907": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth2-96": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth2-98": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-1000": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-1006": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-1020": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-1026": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-105": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-1053": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-1062": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-1063": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-1064": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-1077": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-1078": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-1105": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-1144": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-1186": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-1192": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-1239": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-1255": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-1266": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-1267": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-1269": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-1276": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-1313": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-1363": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-1369": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-142": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-1435": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-1527": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-1568": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-1588": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-1595": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-1616": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-1660": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-1675": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-1690": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-1691": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-1702": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-1714": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-1743": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-1851": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-1883": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-1907": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-1939": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-224": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-234": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-236": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-237": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-239": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-263": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-286": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-301": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-302": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-303": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-317": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-329": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-333": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-336": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-338": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-355": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-365": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-392": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-393": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-394": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-43": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-468": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-471": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-478": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-487": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-501": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-521": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-524": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-548": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-575": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-595": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-684": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-698": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-715": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-75": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-750": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-751": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-752": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-755": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-78": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-781": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-794": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-88": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-884": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-895": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-902": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-903": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-924": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-941": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-960": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-961": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/breadth3-971": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/multi-alum-dodecahydrate": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/multi-ammonium-sulfate": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/multi-calcium-sulfate": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/multi-copper-sulfate": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/multi-copper-sulfate-pentahydrate": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/multi-magnesium-sulfate": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/multi-magnesium-sulfate-heptahydrate": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/multi-sodium-dodecyl-sulfate": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/multi-sodium-hydrogen-sulfate": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/multi-sodium-sulfate-decahydrate": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/multi-sodium-thiosulfate": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  },
+  "identity/sulfate-2": {
+    "reason": "donotaddh aux tail: the reference's normalization re-resolves the zero-perception state before the aux speaks — the BNS writes norm_at chem_bonds_valence as valence + resolved pi-flow (instrumented-oracle ground truth: num_H stays 0, only bond valences move — the imine C-N of an N=C(N)N arm pulls to a triple), so the /CRV unusual-valence digits read the rewritten state, and a few zero-H anion/imine numberings rank over it (the /N: //E: riding the same restoration); our DoNotAddH pin holds the input bond orders and numbering inputs, so /CRV diverges while /rA matches everywhere. 2026-11-01's identifier-side note pinned this machinery off; porting the normalization BNS is its own unit.",
+    "recorded": "2026-11-03"
+  }
+}
