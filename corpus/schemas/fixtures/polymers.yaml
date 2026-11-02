@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=https://json-schema.org/draft/2020-12/schema
+# Polymer CRU cases (the polymer extension unit): Sgroup molfiles
+# recorded from the IUPAC oracle under the polymer option modes. The
+# oracle is a development-time test oracle only — the corpus ships
+# strings, never the binary. Each fixture carries one `modes` map per
+# option line; the identifier and (when recorded) the AuxInfo line
+# must reproduce byte-exactly under the matching engine options. A
+# mode holding `error` instead records the oracle's rejection, which
+# the engine must reproduce as its own error message.
+---
+$id: https://github.com/asciichem/asciichem-tests/v1/fixtures/polymers
+title: AsciiChem polymer fixture
+type: object
+required: [id, structureClass, molfile, modes]
+additionalProperties: false
+properties:
+  id:
+    type: string
+    pattern: "^[a-z0-9][a-z0-9/-]*$"
+  structureClass:
+    type: string
+  molfile:
+    type: string
+    description: Verbatim V2000 molfile (with the M STY/SST/SCN/SAL/SBL/SMT lines) piped to the oracle.
+  modes:
+    type: object
+    additionalProperties:
+      type: object
+      properties:
+        inchi:
+          type: string
+          description: The oracle identifier under the mode's options.
+        aux:
+          type: string
+          description: The oracle AuxInfo line under the mode's options.
+        error:
+          type: string
+          description: The oracle rejection message (no identifier was produced).
