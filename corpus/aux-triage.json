@@ -1,70 +1,42 @@
 {
-  "identity/breadth-1070": {
-    "reason": "aux tail: /E: full-automorphism orbits; norm salt bit (TEST_TAUT__SALTS_DONE/MERGE via BNS scan); CRV unusual valences via BNS integer bonds valence",
-    "recorded": "2026-10-31"
-  },
-  "identity/breadth-439": {
-    "reason": "aux tail: /E: full-automorphism orbits; norm salt bit (TEST_TAUT__SALTS_DONE/MERGE via BNS scan); CRV unusual valences via BNS integer bonds valence",
-    "recorded": "2026-10-31"
-  },
-  "identity/breadth-910": {
-    "reason": "aux tail: /E: full-automorphism orbits; norm salt bit (TEST_TAUT__SALTS_DONE/MERGE via BNS scan); CRV unusual valences via BNS integer bonds valence",
-    "recorded": "2026-10-31"
-  },
   "identity/breadth2-1637": {
-    "reason": "aux tail: /E: full-automorphism orbits; norm salt bit (TEST_TAUT__SALTS_DONE/MERGE via BNS scan); CRV unusual valences via BNS integer bonds valence",
-    "recorded": "2026-10-31"
-  },
-  "identity/breadth2-940": {
-    "reason": "aux tail: /E: full-automorphism orbits; norm salt bit (TEST_TAUT__SALTS_DONE/MERGE via BNS scan); CRV unusual valences via BNS integer bonds valence",
-    "recorded": "2026-10-31"
+    "reason": "aux tail: norm salt bit (TEST_TAUT__SALTS_DONE/MERGE via BNS scan); CRV unusual valences via BNS integer bonds valence",
+    "recorded": "2026-11-03"
   },
   "identity/breadth2-976": {
-    "reason": "aux tail: /E: full-automorphism orbits; norm salt bit (TEST_TAUT__SALTS_DONE/MERGE via BNS scan); CRV unusual valences via BNS integer bonds valence",
-    "recorded": "2026-10-31"
-  },
-  "identity/breadth2-980": {
-    "reason": "aux tail: /E: full-automorphism orbits; norm salt bit (TEST_TAUT__SALTS_DONE/MERGE via BNS scan); CRV unusual valences via BNS integer bonds valence",
-    "recorded": "2026-10-31"
-  },
-  "identity/breadth3-1448": {
-    "reason": "aux tail: /E: full-automorphism orbits; norm salt bit (TEST_TAUT__SALTS_DONE/MERGE via BNS scan); CRV unusual valences via BNS integer bonds valence",
-    "recorded": "2026-10-31"
-  },
-  "identity/breadth3-1779": {
-    "reason": "aux tail: /E: full-automorphism orbits; norm salt bit (TEST_TAUT__SALTS_DONE/MERGE via BNS scan); CRV unusual valences via BNS integer bonds valence",
-    "recorded": "2026-10-31"
+    "reason": "aux tail: norm salt bit (TEST_TAUT__SALTS_DONE/MERGE via BNS scan); CRV unusual valences via BNS integer bonds valence",
+    "recorded": "2026-11-03"
   },
   "identity/breadth3-288": {
-    "reason": "aux tail: /E: full-automorphism orbits; norm salt bit (TEST_TAUT__SALTS_DONE/MERGE via BNS scan); CRV unusual valences via BNS integer bonds valence",
-    "recorded": "2026-10-31"
+    "reason": "aux tail: norm salt bit (TEST_TAUT__SALTS_DONE/MERGE via BNS scan); CRV unusual valences via BNS integer bonds valence",
+    "recorded": "2026-11-03"
   },
   "identity/breadth3-563": {
-    "reason": "aux tail: /E: full-automorphism orbits; norm salt bit (TEST_TAUT__SALTS_DONE/MERGE via BNS scan); CRV unusual valences via BNS integer bonds valence",
-    "recorded": "2026-10-31"
+    "reason": "aux tail: norm salt bit (TEST_TAUT__SALTS_DONE/MERGE via BNS scan); CRV unusual valences via BNS integer bonds valence",
+    "recorded": "2026-11-03"
   },
   "identity/breadth3-564": {
-    "reason": "aux tail: /E: full-automorphism orbits; norm salt bit (TEST_TAUT__SALTS_DONE/MERGE via BNS scan); CRV unusual valences via BNS integer bonds valence",
-    "recorded": "2026-10-31"
+    "reason": "aux tail: norm salt bit (TEST_TAUT__SALTS_DONE/MERGE via BNS scan); CRV unusual valences via BNS integer bonds valence",
+    "recorded": "2026-11-03"
   },
   "identity/breadth3-61": {
-    "reason": "aux tail: /E: full-automorphism orbits; norm salt bit (TEST_TAUT__SALTS_DONE/MERGE via BNS scan); CRV unusual valences via BNS integer bonds valence",
-    "recorded": "2026-10-31"
+    "reason": "aux tail: norm salt bit (TEST_TAUT__SALTS_DONE/MERGE via BNS scan); CRV unusual valences via BNS integer bonds valence",
+    "recorded": "2026-11-03"
   },
   "identity/breadth3-879": {
-    "reason": "aux tail: /E: full-automorphism orbits; norm salt bit (TEST_TAUT__SALTS_DONE/MERGE via BNS scan); CRV unusual valences via BNS integer bonds valence",
-    "recorded": "2026-10-31"
+    "reason": "aux tail: norm salt bit (TEST_TAUT__SALTS_DONE/MERGE via BNS scan); CRV unusual valences via BNS integer bonds valence",
+    "recorded": "2026-11-03"
   },
   "identity/caffeine": {
-    "reason": "aux tail: /E: full-automorphism orbits; norm salt bit (TEST_TAUT__SALTS_DONE/MERGE via BNS scan); CRV unusual valences via BNS integer bonds valence",
-    "recorded": "2026-10-31"
+    "reason": "aux tail: norm salt bit (TEST_TAUT__SALTS_DONE/MERGE via BNS scan); CRV unusual valences via BNS integer bonds valence; rA ring-closure digit allocation",
+    "recorded": "2026-11-03"
   },
   "identity/furan": {
-    "reason": "aux tail: /E: full-automorphism orbits; norm salt bit (TEST_TAUT__SALTS_DONE/MERGE via BNS scan); CRV unusual valences via BNS integer bonds valence",
-    "recorded": "2026-10-31"
+    "reason": "aux tail: norm salt bit (TEST_TAUT__SALTS_DONE/MERGE via BNS scan); CRV unusual valences via BNS integer bonds valence; rA ring-closure digit allocation",
+    "recorded": "2026-11-03"
   },
   "identity/naphthalene": {
-    "reason": "aux tail: /E: full-automorphism orbits; norm salt bit (TEST_TAUT__SALTS_DONE/MERGE via BNS scan); CRV unusual valences via BNS integer bonds valence",
-    "recorded": "2026-10-31"
+    "reason": "aux tail: norm salt bit (TEST_TAUT__SALTS_DONE/MERGE via BNS scan); CRV unusual valences via BNS integer bonds valence",
+    "recorded": "2026-11-03"
   }
 }
