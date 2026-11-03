@@ -1,0 +1,53 @@
+# yaml-language-server: $schema=https://json-schema.org/draft/2020-12/schema
+# The 1B beta flavor × non-standard option interplay tranche: the two
+# 1B sources (the >1024-atom molfiles the writer marks unconditionally,
+# and the polymer/star-driven flip) against the whole non-standard
+# option surface — SNon, FixedH, DoNotAddH, RecMet, the stereo
+# modifiers, the KET/15T/PT_* tautomer flags, the recorded pairs, the
+# SAtZZ gate and the NoFrameShift scheme. Every cell must speak the
+# beta prefix (the writer marks `1B` before consulting the standard
+# flag); the recorded key must derive from the recorded identifier
+# (the flag letter B over a beta flavor). A mode holding `error`
+# instead records the oracle's rejection.
+---
+$id: https://github.com/asciichem/asciichem-tests/v1/fixtures/oneb-interplay
+title: AsciiChem 1B interplay fixture
+type: object
+required: [id, structureClass, molfile, modes]
+additionalProperties: false
+properties:
+  id:
+    type: string
+    pattern: "^oneb/[a-z0-9-]*$"
+  structureClass:
+    type: string
+    const: oneb-interplay
+  molfile:
+    type: string
+    description: Verbatim molfile (V2000 or V3000) piped to the oracle.
+  modes:
+    type: object
+    additionalProperties:
+      type: object
+      properties:
+        inchi:
+          type: string
+          description: The oracle identifier under the mode's options (always InChI=1B).
+        aux:
+          type: string
+          description: The oracle AuxInfo line under the mode's options.
+        key:
+          type: string
+          description: The oracle InChIKey over that identifier.
+        xhash1:
+          type: string
+          description: The oracle XHash1 extension (baseline cells only).
+        xhash2:
+          type: string
+          description: The oracle XHash2 extension (baseline cells only).
+        merged:
+          type: string
+          description: The oracle InChIHash= line under -MergeHash (baseline cells only).
+        error:
+          type: string
+          description: The oracle rejection message (no identifier was produced).
