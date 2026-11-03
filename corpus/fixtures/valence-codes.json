@@ -1,0 +1,121 @@
+[
+  {
+    "id": "valence/code1-bonded-nitrogen",
+    "note": "code 1 pins one valence short of the pool: the bonded N reads no H (CH3N, not the gap's CH5N)",
+    "molfile": "probe\n  AsciiChem\n\n  2  1  0  0  0  0  0  0  0  0999 V2000\n   12.0000    0.0000    0.0000 C      0  0  0  0  0  0  0  0  0  0  0\n   72.0000    0.0000    0.0000 N      0  0  0  0  1  0  0  0  0  0  0\n  1  2  1  0\nM  END\n",
+    "inchi": "InChI=1S/CH3N/c1-2/h1H3",
+    "inchikey": "PSWKVGHKABDSRC-UHFFFAOYSA-N"
+  },
+  {
+    "id": "valence/code15-bare-nitrogen",
+    "note": "code 15 marks zero valence: the bond-less N reads no H (bare N, not NH3)",
+    "molfile": "probe\n  AsciiChem\n\n  1  0  0  0  0  0  0  0  0  0999 V2000\n   12.0000    0.0000    0.0000 N      0  0  0  0 15  0  0  0  0  0  0\nM  END\n",
+    "inchi": "InChI=1S/N",
+    "inchikey": "QJGQUHMNIGDVPM-UHFFFAOYSA-N"
+  },
+  {
+    "id": "valence/code15-bonded-carbon",
+    "note": "code 15 on a BONDED atom takes the reference's literal first branch: H = 15 minus the bond valence (the singly-bonded C records H14)",
+    "molfile": "probe\n  AsciiChem\n\n  2  1  0  0  0  0  0  0  0  0999 V2000\n   12.0000    0.0000    0.0000 C      0  0  0  0 15  0  0  0  0  0  0\n   72.0000    0.0000    0.0000 C      0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\nM  END\n",
+    "inchi": "InChI=1S/C2H17/c1-2/h1H3,2H14",
+    "inchikey": "AGQFVRQYHFDAFH-UHFFFAOYSA-N"
+  },
+  {
+    "id": "valence/aromatic-code3-benzene",
+    "note": "aromatic ring fully coded 3: the code wins over the gap (C6, zero ring H)",
+    "molfile": "probe\n  AsciiChem\n\n  6  6  0  0  0  0  0  0  0  0999 V2000\n   12.0000    0.0000    0.0000 C      0  0  0  0  3  0  0  0  0  0  0\n   36.0000    0.0000    0.0000 C      0  0  0  0  3  0  0  0  0  0  0\n   60.0000    0.0000    0.0000 C      0  0  0  0  3  0  0  0  0  0  0\n   84.0000    0.0000    0.0000 C      0  0  0  0  3  0  0  0  0  0  0\n  108.0000    0.0000    0.0000 C      0  0  0  0  3  0  0  0  0  0  0\n  132.0000    0.0000    0.0000 C      0  0  0  0  3  0  0  0  0  0  0\n  1  2  4  0\n  2  3  4  0\n  3  4  4  0\n  4  5  4  0\n  5  6  4  0\n  6  1  4  0\nM  END\n",
+    "inchi": "InChI=1S/C6/c1-2-4-6-5-3-1",
+    "inchikey": "PXCDDPIOUAJVRE-UHFFFAOYSA-N"
+  },
+  {
+    "id": "valence/code2-quaternary-carbon",
+    "note": "the parked unit's control: code 2 on a four-bonded C reads zero H either way — max(0, 2-4) equals the gap, the one case that masked the read",
+    "molfile": "probe\n  AsciiChem\n\n  5  4  0  0  0  0  0  0  0  0999 V2000\n   12.0000    0.0000    0.0000 C      0  0  0  0  2  0  0  0  0  0  0\n   72.0000    0.0000    0.0000 C      0  0  0  0  0  0  0  0  0  0  0\n   96.0000    0.0000    0.0000 C      0  0  0  0  0  0  0  0  0  0  0\n  120.0000    0.0000    0.0000 C      0  0  0  0  0  0  0  0  0  0  0\n  144.0000    0.0000    0.0000 C      0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  1  3  1  0\n  1  4  1  0\n  1  5  1  0\nM  END\n",
+    "inchi": "InChI=1S/C5H12/c1-5(2,3)4/h1-4H3",
+    "inchikey": "CRSOQBOWXPBRES-UHFFFAOYSA-N"
+  },
+  {
+    "id": "valence/code3-acetate-oxyanion",
+    "note": "a code short-circuits the anion pool: the coded carboxylate O- keeps /q-1 while carrying two H",
+    "molfile": "probe\n  AsciiChem\n\n  4  3  0  0  0  0  0  0  0  0999 V2000\n   12.0000    0.0000    0.0000 C      0  0  0  0  0  0  0  0  0  0  0\n   72.0000    0.0000    0.0000 C      0  0  0  0  0  0  0  0  0  0  0\n  132.0000    0.0000    0.0000 O      0  0  0  0  3  0  0  0  0  0  0\n  192.0000    0.0000    0.0000 O      0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  2  3  1  0\n  2  4  2  0\nM  CHG  1   3  -1\nM  END\n",
+    "inchi": "InChI=1S/C2H5O2/c1-2(3)4/h3H2,1H3/q-1",
+    "inchikey": "JWKPMCSGMRLPSH-UHFFFAOYSA-N"
+  },
+  {
+    "id": "valence/code3-cisplatin-ammine",
+    "note": "coordination N coded 3: 3 minus the one Pt bond reads H2, the pool's same answer — the metal path agrees",
+    "molfile": "probe\n  AsciiChem\n\n  5  4  0  0  0  0  0  0  0  0999 V2000\n   12.0000    0.0000    0.0000 N      0  0  0  0  3  0  0  0  0  0  0\n   72.0000    0.0000    0.0000 Pt     0  0  0  0  0  0  0  0  0  0  0\n  132.0000    0.0000    0.0000 Cl     0  0  0  0  0  0  0  0  0  0  0\n  192.0000    0.0000    0.0000 Cl     0  0  0  0  0  0  0  0  0  0  0\n  252.0000    0.0000    0.0000 N      0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  2  3  1  0\n  2  4  1  0\n  2  5  1  0\nM  END\n",
+    "inchi": "InChI=1S/2ClH.2H2N.Pt/h2*1H;2*1H2;/q;;2*-1;+4/p-2",
+    "inchikey": "DQLATGHUWYMOKM-UHFFFAOYSA-L"
+  },
+  {
+    "id": "valence/code3-trimethylammonium",
+    "note": "a code short-circuits the cation pool: N+ with three bonds reads no riding H, /q+1 kept",
+    "molfile": "probe\n  AsciiChem\n\n  4  3  0  0  0  0  0  0  0  0999 V2000\n   12.0000    0.0000    0.0000 N      0  0  0  0  3  0  0  0  0  0  0\n   72.0000    0.0000    0.0000 C      0  0  0  0  0  0  0  0  0  0  0\n   96.0000    0.0000    0.0000 C      0  0  0  0  0  0  0  0  0  0  0\n  120.0000    0.0000    0.0000 C      0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  1  3  1  0\n  1  4  1  0\nM  CHG  1   1   1\nM  END\n",
+    "inchi": "InChI=1S/C3H9N/c1-4(2)3/h1-3H3/q+1",
+    "inchikey": "INXJOSXEHHMQQF-UHFFFAOYSA-N"
+  },
+  {
+    "id": "valence/code5-overvalent-nitrogen",
+    "note": "code 5 on a singly-bonded N: five minus one bond reads H4 (the identifier keeps the nonsense the file declares)",
+    "molfile": "probe\n  AsciiChem\n\n  3  2  0  0  0  0  0  0  0  0999 V2000\n   12.0000    0.0000    0.0000 N      0  0  0  0  5  0  0  0  0  0  0\n   72.0000    0.0000    0.0000 C      0  0  0  0  0  0  0  0  0  0  0\n   96.0000    0.0000    0.0000 C      0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  2  3  1  0\nM  END\n",
+    "inchi": "InChI=1S/C2H9N/c1-2-3/h2H2,1H3,3H4",
+    "inchikey": "YXGSXIQJMFSUPU-UHFFFAOYSA-N"
+  },
+  {
+    "id": "valence/code2-nitrile-nitrogen",
+    "note": "code 2 under a triple bond: max(0, 2-3) reads zero H, same as the gap here",
+    "molfile": "probe\n  AsciiChem\n\n  2  1  0  0  0  0  0  0  0  0999 V2000\n   12.0000    0.0000    0.0000 C      0  0  0  0  0  0  0  0  0  0  0\n   72.0000    0.0000    0.0000 N      0  0  0  0  2  0  0  0  0  0  0\n  1  2  3  0\nM  END\n",
+    "inchi": "InChI=1S/CHN/c1-2/h1H",
+    "inchikey": "LELOWRISYMNNSU-UHFFFAOYSA-N"
+  },
+  {
+    "id": "valence/hcount-column-ignored",
+    "note": "negative control: H-count 2 in cols 43-45 stays unread (MOL_FMT_QUERY absent) — bare N still reads H3N",
+    "molfile": "probe\n  AsciiChem\n\n  1  0  0  0  0  0  0  0  0  0999 V2000\n   12.0000    0.0000    0.0000 N      0  0  2  0  0  0  0  0  0  0  0\nM  END\n",
+    "inchi": "InChI=1S/H3N/h1H3",
+    "inchikey": "QGZKDVFQNNGYKY-UHFFFAOYSA-N"
+  },
+  {
+    "id": "valence/v3000-VAL1-bonded-nitrogen",
+    "note": "the V3000 VAL= attribute feeds the same branch: VAL=1 reads CH3N",
+    "molfile": "probe\n  AsciiChem\n\n  0  0  0  0  0  0  0  0  0  0999 V3000\nM  V30 BEGIN CTAB\nM  V30 COUNTS 2 1 0 0 0\nM  V30 BEGIN ATOM\nM  V30 1 C 12.0 12 0 0\nM  V30 2 N 72.0 12 0 0 VAL=1\nM  V30 END ATOM\nM  V30 BEGIN BOND\nM  V30 1 1 1 2\nM  V30 END BOND\nM  V30 END CTAB\nM  END\n",
+    "inchi": "InChI=1S/CH3N/c1-2/h1H3",
+    "inchikey": "PSWKVGHKABDSRC-UHFFFAOYSA-N"
+  },
+  {
+    "id": "valence/v3000-VAL15-bare-nitrogen",
+    "note": "V3000 VAL=15 reads zero valence (bare N)",
+    "molfile": "probe\n  AsciiChem\n\n  0  0  0  0  0  0  0  0  0  0999 V3000\nM  V30 BEGIN CTAB\nM  V30 COUNTS 1 0 0 0 0\nM  V30 BEGIN ATOM\nM  V30 1 N 12.0 12 0 0 VAL=15\nM  V30 END ATOM\nM  V30 END CTAB\nM  END\n",
+    "inchi": "InChI=1S/N",
+    "inchikey": "QJGQUHMNIGDVPM-UHFFFAOYSA-N"
+  },
+  {
+    "id": "valence/v3000-VALminus1-bare-nitrogen",
+    "note": "V3000 spells zero valence -1; the reference normalizes it to the code-15 seat (bare N)",
+    "molfile": "probe\n  AsciiChem\n\n  0  0  0  0  0  0  0  0  0  0999 V3000\nM  V30 BEGIN CTAB\nM  V30 COUNTS 1 0 0 0 0\nM  V30 BEGIN ATOM\nM  V30 1 N 12.0 12 0 0 VAL=-1\nM  V30 END ATOM\nM  V30 END CTAB\nM  END\n",
+    "inchi": "InChI=1S/N",
+    "inchikey": "QJGQUHMNIGDVPM-UHFFFAOYSA-N"
+  },
+  {
+    "id": "valence/v3000-VAL15-bonded-nitrogen",
+    "note": "V3000 VAL=15 on the bonded N: the 15-minus-bonds branch (H14)",
+    "molfile": "probe\n  AsciiChem\n\n  0  0  0  0  0  0  0  0  0  0999 V3000\nM  V30 BEGIN CTAB\nM  V30 COUNTS 2 1 0 0 0\nM  V30 BEGIN ATOM\nM  V30 1 C 12.0 12 0 0\nM  V30 2 N 72.0 12 0 0 VAL=15\nM  V30 END ATOM\nM  V30 BEGIN BOND\nM  V30 1 1 1 2\nM  V30 END BOND\nM  V30 END CTAB\nM  END\n",
+    "inchi": "InChI=1S/CH17N/c1-2/h1H3,2H14",
+    "inchikey": "ISNYDHGQHLHHEI-UHFFFAOYSA-N"
+  },
+  {
+    "id": "valence/v3000-VAL3-bonded-nitrogen",
+    "note": "V3000 VAL=3 on the singly-bonded N: two H",
+    "molfile": "probe\n  AsciiChem\n\n  0  0  0  0  0  0  0  0  0  0999 V3000\nM  V30 BEGIN CTAB\nM  V30 COUNTS 2 1 0 0 0\nM  V30 BEGIN ATOM\nM  V30 1 C 12.0 12 0 0\nM  V30 2 N 72.0 12 0 0 VAL=3\nM  V30 END ATOM\nM  V30 BEGIN BOND\nM  V30 1 1 1 2\nM  V30 END BOND\nM  V30 END CTAB\nM  END\n",
+    "inchi": "InChI=1S/CH5N/c1-2/h2H2,1H3",
+    "inchikey": "BAVYZALUXZFZLV-UHFFFAOYSA-N"
+  },
+  {
+    "id": "valence/v3000-VAL-2-negative",
+    "note": "other negatives pass the C char cast and stay truthy codes: VAL=-2 clamps the H gap to zero (CH3N)",
+    "molfile": "probe\n  AsciiChem\n\n  0  0  0  0  0  0  0  0  0  0999 V3000\nM  V30 BEGIN CTAB\nM  V30 COUNTS 2 1 0 0 0\nM  V30 BEGIN ATOM\nM  V30 1 C 12.0 12 0 0\nM  V30 2 N 72.0 12 0 0 VAL=-2\nM  V30 END ATOM\nM  V30 BEGIN BOND\nM  V30 1 1 1 2\nM  V30 END BOND\nM  V30 END CTAB\nM  END\n",
+    "inchi": "InChI=1S/CH3N/c1-2/h1H3",
+    "inchikey": "PSWKVGHKABDSRC-UHFFFAOYSA-N"
+  }
+]
