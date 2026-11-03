@@ -1,0 +1,142 @@
+[
+  {
+    "id": "identity/metal-hydride-bare-lithium",
+    "note": "the metal-hydride extraction: a bond-less Li carries one derived H which leaves as its own free component (Li.H, not the bonded HLi the read-time pin alone would give)",
+    "molfile": "probe\n  AsciiChem\n\n  1  0  0  0  0  0  0  0  0  0999 V2000\n   12.0000    0.0000    0.0000 Li   0  0  0  0  0  0  0  0  0  0  0  0\nM  END\n",
+    "inchi": "InChI=1S/Li.H",
+    "inchikey": "SIAPCJWMELPYOE-UHFFFAOYSA-N"
+  },
+  {
+    "id": "identity/metal-hydride-bare-sodium-pair",
+    "note": "two bare sodiums: each H splits (2Na.2H)",
+    "molfile": "probe\n  AsciiChem\n\n  2  0  0  0  0  0  0  0  0  0999 V2000\n   12.0000    0.0000    0.0000 Na   0  0  0  0  0  0  0  0  0  0  0  0\n   36.0000    0.0000    0.0000 Na   0  0  0  0  0  0  0  0  0  0  0  0\nM  END\n",
+    "inchi": "InChI=1S/2Na.2H",
+    "inchikey": "FVKVIAKUDSMVDV-UHFFFAOYSA-N"
+  },
+  {
+    "id": "identity/metal-hydride-bare-magnesium",
+    "note": "main-group metal, valence 2: both derived hydrogens split (Mg.2H)",
+    "molfile": "probe\n  AsciiChem\n\n  1  0  0  0  0  0  0  0  0  0999 V2000\n   12.0000    0.0000    0.0000 Mg   0  0  0  0  0  0  0  0  0  0  0  0\nM  END\n",
+    "inchi": "InChI=1S/Mg.2H",
+    "inchikey": "RSHAOIXHUHAZPM-UHFFFAOYSA-N"
+  },
+  {
+    "id": "identity/metal-hydride-bare-tin",
+    "note": "main-group METAL2 metal: Sn's two derived hydrogens split (Sn.2H)",
+    "molfile": "probe\n  AsciiChem\n\n  1  0  0  0  0  0  0  0  0  0999 V2000\n   12.0000    0.0000    0.0000 Sn   0  0  0  0  0  0  0  0  0  0  0  0\nM  END\n",
+    "inchi": "InChI=1S/Sn.2H",
+    "inchikey": "OLGIDLDDXHSYFE-UHFFFAOYSA-N"
+  },
+  {
+    "id": "identity/metal-bare-skipadding-iron",
+    "note": "the bSkipAddingH metals derive no read-time H, so nothing extracts: bare Fe stays one atom",
+    "molfile": "probe\n  AsciiChem\n\n  1  0  0  0  0  0  0  0  0  0999 V2000\n   12.0000    0.0000    0.0000 Fe   0  0  0  0  0  0  0  0  0  0  0  0\nM  END\n",
+    "inchi": "InChI=1S/Fe",
+    "inchikey": "XEEYBQQBJWHFJM-UHFFFAOYSA-N"
+  },
+  {
+    "id": "identity/metal-bare-skipadding-zinc",
+    "note": "same for Zn",
+    "molfile": "probe\n  AsciiChem\n\n  1  0  0  0  0  0  0  0  0  0999 V2000\n   12.0000    0.0000    0.0000 Zn   0  0  0  0  0  0  0  0  0  0  0  0\nM  END\n",
+    "inchi": "InChI=1S/Zn",
+    "inchikey": "HCHKCACWOHOZIP-UHFFFAOYSA-N"
+  },
+  {
+    "id": "identity/metal-bare-skipadding-platinum",
+    "note": "same for Pt",
+    "molfile": "probe\n  AsciiChem\n\n  1  0  0  0  0  0  0  0  0  0999 V2000\n   12.0000    0.0000    0.0000 Pt   0  0  0  0  0  0  0  0  0  0  0  0\nM  END\n",
+    "inchi": "InChI=1S/Pt",
+    "inchikey": "BASFCYQUMIYNBI-UHFFFAOYSA-N"
+  },
+  {
+    "id": "identity/metal-hydride-explicit-lih",
+    "note": "an EXPLICITLY drawn Li-H bond disconnects the same way (the H is a plain non-metal ligand, no heteroatom renormalization, no charge moves)",
+    "molfile": "probe\n  AsciiChem\n\n  2  1  0  0  0  0  0  0  0  0999 V2000\n   12.0000    0.0000    0.0000 Li   0  0  0  0  0  0  0  0  0  0  0  0\n   36.0000    0.0000    0.0000 H    0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\nM  END\n",
+    "inchi": "InChI=1S/Li.H",
+    "inchikey": "SIAPCJWMELPYOE-UHFFFAOYSA-N"
+  },
+  {
+    "id": "identity/metal-hydride-explicit-nah",
+    "note": "same for Na-H",
+    "molfile": "probe\n  AsciiChem\n\n  2  1  0  0  0  0  0  0  0  0999 V2000\n   12.0000    0.0000    0.0000 Na   0  0  0  0  0  0  0  0  0  0  0  0\n   36.0000    0.0000    0.0000 H    0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\nM  END\n",
+    "inchi": "InChI=1S/Na.H",
+    "inchikey": "MPMYQQHEHYDOCL-UHFFFAOYSA-N"
+  },
+  {
+    "id": "identity/metal-hydride-coded-sodium",
+    "note": "a valence code on the bare metal reads the same one H (max(0, 1-0)) and splits identically — code and pool agree",
+    "molfile": "probe\n  AsciiChem\n\n  1  0  0  0  0  0  0  0  0  0999 V2000\n   12.0000    0.0000    0.0000 Na     0  0  0  0  1  0  0  0  0  0  0\nM  END\n",
+    "inchi": "InChI=1S/Na.H",
+    "inchikey": "MPMYQQHEHYDOCL-UHFFFAOYSA-N"
+  },
+  {
+    "id": "identity/metal-chelate-pt-en",
+    "note": "multi-dentate chelate (ethylenediamine N,N plus two chlorides): both ammine N renormalize to -1, the delta rides to the one metal each",
+    "molfile": "probe\n  AsciiChem\n\n  7  7  0  0  0  0  0  0  0  0999 V2000\n   12.0000    0.0000    0.0000 Pt   0  0  0  0  0  0  0  0  0  0  0  0\n   36.0000    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0\n   60.0000    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0\n   84.0000    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0\n  108.0000    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0\n  132.0000    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0\n  156.0000    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  2  3  1  0\n  3  4  1  0\n  4  5  1  0\n  5  1  1  0\n  1  6  1  0\n  1  7  1  0\nM  END\n",
+    "inchi": "InChI=1S/C2H6N2.2ClH.Pt/c3-1-2-4;;;/h3-4H,1-2H2;2*1H;/q-2;;;+4/p-2",
+    "inchikey": "IROITDSZMKWTSF-UHFFFAOYSA-L"
+  },
+  {
+    "id": "identity/metal-mmbond-calomel",
+    "note": "metal-metal bond (Cl-Hg-Hg-Cl): the salt pass claims the halide-valent Hg, both bonds salt-disconnect",
+    "molfile": "probe\n  AsciiChem\n\n  4  3  0  0  0  0  0  0  0  0999 V2000\n   12.0000    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0\n   36.0000    0.0000    0.0000 Hg   0  0  0  0  0  0  0  0  0  0  0  0\n   60.0000    0.0000    0.0000 Hg   0  0  0  0  0  0  0  0  0  0  0  0\n   84.0000    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  2  3  1  0\n  3  4  1  0\nM  END\n",
+    "inchi": "InChI=1S/2ClH.2Hg/h2*1H;;/q;;2*+1/p-2",
+    "inchikey": "ZOMNIUBKTOKEHS-UHFFFAOYSA-L"
+  },
+  {
+    "id": "identity/metal-hydride-ptcl3h",
+    "note": "an anionic hydride complex: the H ligand leaves free (no renormalization on H), the chlorides renormalize, the drawn -1 survives in the net",
+    "molfile": "probe\n  AsciiChem\n\n  5  4  0  0  0  0  0  0  0  0999 V2000\n   12.0000    0.0000    0.0000 Pt   0  0  0  0  0  0  0  0  0  0  0  0\n   36.0000    0.0000    0.0000 H    0  0  0  0  0  0  0  0  0  0  0  0\n   60.0000    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0\n   84.0000    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0\n  108.0000    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  1  3  1  0\n  1  4  1  0\n  1  5  1  0\nM  CHG  1   1  -1\nM  END\n",
+    "inchi": "InChI=1S/3ClH.Pt.H/h3*1H;;/q;;;+2;/p-3",
+    "inchikey": "JBXNAJJOAQAJGR-UHFFFAOYSA-K"
+  },
+  {
+    "id": "identity/metal-chelate-cu-oxalate",
+    "note": "O,O chelate (oxalate): the bonded oxygens already carry -1 so no renormalization delta rides; the mobile-H groups sit on the carbonyl pairs",
+    "molfile": "probe\n  AsciiChem\n\n  7  7  0  0  0  0  0  0  0  0999 V2000\n   12.0000    0.0000    0.0000 Cu   0  0  0  0  0  0  0  0  0  0  0  0\n   36.0000    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0\n   60.0000    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0\n   84.0000    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0\n  108.0000    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0\n  132.0000    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0\n  156.0000    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  2  3  1  0\n  3  5  2  0\n  3  4  1  0\n  4  6  2  0\n  4  7  1  0\n  7  1  1  0\nM  CHG  2   2  -1   7  -1\nM  END\n",
+    "inchi": "InChI=1S/C2H2O4.Cu/c3-1(4)2(5)6;/h(H,3,4)(H,5,6);/p-2",
+    "inchikey": "NTKHLGAMTDSVMO-UHFFFAOYSA-L"
+  },
+  {
+    "id": "identity/metal-coordination-fe-cn6",
+    "note": "hexacyanoferrate drawing: six cyanide components keep their drawn charges",
+    "molfile": "probe\n  AsciiChem\n\n 13 12  0  0  0  0  0  0  0  0999 V2000\n   12.0000    0.0000    0.0000 Fe   0  0  0  0  0  0  0  0  0  0  0  0\n   36.0000    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0\n   60.0000    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0\n   84.0000    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0\n  108.0000    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0\n  132.0000    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0\n  156.0000    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0\n  180.0000    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0\n  204.0000    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0\n  228.0000    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0\n  252.0000    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0\n  276.0000    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0\n  300.0000    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  1  4  1  0\n  1  6  1  0\n  1  8  1  0\n  1 10  1  0\n  1 12  1  0\n  2  3  3  0\n  4  5  3  0\n  6  7  3  0\n  8  9  3  0\n 10 11  3  0\n 12 13  3  0\nM  CHG  4   3  -1   5  -1   7  -1   9  -1\nM  END\n",
+    "inchi": "InChI=1S/6CN.Fe/c6*1-2;/q;;4*-1;",
+    "inchikey": "DIBUABABNVJIHZ-UHFFFAOYSA-N"
+  },
+  {
+    "id": "identity/metal-coordination-co-nh36",
+    "note": "hexamminecobalt with explicit N-H: the N(IV) ligands renormalize to neutral NH3 (3 = the N valence), the drawn +3 stays",
+    "molfile": "probe\n  AsciiChem\n\n 25 24  0  0  0  0  0  0  0  0999 V2000\n   12.0000    0.0000    0.0000 Co   0  0  0  0  0  0  0  0  0  0  0  0\n   36.0000    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0\n   60.0000    0.0000    0.0000 H    0  0  0  0  0  0  0  0  0  0  0  0\n   84.0000    0.0000    0.0000 H    0  0  0  0  0  0  0  0  0  0  0  0\n  108.0000    0.0000    0.0000 H    0  0  0  0  0  0  0  0  0  0  0  0\n  132.0000    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0\n  156.0000    0.0000    0.0000 H    0  0  0  0  0  0  0  0  0  0  0  0\n  180.0000    0.0000    0.0000 H    0  0  0  0  0  0  0  0  0  0  0  0\n  204.0000    0.0000    0.0000 H    0  0  0  0  0  0  0  0  0  0  0  0\n  228.0000    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0\n  252.0000    0.0000    0.0000 H    0  0  0  0  0  0  0  0  0  0  0  0\n  276.0000    0.0000    0.0000 H    0  0  0  0  0  0  0  0  0  0  0  0\n  300.0000    0.0000    0.0000 H    0  0  0  0  0  0  0  0  0  0  0  0\n  324.0000    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0\n  348.0000    0.0000    0.0000 H    0  0  0  0  0  0  0  0  0  0  0  0\n  372.0000    0.0000    0.0000 H    0  0  0  0  0  0  0  0  0  0  0  0\n  396.0000    0.0000    0.0000 H    0  0  0  0  0  0  0  0  0  0  0  0\n  420.0000    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0\n  444.0000    0.0000    0.0000 H    0  0  0  0  0  0  0  0  0  0  0  0\n  468.0000    0.0000    0.0000 H    0  0  0  0  0  0  0  0  0  0  0  0\n  492.0000    0.0000    0.0000 H    0  0  0  0  0  0  0  0  0  0  0  0\n  516.0000    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0\n  540.0000    0.0000    0.0000 H    0  0  0  0  0  0  0  0  0  0  0  0\n  564.0000    0.0000    0.0000 H    0  0  0  0  0  0  0  0  0  0  0  0\n  588.0000    0.0000    0.0000 H    0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  2  3  1  0\n  2  4  1  0\n  2  5  1  0\n  1  6  1  0\n  6  7  1  0\n  6  8  1  0\n  6  9  1  0\n  1 10  1  0\n 10 11  1  0\n 10 12  1  0\n 10 13  1  0\n  1 14  1  0\n 14 15  1  0\n 14 16  1  0\n 14 17  1  0\n  1 18  1  0\n 18 19  1  0\n 18 20  1  0\n 18 21  1  0\n  1 22  1  0\n 22 23  1  0\n 22 24  1  0\n 22 25  1  0\nM  CHG  1   1   3\nM  END\n",
+    "inchi": "InChI=1S/Co.6H3N/h;6*1H3/q+3;;;;;;",
+    "inchikey": "DYLMFCCYOUSRTK-UHFFFAOYSA-N"
+  },
+  {
+    "id": "identity/metal-coordination-ni-co4",
+    "note": "Ni(CO)4 drawing: each carbonyl C keeps its read-time H as CHO",
+    "molfile": "probe\n  AsciiChem\n\n  9  8  0  0  0  0  0  0  0  0999 V2000\n   12.0000    0.0000    0.0000 Ni   0  0  0  0  0  0  0  0  0  0  0  0\n   36.0000    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0\n   60.0000    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0\n   84.0000    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0\n  108.0000    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0\n  132.0000    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0\n  156.0000    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0\n  180.0000    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0\n  204.0000    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  2  3  2  0\n  1  4  1  0\n  4  5  2  0\n  1  6  1  0\n  6  7  2  0\n  1  8  1  0\n  8  9  2  0\nM  END\n",
+    "inchi": "InChI=1S/4CHO.Ni/c4*1-2;/h4*1H;",
+    "inchikey": "QQUKBFIGNANQBL-UHFFFAOYSA-N"
+  },
+  {
+    "id": "identity/metal-bare-charged-cobalt",
+    "note": "a bond-less CHARGED metal: nothing marks (no valence, no H), the drawn +3 survives",
+    "molfile": "probe\n  AsciiChem\n\n  1  0  0  0  0  0  0  0  0  0999 V2000\n   12.0000    0.0000    0.0000 Co   0  0  0  0  0  0  0  0  0  0  0  0\nM  CHG  1   1   3\nM  END\n",
+    "inchi": "InChI=1S/Co/q+3",
+    "inchikey": "JAWGVVJVYSANRY-UHFFFAOYSA-N"
+  },
+  {
+    "id": "identity/metal-bare-charged-platinum",
+    "note": "same for Pt-1",
+    "molfile": "probe\n  AsciiChem\n\n  1  0  0  0  0  0  0  0  0  0999 V2000\n   12.0000    0.0000    0.0000 Pt   0  0  0  0  0  0  0  0  0  0  0  0\nM  CHG  1   1  -1\nM  END\n",
+    "inchi": "InChI=1S/Pt/q-1",
+    "inchikey": "DLDDCHUDFOCNCS-UHFFFAOYSA-N"
+  },
+  {
+    "id": "identity/metal-hydride-chg-on-cl",
+    "note": "the anionic charge drawn on a ligand instead of the metal: identical identifier — the disconnect sees the same structure",
+    "molfile": "probe\n  AsciiChem\n\n  5  4  0  0  0  0  0  0  0  0999 V2000\n   12.0000    0.0000    0.0000 Pt   0  0  0  0  0  0  0  0  0  0  0  0\n   36.0000    0.0000    0.0000 H    0  0  0  0  0  0  0  0  0  0  0  0\n   60.0000    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0\n   84.0000    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0\n  108.0000    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  1  3  1  0\n  1  4  1  0\n  1  5  1  0\nM  CHG  1   3  -1\nM  END\n",
+    "inchi": "InChI=1S/3ClH.Pt.H/h3*1H;;/q;;;+2;/p-3",
+    "inchikey": "JBXNAJJOAQAJGR-UHFFFAOYSA-K"
+  }
+]
