@@ -388,13 +388,13 @@ raise "contract failures:\n#{failures.join("\n")}" unless failures.empty?
 
 # --- emit ---------------------------------------------------------------
 
-# The /rB wedge-mark echo over the frame-shift-edited structure: the
-# oracle places the P mark on an entry chemomer's per-atom echo never
-# reaches (2026-11-03, oneb/cru-methyl-stereo cycled cells: oracle
-# `P2s5` vs chemomer `s2s5` at the one entry — the NoFrameShift cells
-# agree byte-for-byte). The identifiers and keys carry the contract;
-# the aux stays unrecorded on those cells.
-DROP_AUX_CYCLED = ['oneb/cru-methyl-stereo'].freeze
+# 2026-11-03: the frame-shifted /rB wedge-mark echo carried a dated
+# drop here (oracle `P2s5` vs chemomer `s2s5` on the
+# oneb/cru-methyl-stereo cycled cells) — retired the same day: the
+# engine moved the wedge with the edit (the reference's
+# OrigAtData_RemoveBond/AddBond pair captures the stereo at the
+# edit's second atom and re-applies it to both endpoints of the new
+# bond, parity-inert), the aux records stand again on every cell.
 
 rows = FIXTURE_ROWS.map do |row|
   modes = recorded[row['id']].transform_values do |rec|
@@ -403,11 +403,6 @@ rows = FIXTURE_ROWS.map do |row|
     cell['xhash2'] = rec['xhash2'] if rec['xhash2']
     cell['merged'] = rec['merged'] if rec['merged']
     cell
-  end
-  if DROP_AUX_CYCLED.include?(row['id'])
-    modes.each do |mode, cell|
-      cell.delete('aux') unless mode.split('+').include?('fs-none')
-    end
   end
   { 'id' => row['id'], 'structureClass' => 'oneb-interplay',
     'molfile' => row['molfile'], 'modes' => modes }
