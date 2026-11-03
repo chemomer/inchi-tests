@@ -77,7 +77,29 @@ HAND_WRITTEN = {
                                     [[0, 1, 2], [1, 2, 1], [2, 3, 2], [3, 4, 1], [4, 5, 2], [5, 0, 1],
                                      [5, 6, 1], [6, 7, 2], [6, 8, 1]],
                                     [[6, 1], [8, -1]]),
-  'placeholder'   => inline_molfile('unknown structure', %w[A], [])
+  'placeholder'   => inline_molfile('unknown structure', %w[A], []),
+  # The metal-O tranche's inline species: connected metal-oxygen
+  # frameworks the identity tranches cover as fixture molfiles, the
+  # small salts and oxides written here (charges ride the M  CHG
+  # property line the reference reads).
+  'nahco3'        => inline_molfile('sodium bicarbonate', %w[C O O O Na],
+                                    [[0, 1, 2], [0, 2, 1], [0, 3, 1], [3, 4, 1]],
+                                    [[3, -1]]),
+  'nacl-ions'     => inline_molfile('sodium chloride', %w[Na Cl], [], [[0, 1], [1, -1]]),
+  'agcl'          => inline_molfile('silver chloride', %w[Ag Cl], [], [[1, -1]]),
+  'cuox'          => inline_molfile('copper oxalate', %w[Cu C O O C O O],
+                                    [[0, 1, 1], [1, 2, 2], [1, 3, 1], [3, 4, 1], [4, 5, 2], [4, 6, 1], [6, 0, 1]],
+                                    [[2, -1], [5, -1]]),
+  'cuo'           => inline_molfile('copper oxide', %w[Cu O], [[0, 1, 1]], [[1, -2]]),
+  'niso4'         => inline_molfile('nickel sulfate', %w[Ni O S O O O],
+                                    [[0, 1, 1], [1, 2, 1], [2, 3, 2], [2, 4, 2], [2, 5, 1]],
+                                    [[1, -1], [5, -1]]),
+  'zno'           => inline_molfile('zinc oxide', %w[Zn O], [[0, 1, 1]], [[1, -2]]),
+  'zncl2'         => inline_molfile('zinc chloride', %w[Zn Cl Cl], [], [[0, 2], [1, -1], [2, -1]]),
+  'feco3'         => inline_molfile('iron carbonate', %w[Fe O C O O],
+                                    [[0, 1, 1], [1, 2, 1], [2, 3, 2], [2, 4, 1]],
+                                    [[3, -1], [4, -1]]),
+  'feo'           => inline_molfile('iron oxide', %w[Fe O], [[0, 1, 2]], [[1, -2]])
 }.freeze
 
 CORPUS = {
@@ -92,7 +114,14 @@ CORPUS = {
   'e-2-butene'     => 'identity/e-2-butene',
   'z-2-butene'     => 'identity/z-2-butene',
   'l-alanine'      => 'identity/l-alanine',
-  'd-alanine'      => 'identity/d-alanine'
+  'd-alanine'      => 'identity/d-alanine',
+  # The connected metal-O components come from the identity metal
+  # tranches' fixture molfiles (provenance stays inside the corpus).
+  'metal-sodium-phenoxide-bonded'  => 'identity/metal-sodium-phenoxide-bonded',
+  'metal-sodium-acetate-bonded'    => 'identity/metal-sodium-acetate-bonded',
+  'metal-silver-nitrate-bonded'    => 'identity/metal-silver-nitrate-bonded',
+  'metal-ethyl-magnesium-bromide'  => 'identity/metal-ethyl-magnesium-bromide',
+  'metal-methyl-copper'            => 'identity/metal-methyl-copper'
 }.freeze
 
 def molfile_for(species)
@@ -117,7 +146,67 @@ REACTIONS = {
   'rinchi/woehler-urea-synthesis'  => [%w[co2 ammonia ammonia], %w[urea water], []],
   'rinchi/benzene-nitration'       => [%w[benzene nitric-acid], %w[nitrobenzene water], []],
   'rinchi/gas-phase-unknown-product' => [%w[ammonia hcl], [], []],
-  'rinchi/water-to-unknown'        => [%w[water], %w[placeholder], []]
+  'rinchi/water-to-unknown'        => [%w[water], %w[placeholder], []],
+  # The metal-O family (the parked RInChI item re-tested once the
+  # metal machinery landed): connected metal-oxygen components in
+  # every role — phenoxide/acetate/silver-salt coordination bonds
+  # through the identity fixtures' molfiles, oxides and salts inline.
+  'rinchi/metal-kolbe-schmitt'      => [%w[metal-sodium-phenoxide-bonded co2], %w[nahco3], []],
+  'rinchi/metal-silver-metathesis'  => [%w[metal-silver-nitrate-bonded nacl-ions], %w[agcl nacl-ions], []],
+  'rinchi/metal-acetate-acidification' => [%w[metal-sodium-acetate-bonded hcl], %w[acetic-acid nacl-ions], []],
+  'rinchi/metal-grignard-carboxylation' => [%w[metal-ethyl-magnesium-bromide co2], %w[nahco3], []],
+  'rinchi/metal-oxalate-decomposition' => [%w[cuox], %w[cuo co2], []],
+  'rinchi/metal-phenoxide-protonation' => [%w[metal-sodium-phenoxide-bonded hcl], %w[ethanol], []],
+  'rinchi/metal-methylcopper-carboxylation' => [%w[metal-methyl-copper co2], %w[nahco3], []],
+  'rinchi/metal-nickel-sulfate-isomer' => [%w[niso4], %w[niso4], []],
+  'rinchi/metal-zinc-oxide-acid'    => [%w[zno hcl hcl], %w[zncl2 water], []],
+  'rinchi/metal-iron-carbonate-calcination' => [%w[feco3], %w[feo co2], []]
+}.freeze
+
+# The equilibrium family: the same oracle probe under
+# /force-equilibrium — the direction flag reads `/d=` regardless of
+# which group sorts first.
+EQUILIBRIUM_REACTIONS = {
+  'rinchi/equil-water-is-water'    => [%w[water], %w[water], []],
+  'rinchi/equil-esterification'    => [%w[acetic-acid ethanol], %w[ethyl-acetate water], []],
+  'rinchi/equil-kolbe-schmitt'     => [%w[metal-sodium-phenoxide-bonded co2], %w[nahco3], []],
+  'rinchi/equil-silver-metathesis' => [%w[metal-silver-nitrate-bonded nacl-ions], %w[agcl nacl-ions], []]
+}.freeze
+
+# The RDfile family: reaction datafiles — the `$RXN` block verbatim,
+# then `$DATUM $MFMT` agent blocks whose `$DTYPE` predecessor line
+# decides the block's fate (a CATALYST role stays an agent; a role
+# keyword (:PRODUCT/:REACTANT/...) plus a duplicate identifier drops
+# the block; a variation-number change ends the scan).
+RD_REACTIONS = {
+  'rinchi/rd-chlorination-no-agents' => {
+    'reactants' => %w[benzene cl2], 'products' => %w[chlorobenzene hcl], 'agents' => [],
+    'agent_blocks' => []
+  },
+  'rinchi/rd-sulfuric-catalyst' => {
+    'reactants' => %w[acetic-acid ethanol], 'products' => %w[ethyl-acetate water], 'agents' => %w[sulfuric-acid],
+    'agent_blocks' => [['RXN:VARIATION(1):STEPNO(1):CATALYST(1):MOL(1):MOLSTRUCTURE', 'sulfuric-acid']]
+  },
+  'rinchi/rd-product-repeat-drops' => {
+    'reactants' => %w[acetic-acid ethanol], 'products' => %w[ethyl-acetate water], 'agents' => [],
+    'agent_blocks' => [['RXN:VARIATION(1):PRODUCT(1):MOL(1):MOLSTRUCTURE', 'ethanol']]
+  },
+  'rinchi/rd-variation-stop' => {
+    'reactants' => %w[benzene nitric-acid], 'products' => %w[nitrobenzene water],
+    'agents' => %w[sulfuric-acid],
+    'agent_blocks' => [
+      ['RXN:VARIATION(1):STEPNO(1):CATALYST(1):MOL(1):MOLSTRUCTURE', 'sulfuric-acid'],
+      ['RXN:VARIATION(2):STEPNO(1):CATALYST(1):MOL(1):MOLSTRUCTURE', 'nitric-acid']
+    ]
+  },
+  'rinchi/rd-two-catalysts' => {
+    'reactants' => %w[benzene nitric-acid], 'products' => %w[nitrobenzene water],
+    'agents' => %w[sulfuric-acid water],
+    'agent_blocks' => [
+      ['RXN:VARIATION(1):STEPNO(1):CATALYST(1):MOL(1):MOLSTRUCTURE', 'sulfuric-acid'],
+      ['RXN:VARIATION(1):STEPNO(1):CATALYST(2):MOL(1):MOLSTRUCTURE', 'water']
+    ]
+  }
 }.freeze
 
 def write_rxn(id, reactants, products, agents)
@@ -133,16 +222,76 @@ def write_rxn(id, reactants, products, agents)
   out
 end
 
+def write_rdf(id, reactants, products, agent_blocks)
+  out = +"$RDFILE 1\n$DATM 2026-11-03 12:00:00\n$RFMT $RIREG 42\n"
+  out << write_rxn(id, reactants, products, [])
+  agent_blocks.each do |(dtype, species)|
+    out << "$DTYPE #{dtype}\n$DATUM $MFMT\n"
+    out << molfile_for(species)
+  end
+  out
+end
+
 rinchi_bin = ENV.fetch('RINCHI_BIN', 'rinchi_cmdline')
 inchi_bin = ENV.fetch('ASCIICHEM_INCHI_BIN', 'inchi-1')
+
+def record_oracle(rinchi_bin, inchi_bin, id, input_text, dir)
+  path = File.join(dir, 'r.in')
+  File.write(path, input_text)
+  output = `#{rinchi_bin} #{path} 2>&1`
+  lines = output.split("\n")
+  rinchi = lines.find { |l| l.start_with?('RInChI=') }
+  rauxinfo = lines.find { |l| l.start_with?('RAuxInfo=') }
+  long_key = lines.find { |l| l.start_with?('Long-RInChIKey=') }
+  short_key = lines.find { |l| l.start_with?('Short-RInChIKey=') }
+  web_key = lines.find { |l| l.start_with?('Web-RInChIKey=') }
+  raise "oracle produced no RInChI for #{id}:\n#{output}" unless rinchi && rauxinfo && short_key
+
+  [rinchi, rauxinfo,
+   short_key[/^Short-RInChIKey=(\S+)/, 1],
+   long_key ? long_key[/=(\S+)$/, 1] : nil,
+   web_key ? web_key[/=(\S+)$/, 1] : nil]
+end
+
+def record_components(inchi_bin, species_list, dir)
+  species_list.map do |species|
+    mol = molfile_for(species)
+    File.write(File.join(dir, 'c.mol'), mol)
+    system(inchi_bin, File.join(dir, 'c.mol'), File.join(dir, 'c.txt'),
+           '-AuxInfo', '-Key', out: File::NULL, err: File::NULL)
+    txt = File.read(File.join(dir, 'c.txt'))
+    {
+      'species' => species,
+      'inchi' => txt[/^InChI=\S+/] || 'InChI=1S/',
+      'aux' => txt[/^AuxInfo=\S+/] || 'AuxInfo=1/',
+      'inchikey' => txt[/^InChIKey=(\S+)/, 1] || 'MOSFIJXAXDLOML-UHFFFAOYSA-N'
+    }
+  end
+end
 
 rows = []
 REACTIONS.each do |id, (reactants, products, agents)|
   rxnfile = write_rxn(id, reactants, products, agents)
   Dir.mktmpdir do |dir|
+    rinchi, rauxinfo, short_key, long_key, web_key = record_oracle(rinchi_bin, inchi_bin, id, rxnfile, dir)
+    components = record_components(inchi_bin, reactants + products + agents, dir)
+    rows << { 'id' => id,
+              'rxnfile' => rxnfile,
+              'rinchi' => rinchi,
+              'rauxinfo' => rauxinfo,
+              'rinchikey' => short_key,
+              'longKey' => long_key,
+              'webKey' => web_key,
+              'components' => components }
+  end
+end
+
+EQUILIBRIUM_REACTIONS.each do |id, (reactants, products, agents)|
+  rxnfile = write_rxn(id, reactants, products, agents)
+  Dir.mktmpdir do |dir|
     path = File.join(dir, 'r.rxn')
     File.write(path, rxnfile)
-    output = `#{rinchi_bin} #{path} 2>&1`
+    output = `#{rinchi_bin} #{path} /force-equilibrium 2>&1`
     lines = output.split("\n")
     rinchi = lines.find { |l| l.start_with?('RInChI=') }
     rauxinfo = lines.find { |l| l.start_with?('RAuxInfo=') }
@@ -150,30 +299,31 @@ REACTIONS.each do |id, (reactants, products, agents)|
     short_key = lines.find { |l| l.start_with?('Short-RInChIKey=') }
     web_key = lines.find { |l| l.start_with?('Web-RInChIKey=') }
     raise "oracle produced no RInChI for #{id}:\n#{output}" unless rinchi && rauxinfo && short_key
-
-    # Per-component standard InChIs (debugging aid): every component
-    # block re-runs through the InChI oracle, RXN role order kept.
-    components = (reactants + products + agents).map do |species|
-      mol = molfile_for(species)
-      File.write(File.join(dir, 'c.mol'), mol)
-      system(inchi_bin, File.join(dir, 'c.mol'), File.join(dir, 'c.txt'),
-             '-AuxInfo', '-Key', out: File::NULL, err: File::NULL)
-      txt = File.read(File.join(dir, 'c.txt'))
-      {
-        'species' => species,
-        'inchi' => txt[/^InChI=\S+/] || 'InChI=1S/',
-        'aux' => txt[/^AuxInfo=\S+/] || 'AuxInfo=1/',
-        'inchikey' => txt[/^InChIKey=(\S+)/, 1] || 'MOSFIJXAXDLOML-UHFFFAOYSA-N'
-      }
-    end
-
+    components = record_components(inchi_bin, reactants + products + agents, dir)
     rows << { 'id' => id,
               'rxnfile' => rxnfile,
+              'forceEquilibrium' => true,
               'rinchi' => rinchi,
               'rauxinfo' => rauxinfo,
               'rinchikey' => short_key[/^Short-RInChIKey=(\S+)/, 1],
               'longKey' => long_key ? long_key[/=(\S+)$/, 1] : nil,
               'webKey' => web_key ? web_key[/=(\S+)$/, 1] : nil,
+              'components' => components }
+  end
+end
+
+RD_REACTIONS.each do |id, spec|
+  rdfile = write_rdf(id, spec['reactants'], spec['products'], spec['agent_blocks'])
+  Dir.mktmpdir do |dir|
+    rinchi, rauxinfo, short_key, long_key, web_key = record_oracle(rinchi_bin, inchi_bin, id, rdfile, dir)
+    components = record_components(inchi_bin, spec['reactants'] + spec['products'] + spec['agents'], dir)
+    rows << { 'id' => id,
+              'rdfile' => rdfile,
+              'rinchi' => rinchi,
+              'rauxinfo' => rauxinfo,
+              'rinchikey' => short_key,
+              'longKey' => long_key,
+              'webKey' => web_key,
               'components' => components }
   end
 end
