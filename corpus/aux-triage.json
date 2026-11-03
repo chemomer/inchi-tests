@@ -26,17 +26,5 @@
   "identity/breadth3-879": {
     "reason": "aux tail: norm salt bit (TEST_TAUT__SALTS_DONE/MERGE via BNS scan); CRV unusual valences via BNS integer bonds valence",
     "recorded": "2026-11-03"
-  },
-  "identity/caffeine": {
-    "reason": "aux tail: norm salt bit (TEST_TAUT__SALTS_DONE/MERGE via BNS scan); CRV unusual valences via BNS integer bonds valence; rA ring-closure digit allocation",
-    "recorded": "2026-11-03"
-  },
-  "identity/furan": {
-    "reason": "aux tail: norm salt bit (TEST_TAUT__SALTS_DONE/MERGE via BNS scan); CRV unusual valences via BNS integer bonds valence; rA ring-closure digit allocation",
-    "recorded": "2026-11-03"
-  },
-  "identity/naphthalene": {
-    "reason": "aux tail: norm salt bit (TEST_TAUT__SALTS_DONE/MERGE via BNS scan); CRV unusual valences via BNS integer bonds valence",
-    "recorded": "2026-11-03"
   }
 }
