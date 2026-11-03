@@ -1,14 +1,1 @@
-{
- "polymers/ringcru": {
-  "reason": "polymer tail: caps closing an existing ring (adjacent CRU ends) — the 1.05+ interim backbone collection and the higher-order cyclization over a pre-existing ring bond; the senior-bond rotation never settles there in the reference",
-  "recorded": "2026-11-02"
- },
- "polymers/charged-105": {
-  "reason": "polymer tail: frame-shift backbone delisting over a TAUTOMERIC CRU (the N-oxide mobile group marks N-side backbone bonds BOND_TAUTOM in the normalized interim; which adjacent bonds take the mark is the tautomer machinery's, not the polymer treatment's)",
-  "recorded": "2026-11-02"
- },
- "polymers/isocru-105": {
-  "reason": "pre-existing engine debt exposed by the polymer cyclized form: multi-component isotopic /i numbering (the isotopically-informed canonical pass) — reproduces without any polymer data (multi-iso probe: oracle i1+1, engine i2+1)",
-  "recorded": "2026-11-02"
- }
-}
+{}
