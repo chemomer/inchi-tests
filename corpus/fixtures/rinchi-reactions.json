@@ -1155,5 +1155,53 @@
         "inchikey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N"
       }
     ]
-  }
+  },
+ {
+  "id": "rinchi/R005a-with-agents",
+  "note": "the RInChI distribution's own R005a_with_agents.rxn (src/test/rxnfiles, recorded from the built rinchi_cmdline): the NaCl/H2O/HCl agents are drawn expanded with M STY ... SUP superatom abbreviation lines - the RInChI reference reader ignores every sgroup property line, so the components read as plain graphs (the recorded per-component InChIs come from the inchi-1 oracle over the same blocks). Recorded 2026-11-04 when the superatom input unit cleared the reader's STY-SUP rejection.",
+  "rxnfile": "$RXN\n\n\n\n  2  1  3  \n$MOL\n\n\n\n  6  5  0  0  0  0  0  0  0  0999 V2000\n   -0.8250   -0.7557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.4125   -0.0412    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.4125   -0.0412    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.8250    0.6733    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.6260    0.7557    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    0.8250   -0.7557    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0        0\n  2  3  1  0        0\n  3  4  1  0        0\n  2  5  1  6        0\n  3  6  1  1        0\nM  END\n$MOL\n\n\n\n  2  1  0  0  0  0  0  0  0  0999 V2000\n   -0.4125    0.0000    0.0000 Na  0  0  0  0  0  0  0  0  0  0  0  0\n    0.4125    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0        0\nM  END\n$MOL\n\n\n\n  5  5  0  0  0  0            999 V2000\n    3.8966   -0.1510    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0\n    4.7216   -0.1510    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0\n    5.4361   -0.5635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.3091    0.5635    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    3.1822   -0.5635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0  0  0  0\n  2  3  1  1  0  0  0\n  1  4  1  0  0  0  0\n  2  4  1  0  0  0  0\n  1  5  1  6  0  0  0\nM  END\n$MOL\n\n\n\n  2  0  0  0  0  0            999 V2000\n    0.4571   -0.5804    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0\n   -0.3679   -0.5804    0.0000 Cl  0  5  0  0  0  0  0  0  0  0  0  0\nM  CHG  2   1   1   2  -1\nM  STY  1   1 SUP\nM  SAL   1  2   1   2\nM  SMT   1 NaCl\nM  END\n$MOL\n\n\n\n  3  2  0  0  0  0            999 V2000\n   -0.2457    0.3313    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0\n    0.4688    0.7438    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    1.1832    0.3313    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0  0  0  0\n  2  3  1  0  0  0  0\nM  STY  1   1 SUP\nM  SAL   1  3   1   2   3\nM  SMT   1 H2O\nM  END\n$MOL\n\n\n\n  2  1  0  0  0  0            999 V2000\n    0.7482   -0.5134    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0\n    1.5732   -0.5134    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0  0  0  0\nM  STY  1   1 SUP\nM  SAL   1  2   1   2\nM  SMT   1 HCl\nM  END\n",
+  "rinchi": "RInChI=1.00.1S/C4H8O/c1-3-4(2)5-3/h3-4H,1-2H3/t3-,4-/m0/s1<>C4H9BrO/c1-3(5)4(2)6/h3-4,6H,1-2H3/t3-,4+/m1/s1!Na.H2O/h;1H2/q+1;/p-1<>ClH.Na/h1H;/q;+1/p-1!ClH/h1H!H2O/h1H2/d-",
+  "rauxinfo": "RAuxInfo=1.00.1/0/N:3,5,2,1,4/E:(1,2)(3,4)/it:im/rA:5nCCCOC/rB:s1;P2;s1s2;N1;/rC:3.8966,-.151,0;4.7216,-.151,0;5.4361,-.5635,0;4.3091,.5635,0;3.1822,-.5635,0;<>0/N:4,1,3,2,6,5/it:im/rA:6nCCCCOBr/rB:s1;s2;s3;N2;P3;/rC:-.825,-.7557,0;-.4125,-.0412,0;.4125,-.0412,0;.825,.6733,0;-.626,.7557,0;.825,-.7557,0;!1/N:1;2/rA:2nNaO/rB:s1;/rC:-.4125,0,0;.4125,0,0;<>1/N:2;1/rA:2nNa+Cl-/rB:;/rC:.4571,-.5804,0;-.3679,-.5804,0;!0/N:1/rA:2nClH/rB:s1;/rC:.7482,-.5134,0;1.5732,-.5134,0;!0/N:2/rA:3nHOH/rB:s1;s2;/rC:-.2457,.3313,0;.4688,.7438,0;1.1832,.3313,0;",
+  "rinchikey": "SA-BUHFF-PQXKWPLDPF-LSZRVNUIRJ-OGQHICMQSQ-NFPNW-MCQMH-MUHFF-ZZZ",
+  "longKey": "SA-BUHFF-PQXKWPLDPFFDJP-IMJSIDKUSA-N--JCYSVJNMXBWPHS-DMTCNVIQSA-N-HEMHJVSKTPXQMS-UHFFFAOYSA-M--FAPWRFPIFSIZLT-UHFFFAOYSA-M-VEXZGXHMUGYJMC-UHFFFAOYSA-N-XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+  "webKey": "WPFKUBNNODZQCZFLA-LKYFMBOQWRDXDSA",
+  "components": [
+   {
+    "species": "r1-bromo-thf",
+    "inchi": "InChI=1S/C4H9BrO/c1-3(5)4(2)6/h3-4,6H,1-2H3/t3-,4+/m1/s1",
+    "aux": "AuxInfo=1/0/N:4,1,3,2,6,5/it:im/rA:6nCCCCOBr/rB:s1;s2;s3;N2;P3;/rC:-.825,-.7557,0;-.4125,-.0412,0;.4125,-.0412,0;.825,.6733,0;-.626,.7557,0;.825,-.7557,0;",
+    "inchikey": "JCYSVJNMXBWPHS-DMTCNVIQSA-N"
+   },
+   {
+    "species": "r2-nao",
+    "inchi": "InChI=1S/Na.H2O/h;1H2/q+1;/p-1",
+    "aux": "AuxInfo=1/1/N:1;2/rA:2nNaO/rB:s1;/rC:-.4125,0,0;.4125,0,0;",
+    "inchikey": "HEMHJVSKTPXQMS-UHFFFAOYSA-M"
+   },
+   {
+    "species": "p1-thf",
+    "inchi": "InChI=1S/C4H8O/c1-3-4(2)5-3/h3-4H,1-2H3/t3-,4-/m0/s1",
+    "aux": "AuxInfo=1/0/N:3,5,2,1,4/E:(1,2)(3,4)/it:im/rA:5nCCCOC/rB:s1;P2;s1s2;N1;/rC:3.8966,-.151,0;4.7216,-.151,0;5.4361,-.5635,0;4.3091,.5635,0;3.1822,-.5635,0;",
+    "inchikey": "PQXKWPLDPFFDJP-IMJSIDKUSA-N"
+   },
+   {
+    "species": "a1-nacl",
+    "inchi": "InChI=1S/ClH.Na/h1H;/q;+1/p-1",
+    "aux": "AuxInfo=1/1/N:2;1/rA:2nNa+Cl-/rB:;/rC:.4571,-.5804,0;-.3679,-.5804,0;",
+    "inchikey": "FAPWRFPIFSIZLT-UHFFFAOYSA-M"
+   },
+   {
+    "species": "a2-water",
+    "inchi": "InChI=1S/H2O/h1H2",
+    "aux": "AuxInfo=1/0/N:2/rA:3nHOH/rB:s1;s2;/rC:-.2457,.3313,0;.4688,.7438,0;1.1832,.3313,0;",
+    "inchikey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N"
+   },
+   {
+    "species": "a3-hcl",
+    "inchi": "InChI=1S/ClH/h1H",
+    "aux": "AuxInfo=1/0/N:1/rA:2nClH/rB:s1;/rC:.7482,-.5134,0;1.5732,-.5134,0;",
+    "inchikey": "VEXZGXHMUGYJMC-UHFFFAOYSA-N"
+   }
+  ]
+ }
 ]

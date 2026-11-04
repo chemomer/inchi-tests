@@ -1,0 +1,132 @@
+[
+ {
+  "id": "sup/propane-abbrev",
+  "note": "CH3 drawn expanded and marked STY SUP + SAL + SMT: the abbreviation is metadata, not a construct - the default read skips it (plain propane, 'Ignore polymer data' warning); the -Polymers read fails the STY line and everything referencing the freed unit after it",
+  "molfile": "propane ch3 sup\n  chemomer\n\n  3  2  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   24.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   36.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  2  3  1  0\nM  STY  1   1 SUP\nM  SAL   1  2   1   2\nM  SMT   1 CH3\nM  END\n",
+  "modes": {
+   "default": {
+    "inchi": "InChI=1S/C3H8/c1-3-2/h3H2,1-2H3",
+    "aux": "AuxInfo=1/0/N:1,3,2/E:(1,2)/rA:3nCCC/rB:s1;s2;/rC:12,12,0;24,12,0;36,12,0;"
+   },
+   "polymers": {
+    "error": "Could not interpret Molfile polymer data: M  STY  1   1 SUP; M  SAL   1  2   1   2; M  SMT   1 CH3"
+   }
+  }
+ },
+ {
+  "id": "sup/two-groups",
+  "note": "two SUP abbreviations on one chain (Me over atoms 1-2, Et over atoms 4-5): no nesting semantics - both are flat atom lists; the cascade message carries both groups' lines in file order",
+  "molfile": "pentane two abbreviations\n  chemomer\n\n  5  4  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   24.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   36.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   48.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   60.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  2  3  1  0\n  3  4  1  0\n  4  5  1  0\nM  STY  1   1 SUP\nM  SAL   1  2   1   2\nM  SMT   1 Me\nM  STY  1   2 SUP\nM  SAL   2  2   4   5\nM  SMT   2 Et\nM  END\n",
+  "modes": {
+   "default": {
+    "inchi": "InChI=1S/C5H12/c1-3-5-4-2/h3-5H2,1-2H3",
+    "aux": "AuxInfo=1/0/N:1,5,2,4,3/E:(1,2)(3,4)/rA:5nCCCCC/rB:s1;s2;s3;s4;/rC:12,12,0;24,12,0;36,12,0;48,12,0;60,12,0;"
+   },
+   "polymers": {
+    "error": "Could not interpret Molfile polymer data: M  STY  1   1 SUP; M  SAL   1  2   1   2; M  SMT   1 Me; M  STY  1   2 SUP; M  SAL   2  2   4   5; M  SMT   2 Et"
+   }
+  }
+ },
+ {
+  "id": "sup/crossing-sbl",
+  "note": "an SBL bond crossing the abbreviation boundary (atom 2 in the group, atom 3 outside): under the default read the crossing bond is just a bond; under -Polymers the SBL line fails with everything else after the SUP STY",
+  "molfile": "propane abbreviation with crossing bond\n  chemomer\n\n  3  2  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   24.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   36.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  2  3  1  0\nM  STY  1   1 SUP\nM  SAL   1  2   1   2\nM  SBL   1  1   2\nM  SMT   1 Et\nM  END\n",
+  "modes": {
+   "default": {
+    "inchi": "InChI=1S/C3H8/c1-3-2/h3H2,1-2H3",
+    "aux": "AuxInfo=1/0/N:1,3,2/E:(1,2)/rA:3nCCC/rB:s1;s2;/rC:12,12,0;24,12,0;36,12,0;"
+   },
+   "polymers": {
+    "error": "Could not interpret Molfile polymer data: M  STY  1   1 SUP; M  SAL   1  2   1   2; M  SBL   1  1   2; M  SMT   1 Et"
+   }
+  }
+ },
+ {
+  "id": "sup/charged-member",
+  "note": "a charged group member (acetate COO-, M CHG -1 on the carboxylate O): charges ride the atoms as read, the abbreviation label adds nothing; default read = plain acetate /p-1",
+  "molfile": "sodium acetate abbreviation\n  chemomer\n\n  4  3  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   24.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   36.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   48.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  2  3  2  0\n  2  4  1  0\nM  CHG  1   4  -1\nM  STY  1   1 SUP\nM  SAL   1  3   2   3   4\nM  SMT   1 COO\nM  END\n",
+  "modes": {
+   "default": {
+    "inchi": "InChI=1S/C2H4O2/c1-2(3)4/h1H3,(H,3,4)/p-1",
+    "aux": "AuxInfo=1/1/N:1,2,3,4/E:(3,4)/rA:4nCCOO-/rB:s1;d2;s2;/rC:12,12,0;24,12,0;36,12,0;48,12,0;"
+   },
+   "polymers": {
+    "error": "Could not interpret Molfile polymer data: M  STY  1   1 SUP; M  SAL   1  3   2   3   4; M  SMT   1 COO"
+   }
+  }
+ },
+ {
+  "id": "sup/isotopic-member",
+  "note": "an isotopic member (13C at atom 1 via M ISO): the isotope survives into /i1+1 on the default read; the SMT label '13CH3' is inert",
+  "molfile": "13c methyl abbreviation\n  chemomer\n\n  2  1  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   24.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\nM  ISO  1   1  13\nM  STY  1   1 SUP\nM  SAL   1  1   1\nM  SMT   1 13CH3\nM  END\n",
+  "modes": {
+   "default": {
+    "inchi": "InChI=1S/C2H6/c1-2/h1-2H3/i1+1",
+    "aux": "AuxInfo=1/0/N:1,2/E:(1,2)/rA:2nC.i13C/rB:s1;/rC:12,12,0;24,12,0;"
+   },
+   "polymers": {
+    "error": "Could not interpret Molfile polymer data: M  STY  1   1 SUP; M  SAL   1  1   1; M  SMT   1 13CH3"
+   }
+  }
+ },
+ {
+  "id": "sup/mixed-sty",
+  "note": "an SRU unit and a SUP unit in one file: under -Polymers the SUP pair fails mid-line and the whole table dies (the earlier SRU unit included); polymers105 rejects with the same reader-level message",
+  "molfile": "sru + sup\n  chemomer\n\n  4  3  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   24.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   36.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   48.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  2  3  1  0\n  3  4  1  0\nM  STY  1   1 SRU\nM  SAL   1  2   1   2\nM  SBL   1  1   2\nM  SCN   1 HT\nM  STY  1   2 SUP\nM  SAL   2  2   3   4\nM  SMT   2 Et\nM  END\n",
+  "modes": {
+   "default": {
+    "inchi": "InChI=1S/C3H8O/c1-3-4-2/h3H2,1-2H3",
+    "aux": "AuxInfo=1/0/N:4,1,3,2/rA:4nCOCC/rB:s1;s2;s3;/rC:12,12,0;24,12,0;36,12,0;48,12,0;"
+   },
+   "polymers": {
+    "error": "Could not interpret Molfile polymer data: M  STY  1   2 SUP; M  SAL   2  2   3   4; M  SMT   2 Et"
+   },
+   "polymers105": {
+    "error": "Could not interpret Molfile polymer data: M  STY  1   2 SUP; M  SAL   2  2   3   4; M  SMT   2 Et"
+   }
+  }
+ },
+ {
+  "id": "sup/v3000-sgroup",
+  "note": "the V3000 flavor (BEGIN SGROUP / SUP block): the reference's V3000 reader discards SGROUP data in EVERY mode - the identifier is the plain graph under both default and -Polymers",
+  "molfile": "v3000 propane sup\n  chemomer\n\n  0  0  0  0  0  0  0  0  0  0999 V3000\nM  V30 BEGIN CTAB\nM  V30 COUNTS 3 2 0 0 0\nM  V30 BEGIN ATOM\nM  V30 1 C 12 12 0 0\nM  V30 2 C 24 12 0 0\nM  V30 3 C 36 12 0 0\nM  V30 END ATOM\nM  V30 BEGIN BOND\nM  V30 1 1 1 2\nM  V30 2 1 2 3\nM  V30 END BOND\nM  V30 BEGIN SGROUP\nM  V30 1 SUP 1 ATOMS=(2 1 2) SUBTYPE=1 MULT=3 MULT=3\nM  V30 END SGROUP\nM  V30 END CTAB\nM  END\n",
+  "modes": {
+   "default": {
+    "inchi": "InChI=1S/C3H8/c1-3-2/h3H2,1-2H3",
+    "aux": "AuxInfo=1/0/N:1,3,2/E:(1,2)/rA:3nCCC/rB:s1;s2;/rC:12,12,0;24,12,0;36,12,0;"
+   },
+   "polymers": {
+    "inchi": "InChI=1S/C3H8/c1-3-2/h3H2,1-2H3",
+    "aux": "AuxInfo=1/0/N:1,3,2/E:(1,2)/rA:3nCCC/rB:s1;s2;/rC:12,12,0;24,12,0;36,12,0;"
+   }
+  }
+ },
+ {
+  "id": "sup/sup-before-sru",
+  "note": "a SUP unit declared before a VALID SRU unit: the freed table never comes back (MolFmtSgroups_Free memsets it, Append's ReAlloc refuses the zeroed struct), so the later SRU declaration fails too and the read rejects",
+  "molfile": "sup then sru\n  chemomer\n\n  4  3  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   24.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   36.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   48.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  2  3  1  0\n  3  4  1  0\nM  STY  1   1 SUP\nM  SAL   1  2   1   2\nM  SMT   1 MeO\nM  STY  1   2 SRU\nM  SAL   2  2   3   4\nM  SBL   2  1   3\nM  SCN   2 HT\nM  END\n",
+  "modes": {
+   "default": {
+    "inchi": "InChI=1S/C3H8O/c1-3-4-2/h3H2,1-2H3",
+    "aux": "AuxInfo=1/0/N:4,1,3,2/rA:4nCOCC/rB:s1;s2;s3;/rC:12,12,0;24,12,0;36,12,0;48,12,0;"
+   },
+   "polymers": {
+    "error": "Could not interpret Molfile polymer data: M  STY  1   1 SUP; M  SAL   1  2   1   2; M  SMT   1 MeO; M  STY  1   2 SRU; M  SAL   2  2   3   4; M  SBL   2  1   3"
+   }
+  }
+ },
+ {
+  "id": "sup/slb-dead-reference",
+  "note": "a valid SRU unit plus an SLB line naming undeclared unit 9: the SLB reference fails the read under -Polymers ('Error 67'); under the default read the whole family is skipped and ethanol reads plain",
+  "molfile": "sru with undeclared slb reference\n  chemomer\n\n  3  2  0  0  0  0  0  0  0  0999 V2000\n   12.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   24.0000   12.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   36.0000   12.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  2  3  1  0\nM  STY  1   1 SRU\nM  SAL   1  2   1   2\nM  SBL   1  1   1\nM  SLB  1   9   7\nM  END\n",
+  "modes": {
+   "default": {
+    "inchi": "InChI=1S/C2H6O/c1-2-3/h3H,2H2,1H3",
+    "aux": "AuxInfo=1/0/N:1,2,3/rA:3nCCO/rB:s1;s2;/rC:12,12,0;24,12,0;36,12,0;"
+   },
+   "polymers": {
+    "error": "Could not interpret Molfile polymer data: M  SLB  1   9   7"
+   }
+  }
+ }
+]
