@@ -1,6 +1,1 @@
-{
- "identity/breadth3-487": {
-  "reason": "donotaddh aux tail, sharpened 2026-11-04 (fourth sharpening): the numbering mechanism is PORTED and the mark gate reads the mark_alt alternation state - the mark_alt BNS flow reading (ichi_bns.c BnsTestAndMarkAltBonds + SetAtomBondType's alternation state machine over the type-18-promoted deck) is ported into the gate, the c-point bond-cap raise (FIX_CPOINT_BOND_CAP) feeds it, and RemoveKnownNonStereoBondParities prunes it; the five single-mark siblings of this tranche retire byte-for-byte on it (breadth-1231's C=N, breadth2-1536's cage C=C, breadth3-333/-336's amidine N=C, breadth3-501's azo N=N). This fixture's three marks (N11=C10, N13=C12, N15=C14 of the biguanide chain) reproduce the oracle's SB-MARK list exactly, but the walk's within-class outcome still flips: ours reads the seven affected classes in one within-class order (1,23 / 5,7,17,21 / 4,8,18,20 / 6,16,3,19 / 34,24 / 9,15,11,13 / 2,22), the oracle in the mirrored one (23,1 / 17,21,5,7 / 18,20,4,8 / 16,6,19,3 / 24,34 / 15,9,13,11 / 22,2). The instrumented oracle's map_stereo_bonds4 makes ONE map_an_atom2 call for the whole fixture (from=9 to=15, rejected CT_MAPCOUNT_ERR - the endpoint ranks had already diverged) and still lands the mirrored order, so the within-class flips ride the walk's known-parity acceptance path (the parity-known branch that accepts candidate mappings and reorders through ClearPreviousMappings/CurTree without pinning) - the multi-mark walk's acceptance mechanics is the named unit.",
-  "recorded": "2026-11-04"
- }
-}
+{}
